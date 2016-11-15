@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Jobs>
+  <Job>
+    <CBUserJobID>10885BR</CBUserJobID>
+    <JobURL>https://krb-sjobs.brassring.com/TGWebHost/jobdetails.aspx?jobId=878039&amp;PartnerId=30043&amp;siteid=5724</JobURL>
+    <CBCity>Lansing</CBCity>
+    <CBState>MI</CBState>
+    <CBJobTitle>Customer Service</CBJobTitle>
+    <CBEmployeeType>JTPT</CBEmployeeType>
+    <CBContactEmail>Joel.Dillingham@regus.com</CBContactEmail>
+  </Job>
+  <Job>
+    <CBUserJobID>11664BR</CBUserJobID>
+    <JobURL>https://krb-sjobs.brassring.com/TGWebHost/jobdetails.aspx?jobId=915364&amp;PartnerId=30043&amp;siteid=5724</JobURL>
+    <CBCity>Rockaway</CBCity>
+    <CBState>NJ</CBState>
+    <CBJobTitle>Customer Service </CBJobTitle>
+    <CBEmployeeType>JTPT</CBEmployeeType>
+    <CBContactEmail>Gregory.Bubb@regus.com</CBContactEmail>
+  </Job>
+  <Job>
+    <CBUserJobID>10680BR</CBUserJobID>
+    <JobURL>https://krb-sjobs.brassring.com/TGWebHost/jobdetails.aspx?jobId=869300&amp;PartnerId=30043&amp;siteid=5724</JobURL>
+    <CBCity>Berkeley Heights</CBCity>
+    <CBState>NJ</CBState>
+    <CBJobTitle>Customer Service</CBJobTitle>
+    <CBEmployeeType>JTPT</CBEmployeeType>
+    <CBContactEmail>Jarod.Weber@regus.com</CBContactEmail>
+  </Job>
+  <Job>
+    <CBUserJobID>11150BR</CBUserJobID>
+    <JobURL>https://krb-sjobs.brassring.com/TGWebHost/jobdetails.aspx?jobId=890601&amp;PartnerId=30043&amp;siteid=5724</JobURL>
+    <CBCity>Palo Alto</CBCity>
+    <CBState>CA</CBState>
+    <CBJobTitle>Customer Service </CBJobTitle>
+    <CBEmployeeType>JTPT</CBEmployeeType>
+    <CBContactEmail>Joshua.Cooprider@regus.com</CBContactEmail>
+  </Job>
+  <Job>
+    <CBUserJobID>11194BR</CBUserJobID>
+    <JobURL>https://krb-sjobs.brassring.com/TGWebHost/jobdetails.aspx?jobId=892098&amp;PartnerId=30043&amp;siteid=5724</JobURL>
+    <CBCity>San Francisco</CBCity>
+    <CBState>CA</CBState>
+    <CBJobTitle>Customer Service </CBJobTitle>
+    <CBEmployeeType>JTPT</CBEmployeeType>
+    <CBContactEmail>Juan.Jimenez@regus.com</CBContactEmail>
+  </Job>
+  <Job>
+    <CBUserJobID>11885BR </CBUserJobID>
+    <JobURL>https://krb-sjobs.brassring.com/TGWebHost/jobdetails.aspx?jobId=926740&amp;PartnerId=30043&amp;siteid=5724</JobURL>
+    <CBCity>Berkeley  </CBCity>
+    <CBState>CA</CBState>
+    <CBJobTitle>Community Manager</CBJobTitle>
+    <CBEmployeeType>JTFT</CBEmployeeType>
+    <CBContactEmail>Cody.Gatton@regus.com</CBContactEmail>
+  </Job>
+  <Job>
+    <CBUserJobID>12078BR</CBUserJobID>
+    <JobURL>https://krb-sjobs.brassring.com/TGWebHost/jobdetails.aspx?jobId=935329&amp;PartnerId=30043&amp;siteid=5724</JobURL>
+    <CBCity>Fort Washington</CBCity>
+    <CBState>PA</CBState>
+    <CBJobTitle>Community Manager</CBJobTitle>
+    <CBEmployeeType>JTFT</CBEmployeeType>
+    <CBContactEmail>Marybeth.boyle@regus.com</CBContactEmail>
+  </Job>
+  <Job>
+    <CBUserJobID>11946BR</CBUserJobID>
+    <JobURL>https://krb-sjobs.brassring.com/TGWebHost/jobdetails.aspx?jobId=930187&amp;PartnerId=30043&amp;siteid=5724</JobURL>
+    <CBCity>Columbia</CBCity>
+    <CBState>MD</CBState>
+    <CBJobTitle>Community Manager</CBJobTitle>
+    <CBEmployeeType>JTFT</CBEmployeeType>
+    <CBContactEmail>Kimberly.hoover@regus.com</CBContactEmail>
+  </Job>
+  <Job>
+    <CBUserJobID>12151BR</CBUserJobID>
+    <JobURL>https://krb-sjobs.brassring.com/TGWebHost/jobdetails.aspx?jobId=938922&amp;PartnerId=30043&amp;siteid=5724</JobURL>
+    <CBCity>Menlo Park</CBCity>
+    <CBState>CA</CBState>
+    <CBJobTitle>Community Manager</CBJobTitle>
+    <CBEmployeeType>JTFT</CBEmployeeType>
+    <CBContactEmail>Luna.Duarte@regus.com</CBContactEmail>
+  </Job>
+  <Job>
+    <CBUserJobID>12071BR</CBUserJobID>
+    <JobURL>https://krb-sjobs.brassring.com/TGWebHost/jobdetails.aspx?jobId=932049&amp;PartnerId=30043&amp;siteid=5724</JobURL>
+    <CBCity>Buffalo</CBCity>
+    <CBState>NY</CBState>
+    <CBJobTitle>Community Manager</CBJobTitle>
+    <CBEmployeeType>JTFT</CBEmployeeType>
+    <CBContactEmail>Nick.Tucciarone@regus.com</CBContactEmail>
+  </Job>
+  <Job>
+    <CBUserJobID></CBUserJobID>
+    <JobURL></JobURL>
+    <CBCity></CBCity>
+    <CBState></CBState>
+    <CBJobTitle></CBJobTitle>
+    <CBEmployeeType></CBEmployeeType>
+    <CBContactEmail></CBContactEmail>
+  </Job>
+</Jobs>
