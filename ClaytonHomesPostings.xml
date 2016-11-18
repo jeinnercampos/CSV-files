@@ -194,6 +194,22 @@
   </Job>
   <Job>
     <RequisitionDivision>CMH SERVICES</RequisitionDivision>
+    <RequisitionID>req529</RequisitionID>
+    <RequisitionLocation>HOME-HOME OFFICE</RequisitionLocation>
+    <JobCategory>Information Technology</JobCategory>
+    <RequisitionPosition>MSSQL APPLICATIONS DBA</RequisitionPosition>
+    <RequisitionDisplayJobTitle>MS SQL Applications DBA - Maryville&amp;#44; TN</RequisitionDisplayJobTitle>
+    <RequisitionAddress1>5000 CLAYTON RD</RequisitionAddress1>
+    <RequisitionAddress2></RequisitionAddress2>
+    <RequisitionCity>MARYVILLE</RequisitionCity>
+    <RequisitionState>TN</RequisitionState>
+    <RequisitionPostalCode>37804</RequisitionPostalCode>
+    <RequisitionPrimaryOwnerFullName>Benedetti&amp;#44; Tony</RequisitionPrimaryOwnerFullName>
+    <DisplayCity>5000 CLAYTON RD &amp;#44;MARYVILLE&amp;#44;TN</DisplayCity>
+    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=529</JobURL>
+  </Job>
+  <Job>
+    <RequisitionDivision>CMH SERVICES</RequisitionDivision>
     <RequisitionID>req241</RequisitionID>
     <RequisitionLocation>HOME-HOME OFFICE</RequisitionLocation>
     <JobCategory>Information Technology</JobCategory>
@@ -338,6 +354,22 @@
   </Job>
   <Job>
     <RequisitionDivision>CMH SERVICES</RequisitionDivision>
+    <RequisitionID>req528</RequisitionID>
+    <RequisitionLocation>HOME-HOME OFFICE</RequisitionLocation>
+    <JobCategory>Information Technology</JobCategory>
+    <RequisitionPosition>WEB ENGINEER</RequisitionPosition>
+    <RequisitionDisplayJobTitle>Web Server Engineer -IIS - Maryville&amp;#44; TN</RequisitionDisplayJobTitle>
+    <RequisitionAddress1>5000 CLAYTON RD</RequisitionAddress1>
+    <RequisitionAddress2></RequisitionAddress2>
+    <RequisitionCity>MARYVILLE</RequisitionCity>
+    <RequisitionState>TN</RequisitionState>
+    <RequisitionPostalCode>37804</RequisitionPostalCode>
+    <RequisitionPrimaryOwnerFullName>TESKE&amp;#44; JESSICA</RequisitionPrimaryOwnerFullName>
+    <DisplayCity>5000 CLAYTON RD &amp;#44;MARYVILLE&amp;#44;TN</DisplayCity>
+    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=528</JobURL>
+  </Job>
+  <Job>
+    <RequisitionDivision>CMH SERVICES</RequisitionDivision>
     <RequisitionID>req126</RequisitionID>
     <RequisitionLocation>HOME-HOME OFFICE</RequisitionLocation>
     <JobCategory>Marketing</JobCategory>
@@ -466,22 +498,6 @@
   </Job>
   <Job>
     <RequisitionDivision>MANUFACTURING</RequisitionDivision>
-    <RequisitionID>req245</RequisitionID>
-    <RequisitionLocation>00934-APPALACHIA #934</RequisitionLocation>
-    <JobCategory>Manufacturing</JobCategory>
-    <RequisitionPosition>Home Building Group Team Member</RequisitionPosition>
-    <RequisitionDisplayJobTitle>Clayton Appalachia Home Building Team Member - Andersonville&amp;#44; TN</RequisitionDisplayJobTitle>
-    <RequisitionAddress1>1420 MOUNTAIN ROAD</RequisitionAddress1>
-    <RequisitionAddress2></RequisitionAddress2>
-    <RequisitionCity>ANDERSONVILLE</RequisitionCity>
-    <RequisitionState>TN</RequisitionState>
-    <RequisitionPostalCode>37705</RequisitionPostalCode>
-    <RequisitionPrimaryOwnerFullName>WOLF&amp;#44; BRENDA</RequisitionPrimaryOwnerFullName>
-    <DisplayCity>1420 MOUNTAIN ROAD &amp;#44;ANDERSONVILLE&amp;#44;TN</DisplayCity>
-    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=245</JobURL>
-  </Job>
-  <Job>
-    <RequisitionDivision>MANUFACTURING</RequisitionDivision>
     <RequisitionID>req172</RequisitionID>
     <RequisitionLocation>00952-ATHENS #952</RequisitionLocation>
     <JobCategory>Manufacturing</JobCategory>
@@ -495,6 +511,22 @@
     <RequisitionPrimaryOwnerFullName>PYTLAK&amp;#44; JEANNETTE</RequisitionPrimaryOwnerFullName>
     <DisplayCity>3429 WEST STATE HWY 31 &amp;#44;ATHENS&amp;#44;TX</DisplayCity>
     <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=172</JobURL>
+  </Job>
+  <Job>
+    <RequisitionDivision>MANUFACTURING</RequisitionDivision>
+    <RequisitionID>req245</RequisitionID>
+    <RequisitionLocation>00934-APPALACHIA #934</RequisitionLocation>
+    <JobCategory>Manufacturing</JobCategory>
+    <RequisitionPosition>Home Building Group Team Member</RequisitionPosition>
+    <RequisitionDisplayJobTitle>Clayton Appalachia Home Building Team Member - Andersonville&amp;#44; TN</RequisitionDisplayJobTitle>
+    <RequisitionAddress1>1420 MOUNTAIN ROAD</RequisitionAddress1>
+    <RequisitionAddress2></RequisitionAddress2>
+    <RequisitionCity>ANDERSONVILLE</RequisitionCity>
+    <RequisitionState>TN</RequisitionState>
+    <RequisitionPostalCode>37705</RequisitionPostalCode>
+    <RequisitionPrimaryOwnerFullName>WOLF&amp;#44; BRENDA</RequisitionPrimaryOwnerFullName>
+    <DisplayCity>1420 MOUNTAIN ROAD &amp;#44;ANDERSONVILLE&amp;#44;TN</DisplayCity>
+    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=245</JobURL>
   </Job>
   <Job>
     <RequisitionDivision>MANUFACTURING</RequisitionDivision>
@@ -562,19 +594,19 @@
   </Job>
   <Job>
     <RequisitionDivision>RETAIL</RequisitionDivision>
-    <RequisitionID>req103</RequisitionID>
-    <RequisitionLocation>00031-CLAYTON HOMES #31</RequisitionLocation>
+    <RequisitionID>req410</RequisitionID>
+    <RequisitionLocation>00070-CLAYTON HOMES #70</RequisitionLocation>
     <JobCategory>Installation&amp;#44; Maintenance&amp;#44; Repair</JobCategory>
     <RequisitionPosition>MAINTENANCE</RequisitionPosition>
-    <RequisitionDisplayJobTitle>Clayton Homes Maintenance - Knoxville&amp;#44; TN</RequisitionDisplayJobTitle>
-    <RequisitionAddress1>4606 CLINTON HIGHWAY</RequisitionAddress1>
+    <RequisitionDisplayJobTitle>Clayton Homes Part -Time Maintenance - Charlottesville&amp;#44; VA</RequisitionDisplayJobTitle>
+    <RequisitionAddress1>4301 SEMINOLE TRAIL</RequisitionAddress1>
     <RequisitionAddress2></RequisitionAddress2>
-    <RequisitionCity>KNOXVILLE</RequisitionCity>
-    <RequisitionState>TN</RequisitionState>
-    <RequisitionPostalCode>37912</RequisitionPostalCode>
-    <RequisitionPrimaryOwnerFullName>HAGOOD&amp;#44; MICHAEL</RequisitionPrimaryOwnerFullName>
-    <DisplayCity>4606 CLINTON HIGHWAY &amp;#44;KNOXVILLE&amp;#44;TN</DisplayCity>
-    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=103</JobURL>
+    <RequisitionCity>CHARLOTTESVILLE</RequisitionCity>
+    <RequisitionState>VA</RequisitionState>
+    <RequisitionPostalCode>22911</RequisitionPostalCode>
+    <RequisitionPrimaryOwnerFullName>WILLIAMS&amp;#44; JOHN</RequisitionPrimaryOwnerFullName>
+    <DisplayCity>4301 SEMINOLE TRAIL &amp;#44;CHARLOTTESVILLE&amp;#44;VA</DisplayCity>
+    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=410</JobURL>
   </Job>
   <Job>
     <RequisitionDivision>RETAIL</RequisitionDivision>
@@ -591,38 +623,6 @@
     <RequisitionPrimaryOwnerFullName>DAUGHERTY&amp;#44; CRYSTAL</RequisitionPrimaryOwnerFullName>
     <DisplayCity>7500 COLISEUM BLVD &amp;#44;ALEXANDRIA&amp;#44;LA</DisplayCity>
     <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=395</JobURL>
-  </Job>
-  <Job>
-    <RequisitionDivision>RETAIL</RequisitionDivision>
-    <RequisitionID>req230</RequisitionID>
-    <RequisitionLocation>00343-CLAYTON HOMES #343</RequisitionLocation>
-    <JobCategory>Installation&amp;#44; Maintenance&amp;#44; Repair</JobCategory>
-    <RequisitionPosition>MAINTENANCE</RequisitionPosition>
-    <RequisitionDisplayJobTitle>Clayton Homes Maintenance - Dalton&amp;#44; GA</RequisitionDisplayJobTitle>
-    <RequisitionAddress1>3644 CHATSWORTH HWY&amp;#44; S E</RequisitionAddress1>
-    <RequisitionAddress2></RequisitionAddress2>
-    <RequisitionCity>DALTON</RequisitionCity>
-    <RequisitionState>GA</RequisitionState>
-    <RequisitionPostalCode>30721</RequisitionPostalCode>
-    <RequisitionPrimaryOwnerFullName>HAGOOD&amp;#44; MICHAEL</RequisitionPrimaryOwnerFullName>
-    <DisplayCity>3644 CHATSWORTH HWY&amp;#44; S E &amp;#44;DALTON&amp;#44;GA</DisplayCity>
-    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=230</JobURL>
-  </Job>
-  <Job>
-    <RequisitionDivision>RETAIL</RequisitionDivision>
-    <RequisitionID>req410</RequisitionID>
-    <RequisitionLocation>00070-CLAYTON HOMES #70</RequisitionLocation>
-    <JobCategory>Installation&amp;#44; Maintenance&amp;#44; Repair</JobCategory>
-    <RequisitionPosition>MAINTENANCE</RequisitionPosition>
-    <RequisitionDisplayJobTitle>Clayton Homes Part -Time Maintenance - Charlottesville&amp;#44; VA</RequisitionDisplayJobTitle>
-    <RequisitionAddress1>4301 SEMINOLE TRAIL</RequisitionAddress1>
-    <RequisitionAddress2></RequisitionAddress2>
-    <RequisitionCity>CHARLOTTESVILLE</RequisitionCity>
-    <RequisitionState>VA</RequisitionState>
-    <RequisitionPostalCode>22911</RequisitionPostalCode>
-    <RequisitionPrimaryOwnerFullName>WILLIAMS&amp;#44; JOHN</RequisitionPrimaryOwnerFullName>
-    <DisplayCity>4301 SEMINOLE TRAIL &amp;#44;CHARLOTTESVILLE&amp;#44;VA</DisplayCity>
-    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=410</JobURL>
   </Job>
   <Job>
     <RequisitionDivision>RETAIL</RequisitionDivision>
@@ -658,22 +658,6 @@
   </Job>
   <Job>
     <RequisitionDivision>RETAIL</RequisitionDivision>
-    <RequisitionID>req214</RequisitionID>
-    <RequisitionLocation>00821-FREEDOM HOMES #821</RequisitionLocation>
-    <JobCategory>Installation&amp;#44; Maintenance&amp;#44; Repair</JobCategory>
-    <RequisitionPosition>SERVICE TECHNICIAN</RequisitionPosition>
-    <RequisitionDisplayJobTitle>Freedom Homes Service Technician - Opelika&amp;#44; AL</RequisitionDisplayJobTitle>
-    <RequisitionAddress1>1900 COLUMBUS PARKWAY</RequisitionAddress1>
-    <RequisitionAddress2></RequisitionAddress2>
-    <RequisitionCity>OPELIKA</RequisitionCity>
-    <RequisitionState>AL</RequisitionState>
-    <RequisitionPostalCode>36801</RequisitionPostalCode>
-    <RequisitionPrimaryOwnerFullName>HAGOOD&amp;#44; MICHAEL</RequisitionPrimaryOwnerFullName>
-    <DisplayCity>1900 COLUMBUS PARKWAY &amp;#44;OPELIKA&amp;#44;AL</DisplayCity>
-    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=214</JobURL>
-  </Job>
-  <Job>
-    <RequisitionDivision>RETAIL</RequisitionDivision>
     <RequisitionID>req188</RequisitionID>
     <RequisitionLocation>00833-CLAYTON HOMES #833</RequisitionLocation>
     <JobCategory>Installation&amp;#44; Maintenance&amp;#44; Repair</JobCategory>
@@ -706,22 +690,6 @@
   </Job>
   <Job>
     <RequisitionDivision>RETAIL</RequisitionDivision>
-    <RequisitionID>req110</RequisitionID>
-    <RequisitionLocation>00277-CLAYTON HOMES #277</RequisitionLocation>
-    <JobCategory>Installation&amp;#44; Maintenance&amp;#44; Repair</JobCategory>
-    <RequisitionPosition>SERVICE TECHNICIAN</RequisitionPosition>
-    <RequisitionDisplayJobTitle>Clayton Homes Service Technician - Evans&amp;#44; CO</RequisitionDisplayJobTitle>
-    <RequisitionAddress1>3455 WEST SERVICE ROAD</RequisitionAddress1>
-    <RequisitionAddress2></RequisitionAddress2>
-    <RequisitionCity>EVANS</RequisitionCity>
-    <RequisitionState>CO</RequisitionState>
-    <RequisitionPostalCode>80620</RequisitionPostalCode>
-    <RequisitionPrimaryOwnerFullName>DICKSON&amp;#44; DAMON</RequisitionPrimaryOwnerFullName>
-    <DisplayCity>3455 WEST SERVICE ROAD &amp;#44;EVANS&amp;#44;CO</DisplayCity>
-    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=110</JobURL>
-  </Job>
-  <Job>
-    <RequisitionDivision>RETAIL</RequisitionDivision>
     <RequisitionID>req101</RequisitionID>
     <RequisitionLocation>00307-CLAYTON HOMES #307</RequisitionLocation>
     <JobCategory>Installation&amp;#44; Maintenance&amp;#44; Repair</JobCategory>
@@ -735,6 +703,22 @@
     <RequisitionPrimaryOwnerFullName>WILLIAMS&amp;#44; JOHN</RequisitionPrimaryOwnerFullName>
     <DisplayCity>4810 CLEBURNE BLVD &amp;#44;DUBLIN&amp;#44;VA</DisplayCity>
     <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=101</JobURL>
+  </Job>
+  <Job>
+    <RequisitionDivision>RETAIL</RequisitionDivision>
+    <RequisitionID>req110</RequisitionID>
+    <RequisitionLocation>00277-CLAYTON HOMES #277</RequisitionLocation>
+    <JobCategory>Installation&amp;#44; Maintenance&amp;#44; Repair</JobCategory>
+    <RequisitionPosition>SERVICE TECHNICIAN</RequisitionPosition>
+    <RequisitionDisplayJobTitle>Clayton Homes Service Technician - Evans&amp;#44; CO</RequisitionDisplayJobTitle>
+    <RequisitionAddress1>3455 WEST SERVICE ROAD</RequisitionAddress1>
+    <RequisitionAddress2></RequisitionAddress2>
+    <RequisitionCity>EVANS</RequisitionCity>
+    <RequisitionState>CO</RequisitionState>
+    <RequisitionPostalCode>80620</RequisitionPostalCode>
+    <RequisitionPrimaryOwnerFullName>DICKSON&amp;#44; DAMON</RequisitionPrimaryOwnerFullName>
+    <DisplayCity>3455 WEST SERVICE ROAD &amp;#44;EVANS&amp;#44;CO</DisplayCity>
+    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=110</JobURL>
   </Job>
   <Job>
     <RequisitionDivision>RETAIL</RequisitionDivision>
@@ -786,51 +770,19 @@
   </Job>
   <Job>
     <RequisitionDivision>RETAIL</RequisitionDivision>
-    <RequisitionID>req394</RequisitionID>
-    <RequisitionLocation>00291-CLAYTON HOMES #291</RequisitionLocation>
+    <RequisitionID>req433</RequisitionID>
+    <RequisitionLocation>01072-CLAYTON HOMES #1072</RequisitionLocation>
     <JobCategory>Installation&amp;#44; Maintenance&amp;#44; Repair</JobCategory>
     <RequisitionPosition>SERVICE TECHNICIAN</RequisitionPosition>
-    <RequisitionDisplayJobTitle>Clayton Homes Service Technician - Kodak&amp;#44; TN</RequisitionDisplayJobTitle>
-    <RequisitionAddress1>3110 WINFIELD DUNN PARKWAY HWY 66</RequisitionAddress1>
+    <RequisitionDisplayJobTitle>Clayton Homes Service Technician - Alvin&amp;#44; Tx</RequisitionDisplayJobTitle>
+    <RequisitionAddress1>23378 STATE HWY 6</RequisitionAddress1>
     <RequisitionAddress2></RequisitionAddress2>
-    <RequisitionCity>KODAK</RequisitionCity>
-    <RequisitionState>TN</RequisitionState>
-    <RequisitionPostalCode>37764</RequisitionPostalCode>
-    <RequisitionPrimaryOwnerFullName>HAGOOD&amp;#44; MICHAEL</RequisitionPrimaryOwnerFullName>
-    <DisplayCity>3110 WINFIELD DUNN PARKWAY HWY 66 &amp;#44;KODAK&amp;#44;TN</DisplayCity>
-    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=394</JobURL>
-  </Job>
-  <Job>
-    <RequisitionDivision>RETAIL</RequisitionDivision>
-    <RequisitionID>req382</RequisitionID>
-    <RequisitionLocation>00739-CLAYTON HOMES #739</RequisitionLocation>
-    <JobCategory>Installation&amp;#44; Maintenance&amp;#44; Repair</JobCategory>
-    <RequisitionPosition>SERVICE TECHNICIAN</RequisitionPosition>
-    <RequisitionDisplayJobTitle>Clayton Homes Service Technician - Denver&amp;#44; CO</RequisitionDisplayJobTitle>
-    <RequisitionAddress1>6199 NORTH FEDERAL BLVD</RequisitionAddress1>
-    <RequisitionAddress2></RequisitionAddress2>
-    <RequisitionCity>DENVER</RequisitionCity>
-    <RequisitionState>CO</RequisitionState>
-    <RequisitionPostalCode>80221</RequisitionPostalCode>
-    <RequisitionPrimaryOwnerFullName>DICKSON&amp;#44; DAMON</RequisitionPrimaryOwnerFullName>
-    <DisplayCity>6199 NORTH FEDERAL BLVD &amp;#44;DENVER&amp;#44;CO</DisplayCity>
-    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=382</JobURL>
-  </Job>
-  <Job>
-    <RequisitionDivision>RETAIL</RequisitionDivision>
-    <RequisitionID>req386</RequisitionID>
-    <RequisitionLocation>00095-CLAYTON HOMES #95</RequisitionLocation>
-    <JobCategory>Installation&amp;#44; Maintenance&amp;#44; Repair</JobCategory>
-    <RequisitionPosition>SERVICE TECHNICIAN</RequisitionPosition>
-    <RequisitionDisplayJobTitle>Clayton Homes Service Technician - Candler&amp;#44; NC</RequisitionDisplayJobTitle>
-    <RequisitionAddress1>1123 SMOKEY PARK HWY</RequisitionAddress1>
-    <RequisitionAddress2>SMOKEY PARKWAY</RequisitionAddress2>
-    <RequisitionCity>CANDLER</RequisitionCity>
-    <RequisitionState>NC</RequisitionState>
-    <RequisitionPostalCode>28715</RequisitionPostalCode>
-    <RequisitionPrimaryOwnerFullName>HINSON&amp;#44; HANNAH</RequisitionPrimaryOwnerFullName>
-    <DisplayCity>1123 SMOKEY PARK HWY SMOKEY PARKWAY&amp;#44;CANDLER&amp;#44;NC</DisplayCity>
-    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=386</JobURL>
+    <RequisitionCity>ALVIN</RequisitionCity>
+    <RequisitionState>TX</RequisitionState>
+    <RequisitionPostalCode>77511</RequisitionPostalCode>
+    <RequisitionPrimaryOwnerFullName>CHILES&amp;#44; SUE</RequisitionPrimaryOwnerFullName>
+    <DisplayCity>23378 STATE HWY 6 &amp;#44;ALVIN&amp;#44;TX</DisplayCity>
+    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=433</JobURL>
   </Job>
   <Job>
     <RequisitionDivision>RETAIL</RequisitionDivision>
@@ -850,19 +802,19 @@
   </Job>
   <Job>
     <RequisitionDivision>RETAIL</RequisitionDivision>
-    <RequisitionID>req329</RequisitionID>
-    <RequisitionLocation>00077-CLAYTON HOMES #77</RequisitionLocation>
+    <RequisitionID>req394</RequisitionID>
+    <RequisitionLocation>00291-CLAYTON HOMES #291</RequisitionLocation>
     <JobCategory>Installation&amp;#44; Maintenance&amp;#44; Repair</JobCategory>
     <RequisitionPosition>SERVICE TECHNICIAN</RequisitionPosition>
-    <RequisitionDisplayJobTitle>Clayton Homes Service Technician - Chester&amp;#44; VA</RequisitionDisplayJobTitle>
-    <RequisitionAddress1>11716 JEFFERSON DAVIS HIGHWAY</RequisitionAddress1>
+    <RequisitionDisplayJobTitle>Clayton Homes Service Technician - Kodak&amp;#44; TN</RequisitionDisplayJobTitle>
+    <RequisitionAddress1>3110 WINFIELD DUNN PARKWAY HWY 66</RequisitionAddress1>
     <RequisitionAddress2></RequisitionAddress2>
-    <RequisitionCity>CHESTER</RequisitionCity>
-    <RequisitionState>VA</RequisitionState>
-    <RequisitionPostalCode>23831</RequisitionPostalCode>
-    <RequisitionPrimaryOwnerFullName>WILLIAMS&amp;#44; JOHN</RequisitionPrimaryOwnerFullName>
-    <DisplayCity>11716 JEFFERSON DAVIS HIGHWAY &amp;#44;CHESTER&amp;#44;VA</DisplayCity>
-    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=329</JobURL>
+    <RequisitionCity>KODAK</RequisitionCity>
+    <RequisitionState>TN</RequisitionState>
+    <RequisitionPostalCode>37764</RequisitionPostalCode>
+    <RequisitionPrimaryOwnerFullName>HAGOOD&amp;#44; MICHAEL</RequisitionPrimaryOwnerFullName>
+    <DisplayCity>3110 WINFIELD DUNN PARKWAY HWY 66 &amp;#44;KODAK&amp;#44;TN</DisplayCity>
+    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=394</JobURL>
   </Job>
   <Job>
     <RequisitionDivision>RETAIL</RequisitionDivision>
@@ -895,6 +847,22 @@
     <RequisitionPrimaryOwnerFullName>WILLIAMS&amp;#44; JOHN</RequisitionPrimaryOwnerFullName>
     <DisplayCity>5924 E. SENECA STREET &amp;#44;VERNON&amp;#44;NY</DisplayCity>
     <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=340</JobURL>
+  </Job>
+  <Job>
+    <RequisitionDivision>RETAIL</RequisitionDivision>
+    <RequisitionID>req382</RequisitionID>
+    <RequisitionLocation>00739-CLAYTON HOMES #739</RequisitionLocation>
+    <JobCategory>Installation&amp;#44; Maintenance&amp;#44; Repair</JobCategory>
+    <RequisitionPosition>SERVICE TECHNICIAN</RequisitionPosition>
+    <RequisitionDisplayJobTitle>Clayton Homes Service Technician - Denver&amp;#44; CO</RequisitionDisplayJobTitle>
+    <RequisitionAddress1>6199 NORTH FEDERAL BLVD</RequisitionAddress1>
+    <RequisitionAddress2></RequisitionAddress2>
+    <RequisitionCity>DENVER</RequisitionCity>
+    <RequisitionState>CO</RequisitionState>
+    <RequisitionPostalCode>80221</RequisitionPostalCode>
+    <RequisitionPrimaryOwnerFullName>DICKSON&amp;#44; DAMON</RequisitionPrimaryOwnerFullName>
+    <DisplayCity>6199 NORTH FEDERAL BLVD &amp;#44;DENVER&amp;#44;CO</DisplayCity>
+    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=382</JobURL>
   </Job>
   <Job>
     <RequisitionDivision>RETAIL</RequisitionDivision>
@@ -962,35 +930,19 @@
   </Job>
   <Job>
     <RequisitionDivision>RETAIL</RequisitionDivision>
-    <RequisitionID>req433</RequisitionID>
-    <RequisitionLocation>01072-CLAYTON HOMES #1072</RequisitionLocation>
+    <RequisitionID>req329</RequisitionID>
+    <RequisitionLocation>00077-CLAYTON HOMES #77</RequisitionLocation>
     <JobCategory>Installation&amp;#44; Maintenance&amp;#44; Repair</JobCategory>
     <RequisitionPosition>SERVICE TECHNICIAN</RequisitionPosition>
-    <RequisitionDisplayJobTitle>Clayton Homes Service Technician - Alvin&amp;#44; Tx</RequisitionDisplayJobTitle>
-    <RequisitionAddress1>23378 STATE HWY 6</RequisitionAddress1>
+    <RequisitionDisplayJobTitle>Clayton Homes Service Technician - Chester&amp;#44; VA</RequisitionDisplayJobTitle>
+    <RequisitionAddress1>11716 JEFFERSON DAVIS HIGHWAY</RequisitionAddress1>
     <RequisitionAddress2></RequisitionAddress2>
-    <RequisitionCity>ALVIN</RequisitionCity>
-    <RequisitionState>TX</RequisitionState>
-    <RequisitionPostalCode>77511</RequisitionPostalCode>
-    <RequisitionPrimaryOwnerFullName>CHILES&amp;#44; SUE</RequisitionPrimaryOwnerFullName>
-    <DisplayCity>23378 STATE HWY 6 &amp;#44;ALVIN&amp;#44;TX</DisplayCity>
-    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=433</JobURL>
-  </Job>
-  <Job>
-    <RequisitionDivision>RETAIL</RequisitionDivision>
-    <RequisitionID>req453</RequisitionID>
-    <RequisitionLocation>00270-CLAYTON HOMES #270</RequisitionLocation>
-    <JobCategory>Installation&amp;#44; Maintenance&amp;#44; Repair</JobCategory>
-    <RequisitionPosition>SERVICE TECHNICIAN</RequisitionPosition>
-    <RequisitionDisplayJobTitle>Clayton Homes Service Technician - Bossier City&amp;#44; LA</RequisitionDisplayJobTitle>
-    <RequisitionAddress1>3730 EAST TEXAS STREET</RequisitionAddress1>
-    <RequisitionAddress2></RequisitionAddress2>
-    <RequisitionCity>BOSSIER CITY</RequisitionCity>
-    <RequisitionState>LA</RequisitionState>
-    <RequisitionPostalCode>71111</RequisitionPostalCode>
-    <RequisitionPrimaryOwnerFullName>CHILES&amp;#44; SUE</RequisitionPrimaryOwnerFullName>
-    <DisplayCity>3730 EAST TEXAS STREET &amp;#44;BOSSIER CITY&amp;#44;LA</DisplayCity>
-    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=453</JobURL>
+    <RequisitionCity>CHESTER</RequisitionCity>
+    <RequisitionState>VA</RequisitionState>
+    <RequisitionPostalCode>23831</RequisitionPostalCode>
+    <RequisitionPrimaryOwnerFullName>WILLIAMS&amp;#44; JOHN</RequisitionPrimaryOwnerFullName>
+    <DisplayCity>11716 JEFFERSON DAVIS HIGHWAY &amp;#44;CHESTER&amp;#44;VA</DisplayCity>
+    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=329</JobURL>
   </Job>
   <Job>
     <RequisitionDivision>RETAIL</RequisitionDivision>
@@ -1026,6 +978,22 @@
   </Job>
   <Job>
     <RequisitionDivision>RETAIL</RequisitionDivision>
+    <RequisitionID>req453</RequisitionID>
+    <RequisitionLocation>00270-CLAYTON HOMES #270</RequisitionLocation>
+    <JobCategory>Installation&amp;#44; Maintenance&amp;#44; Repair</JobCategory>
+    <RequisitionPosition>SERVICE TECHNICIAN</RequisitionPosition>
+    <RequisitionDisplayJobTitle>Clayton Homes Service Technician - Bossier City&amp;#44; LA</RequisitionDisplayJobTitle>
+    <RequisitionAddress1>3730 EAST TEXAS STREET</RequisitionAddress1>
+    <RequisitionAddress2></RequisitionAddress2>
+    <RequisitionCity>BOSSIER CITY</RequisitionCity>
+    <RequisitionState>LA</RequisitionState>
+    <RequisitionPostalCode>71111</RequisitionPostalCode>
+    <RequisitionPrimaryOwnerFullName>CHILES&amp;#44; SUE</RequisitionPrimaryOwnerFullName>
+    <DisplayCity>3730 EAST TEXAS STREET &amp;#44;BOSSIER CITY&amp;#44;LA</DisplayCity>
+    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=453</JobURL>
+  </Job>
+  <Job>
+    <RequisitionDivision>RETAIL</RequisitionDivision>
     <RequisitionID>req482</RequisitionID>
     <RequisitionLocation>00251-CLAYTON HOMES #251</RequisitionLocation>
     <JobCategory>Installation&amp;#44; Maintenance&amp;#44; Repair</JobCategory>
@@ -1055,38 +1023,6 @@
     <RequisitionPrimaryOwnerFullName>KEMP&amp;#44; JENNIFER</RequisitionPrimaryOwnerFullName>
     <DisplayCity>5960 US HWY 60 WEST &amp;#44;PADUCAH&amp;#44;KY</DisplayCity>
     <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=485</JobURL>
-  </Job>
-  <Job>
-    <RequisitionDivision>RETAIL</RequisitionDivision>
-    <RequisitionID>req505</RequisitionID>
-    <RequisitionLocation>00090-CLAYTON HOMES #90</RequisitionLocation>
-    <JobCategory>Installation&amp;#44; Maintenance&amp;#44; Repair</JobCategory>
-    <RequisitionPosition>SERVICE TECHNICIAN</RequisitionPosition>
-    <RequisitionDisplayJobTitle>Clayton Homes Service Technician- Harrisonburg&amp;#44;VA</RequisitionDisplayJobTitle>
-    <RequisitionAddress1>3820 SOUTH MAIN STREET</RequisitionAddress1>
-    <RequisitionAddress2></RequisitionAddress2>
-    <RequisitionCity>HARRISONBURG</RequisitionCity>
-    <RequisitionState>VA</RequisitionState>
-    <RequisitionPostalCode>22801</RequisitionPostalCode>
-    <RequisitionPrimaryOwnerFullName>WILLIAMS&amp;#44; JOHN</RequisitionPrimaryOwnerFullName>
-    <DisplayCity>3820 SOUTH MAIN STREET &amp;#44;HARRISONBURG&amp;#44;VA</DisplayCity>
-    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=505</JobURL>
-  </Job>
-  <Job>
-    <RequisitionDivision>RETAIL</RequisitionDivision>
-    <RequisitionID>req507</RequisitionID>
-    <RequisitionLocation>00085-CLAYTON HOMES #85</RequisitionLocation>
-    <JobCategory>Installation&amp;#44; Maintenance&amp;#44; Repair</JobCategory>
-    <RequisitionPosition>SERVICE TECHNICIAN</RequisitionPosition>
-    <RequisitionDisplayJobTitle>Clayton Homes Service Technician - Weber City&amp;#44; VA</RequisitionDisplayJobTitle>
-    <RequisitionAddress1>527 STATE LINE CIRCLE</RequisitionAddress1>
-    <RequisitionAddress2></RequisitionAddress2>
-    <RequisitionCity>WEBER CITY</RequisitionCity>
-    <RequisitionState>VA</RequisitionState>
-    <RequisitionPostalCode>24290</RequisitionPostalCode>
-    <RequisitionPrimaryOwnerFullName>WILLIAMS&amp;#44; JOHN</RequisitionPrimaryOwnerFullName>
-    <DisplayCity>527 STATE LINE CIRCLE &amp;#44;WEBER CITY&amp;#44;VA</DisplayCity>
-    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=507</JobURL>
   </Job>
   <Job>
     <RequisitionDivision>RETAIL</RequisitionDivision>
@@ -1138,51 +1074,35 @@
   </Job>
   <Job>
     <RequisitionDivision>RETAIL</RequisitionDivision>
-    <RequisitionID>req342</RequisitionID>
-    <RequisitionLocation>01030-CLAYTON HOMES #1030</RequisitionLocation>
-    <JobCategory>Management</JobCategory>
-    <RequisitionPosition>FIELD MIT</RequisitionPosition>
-    <RequisitionDisplayJobTitle>Clayton Homes Manager in Training - St Albans&amp;#44; WV</RequisitionDisplayJobTitle>
-    <RequisitionAddress1>739 WINFIELD ROAD</RequisitionAddress1>
+    <RequisitionID>req505</RequisitionID>
+    <RequisitionLocation>00090-CLAYTON HOMES #90</RequisitionLocation>
+    <JobCategory>Installation&amp;#44; Maintenance&amp;#44; Repair</JobCategory>
+    <RequisitionPosition>SERVICE TECHNICIAN</RequisitionPosition>
+    <RequisitionDisplayJobTitle>Clayton Homes Service Technician- Harrisonburg&amp;#44;VA</RequisitionDisplayJobTitle>
+    <RequisitionAddress1>3820 SOUTH MAIN STREET</RequisitionAddress1>
     <RequisitionAddress2></RequisitionAddress2>
-    <RequisitionCity>ST ALBANS</RequisitionCity>
-    <RequisitionState>WV</RequisitionState>
-    <RequisitionPostalCode>25177</RequisitionPostalCode>
-    <RequisitionPrimaryOwnerFullName>KEMP&amp;#44; JENNIFER</RequisitionPrimaryOwnerFullName>
-    <DisplayCity>739 WINFIELD ROAD &amp;#44;ST ALBANS&amp;#44;WV</DisplayCity>
-    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=342</JobURL>
+    <RequisitionCity>HARRISONBURG</RequisitionCity>
+    <RequisitionState>VA</RequisitionState>
+    <RequisitionPostalCode>22801</RequisitionPostalCode>
+    <RequisitionPrimaryOwnerFullName>WILLIAMS&amp;#44; JOHN</RequisitionPrimaryOwnerFullName>
+    <DisplayCity>3820 SOUTH MAIN STREET &amp;#44;HARRISONBURG&amp;#44;VA</DisplayCity>
+    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=505</JobURL>
   </Job>
   <Job>
     <RequisitionDivision>RETAIL</RequisitionDivision>
-    <RequisitionID>req333</RequisitionID>
-    <RequisitionLocation>00289-CLAYTON HOMES #289</RequisitionLocation>
-    <JobCategory>Management</JobCategory>
-    <RequisitionPosition>FIELD MIT</RequisitionPosition>
-    <RequisitionDisplayJobTitle>Clayton Homes Manager in Training - Belpre&amp;#44; OH</RequisitionDisplayJobTitle>
-    <RequisitionAddress1>57 AYERS BLVD</RequisitionAddress1>
+    <RequisitionID>req507</RequisitionID>
+    <RequisitionLocation>00085-CLAYTON HOMES #85</RequisitionLocation>
+    <JobCategory>Installation&amp;#44; Maintenance&amp;#44; Repair</JobCategory>
+    <RequisitionPosition>SERVICE TECHNICIAN</RequisitionPosition>
+    <RequisitionDisplayJobTitle>Clayton Homes Service Technician - Weber City&amp;#44; VA</RequisitionDisplayJobTitle>
+    <RequisitionAddress1>527 STATE LINE CIRCLE</RequisitionAddress1>
     <RequisitionAddress2></RequisitionAddress2>
-    <RequisitionCity>BELPRE</RequisitionCity>
-    <RequisitionState>OH</RequisitionState>
-    <RequisitionPostalCode>45714</RequisitionPostalCode>
-    <RequisitionPrimaryOwnerFullName>KEMP&amp;#44; JENNIFER</RequisitionPrimaryOwnerFullName>
-    <DisplayCity>57 AYERS BLVD &amp;#44;BELPRE&amp;#44;OH</DisplayCity>
-    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=333</JobURL>
-  </Job>
-  <Job>
-    <RequisitionDivision>RETAIL</RequisitionDivision>
-    <RequisitionID>req336</RequisitionID>
-    <RequisitionLocation>01026-CLAYTON HOMES #1026</RequisitionLocation>
-    <JobCategory>Management</JobCategory>
-    <RequisitionPosition>FIELD MIT</RequisitionPosition>
-    <RequisitionDisplayJobTitle>Clayton Homes Manager in Training -Turtle Creek&amp;#44; WV</RequisitionDisplayJobTitle>
-    <RequisitionAddress1>ROUTE 119 NORTH</RequisitionAddress1>
-    <RequisitionAddress2>P.O BOX 100</RequisitionAddress2>
-    <RequisitionCity>TURTLE CREEK</RequisitionCity>
-    <RequisitionState>WV</RequisitionState>
-    <RequisitionPostalCode>25203</RequisitionPostalCode>
-    <RequisitionPrimaryOwnerFullName>KEMP&amp;#44; JENNIFER</RequisitionPrimaryOwnerFullName>
-    <DisplayCity>ROUTE 119 NORTH P.O BOX 100&amp;#44;TURTLE CREEK&amp;#44;WV</DisplayCity>
-    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=336</JobURL>
+    <RequisitionCity>WEBER CITY</RequisitionCity>
+    <RequisitionState>VA</RequisitionState>
+    <RequisitionPostalCode>24290</RequisitionPostalCode>
+    <RequisitionPrimaryOwnerFullName>WILLIAMS&amp;#44; JOHN</RequisitionPrimaryOwnerFullName>
+    <DisplayCity>527 STATE LINE CIRCLE &amp;#44;WEBER CITY&amp;#44;VA</DisplayCity>
+    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=507</JobURL>
   </Job>
   <Job>
     <RequisitionDivision>RETAIL</RequisitionDivision>
@@ -1202,19 +1122,51 @@
   </Job>
   <Job>
     <RequisitionDivision>RETAIL</RequisitionDivision>
-    <RequisitionID>req451</RequisitionID>
-    <RequisitionLocation>00609-FREEDOM HOMES #609</RequisitionLocation>
-    <JobCategory>Office and Administrative Support</JobCategory>
-    <RequisitionPosition>ADMIN</RequisitionPosition>
-    <RequisitionDisplayJobTitle>Freedom Homes Admin - Donaldsonville&amp;#44; LA</RequisitionDisplayJobTitle>
-    <RequisitionAddress1>2393 HIGHWAY 70</RequisitionAddress1>
+    <RequisitionID>req336</RequisitionID>
+    <RequisitionLocation>01026-CLAYTON HOMES #1026</RequisitionLocation>
+    <JobCategory>Management</JobCategory>
+    <RequisitionPosition>FIELD MIT</RequisitionPosition>
+    <RequisitionDisplayJobTitle>Clayton Homes Manager in Training -Turtle Creek&amp;#44; WV</RequisitionDisplayJobTitle>
+    <RequisitionAddress1>ROUTE 119 NORTH</RequisitionAddress1>
+    <RequisitionAddress2>P.O BOX 100</RequisitionAddress2>
+    <RequisitionCity>TURTLE CREEK</RequisitionCity>
+    <RequisitionState>WV</RequisitionState>
+    <RequisitionPostalCode>25203</RequisitionPostalCode>
+    <RequisitionPrimaryOwnerFullName>KEMP&amp;#44; JENNIFER</RequisitionPrimaryOwnerFullName>
+    <DisplayCity>ROUTE 119 NORTH P.O BOX 100&amp;#44;TURTLE CREEK&amp;#44;WV</DisplayCity>
+    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=336</JobURL>
+  </Job>
+  <Job>
+    <RequisitionDivision>RETAIL</RequisitionDivision>
+    <RequisitionID>req333</RequisitionID>
+    <RequisitionLocation>00289-CLAYTON HOMES #289</RequisitionLocation>
+    <JobCategory>Management</JobCategory>
+    <RequisitionPosition>FIELD MIT</RequisitionPosition>
+    <RequisitionDisplayJobTitle>Clayton Homes Manager in Training - Belpre&amp;#44; OH</RequisitionDisplayJobTitle>
+    <RequisitionAddress1>57 AYERS BLVD</RequisitionAddress1>
     <RequisitionAddress2></RequisitionAddress2>
-    <RequisitionCity>DONALDSONVILLE</RequisitionCity>
-    <RequisitionState>LA</RequisitionState>
-    <RequisitionPostalCode>70346</RequisitionPostalCode>
-    <RequisitionPrimaryOwnerFullName>CHILES&amp;#44; SUE</RequisitionPrimaryOwnerFullName>
-    <DisplayCity>2393 HIGHWAY 70 &amp;#44;DONALDSONVILLE&amp;#44;LA</DisplayCity>
-    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=451</JobURL>
+    <RequisitionCity>BELPRE</RequisitionCity>
+    <RequisitionState>OH</RequisitionState>
+    <RequisitionPostalCode>45714</RequisitionPostalCode>
+    <RequisitionPrimaryOwnerFullName>KEMP&amp;#44; JENNIFER</RequisitionPrimaryOwnerFullName>
+    <DisplayCity>57 AYERS BLVD &amp;#44;BELPRE&amp;#44;OH</DisplayCity>
+    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=333</JobURL>
+  </Job>
+  <Job>
+    <RequisitionDivision>RETAIL</RequisitionDivision>
+    <RequisitionID>req342</RequisitionID>
+    <RequisitionLocation>01030-CLAYTON HOMES #1030</RequisitionLocation>
+    <JobCategory>Management</JobCategory>
+    <RequisitionPosition>FIELD MIT</RequisitionPosition>
+    <RequisitionDisplayJobTitle>Clayton Homes Manager in Training - St Albans&amp;#44; WV</RequisitionDisplayJobTitle>
+    <RequisitionAddress1>739 WINFIELD ROAD</RequisitionAddress1>
+    <RequisitionAddress2></RequisitionAddress2>
+    <RequisitionCity>ST ALBANS</RequisitionCity>
+    <RequisitionState>WV</RequisitionState>
+    <RequisitionPostalCode>25177</RequisitionPostalCode>
+    <RequisitionPrimaryOwnerFullName>KEMP&amp;#44; JENNIFER</RequisitionPrimaryOwnerFullName>
+    <DisplayCity>739 WINFIELD ROAD &amp;#44;ST ALBANS&amp;#44;WV</DisplayCity>
+    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=342</JobURL>
   </Job>
   <Job>
     <RequisitionDivision>RETAIL</RequisitionDivision>
@@ -1234,6 +1186,54 @@
   </Job>
   <Job>
     <RequisitionDivision>RETAIL</RequisitionDivision>
+    <RequisitionID>req518</RequisitionID>
+    <RequisitionLocation>00793-CLAYTON HOMES #793</RequisitionLocation>
+    <JobCategory>Office and Administrative Support</JobCategory>
+    <RequisitionPosition>ADMIN</RequisitionPosition>
+    <RequisitionDisplayJobTitle>Clayton Homes Administrative Assistant - Jasper&amp;#44; AL</RequisitionDisplayJobTitle>
+    <RequisitionAddress1>13140 HWY 78</RequisitionAddress1>
+    <RequisitionAddress2></RequisitionAddress2>
+    <RequisitionCity>JASPER</RequisitionCity>
+    <RequisitionState>AL</RequisitionState>
+    <RequisitionPostalCode>35501</RequisitionPostalCode>
+    <RequisitionPrimaryOwnerFullName>HAGOOD&amp;#44; MICHAEL</RequisitionPrimaryOwnerFullName>
+    <DisplayCity>13140 HWY 78 &amp;#44;JASPER&amp;#44;AL</DisplayCity>
+    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=518</JobURL>
+  </Job>
+  <Job>
+    <RequisitionDivision>RETAIL</RequisitionDivision>
+    <RequisitionID>req524</RequisitionID>
+    <RequisitionLocation>00701-OAKWOOD HOMES #701</RequisitionLocation>
+    <JobCategory>Office and Administrative Support</JobCategory>
+    <RequisitionPosition>ADMIN</RequisitionPosition>
+    <RequisitionDisplayJobTitle>Oakwood Homes Administrative Assistant - Greensboro&amp;#44; NC</RequisitionDisplayJobTitle>
+    <RequisitionAddress1>2518 W PREDDY BLVD</RequisitionAddress1>
+    <RequisitionAddress2></RequisitionAddress2>
+    <RequisitionCity>GREENSBORO</RequisitionCity>
+    <RequisitionState>NC</RequisitionState>
+    <RequisitionPostalCode>27407</RequisitionPostalCode>
+    <RequisitionPrimaryOwnerFullName>HINSON&amp;#44; HANNAH</RequisitionPrimaryOwnerFullName>
+    <DisplayCity>2518 W PREDDY BLVD &amp;#44;GREENSBORO&amp;#44;NC</DisplayCity>
+    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=524</JobURL>
+  </Job>
+  <Job>
+    <RequisitionDivision>RETAIL</RequisitionDivision>
+    <RequisitionID>req451</RequisitionID>
+    <RequisitionLocation>00609-FREEDOM HOMES #609</RequisitionLocation>
+    <JobCategory>Office and Administrative Support</JobCategory>
+    <RequisitionPosition>ADMIN</RequisitionPosition>
+    <RequisitionDisplayJobTitle>Freedom Homes Admin - Donaldsonville&amp;#44; LA</RequisitionDisplayJobTitle>
+    <RequisitionAddress1>2393 HIGHWAY 70</RequisitionAddress1>
+    <RequisitionAddress2></RequisitionAddress2>
+    <RequisitionCity>DONALDSONVILLE</RequisitionCity>
+    <RequisitionState>LA</RequisitionState>
+    <RequisitionPostalCode>70346</RequisitionPostalCode>
+    <RequisitionPrimaryOwnerFullName>CHILES&amp;#44; SUE</RequisitionPrimaryOwnerFullName>
+    <DisplayCity>2393 HIGHWAY 70 &amp;#44;DONALDSONVILLE&amp;#44;LA</DisplayCity>
+    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=451</JobURL>
+  </Job>
+  <Job>
+    <RequisitionDivision>RETAIL</RequisitionDivision>
     <RequisitionID>req492</RequisitionID>
     <RequisitionLocation>01006-CLAYTON HOMES #1006</RequisitionLocation>
     <JobCategory>Office and Administrative Support</JobCategory>
@@ -1247,22 +1247,6 @@
     <RequisitionPrimaryOwnerFullName>CHILES&amp;#44; SUE</RequisitionPrimaryOwnerFullName>
     <DisplayCity>513 N LUMBERTON HIGH SCHOOL RD &amp;#44;LUMBERTON&amp;#44;TX</DisplayCity>
     <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=492</JobURL>
-  </Job>
-  <Job>
-    <RequisitionDivision>RETAIL</RequisitionDivision>
-    <RequisitionID>req372</RequisitionID>
-    <RequisitionLocation>00251-CLAYTON HOMES #251</RequisitionLocation>
-    <JobCategory>Office and Administrative Support</JobCategory>
-    <RequisitionPosition>ADMIN</RequisitionPosition>
-    <RequisitionDisplayJobTitle>Clayton Homes Administrative Assistant - Crestview&amp;#44; FL</RequisitionDisplayJobTitle>
-    <RequisitionAddress1>5208 SOUTH FERDON</RequisitionAddress1>
-    <RequisitionAddress2></RequisitionAddress2>
-    <RequisitionCity>CRESTVIEW</RequisitionCity>
-    <RequisitionState>FL</RequisitionState>
-    <RequisitionPostalCode>32536</RequisitionPostalCode>
-    <RequisitionPrimaryOwnerFullName>HAGOOD&amp;#44; MICHAEL</RequisitionPrimaryOwnerFullName>
-    <DisplayCity>5208 SOUTH FERDON &amp;#44;CRESTVIEW&amp;#44;FL</DisplayCity>
-    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=372</JobURL>
   </Job>
   <Job>
     <RequisitionDivision>RETAIL</RequisitionDivision>
@@ -1314,38 +1298,6 @@
   </Job>
   <Job>
     <RequisitionDivision>RETAIL</RequisitionDivision>
-    <RequisitionID>req310</RequisitionID>
-    <RequisitionLocation>00850-CLAYTON HOMES #850</RequisitionLocation>
-    <JobCategory>Office and Administrative Support</JobCategory>
-    <RequisitionPosition>SALES ASSISTANT</RequisitionPosition>
-    <RequisitionDisplayJobTitle>Clayton Homes Sales Assistant - Athens&amp;#44; TN</RequisitionDisplayJobTitle>
-    <RequisitionAddress1>2104 S. CONGRESS PARKWAY</RequisitionAddress1>
-    <RequisitionAddress2></RequisitionAddress2>
-    <RequisitionCity>ATHENS</RequisitionCity>
-    <RequisitionState>TN</RequisitionState>
-    <RequisitionPostalCode>37303</RequisitionPostalCode>
-    <RequisitionPrimaryOwnerFullName>HAGOOD&amp;#44; MICHAEL</RequisitionPrimaryOwnerFullName>
-    <DisplayCity>2104 S. CONGRESS PARKWAY &amp;#44;ATHENS&amp;#44;TN</DisplayCity>
-    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=310</JobURL>
-  </Job>
-  <Job>
-    <RequisitionDivision>RETAIL</RequisitionDivision>
-    <RequisitionID>req487</RequisitionID>
-    <RequisitionLocation>00203-CLAYTON HOMES #203</RequisitionLocation>
-    <JobCategory>Office and Administrative Support</JobCategory>
-    <RequisitionPosition>SALES ASSISTANT</RequisitionPosition>
-    <RequisitionDisplayJobTitle>Clayton Homes Sales Assistant - Newport&amp;#44; TN</RequisitionDisplayJobTitle>
-    <RequisitionAddress1>921 WEST HIGHWAY 25-70</RequisitionAddress1>
-    <RequisitionAddress2></RequisitionAddress2>
-    <RequisitionCity>NEWPORT</RequisitionCity>
-    <RequisitionState>TN</RequisitionState>
-    <RequisitionPostalCode>37821</RequisitionPostalCode>
-    <RequisitionPrimaryOwnerFullName>HAGOOD&amp;#44; MICHAEL</RequisitionPrimaryOwnerFullName>
-    <DisplayCity>921 WEST HIGHWAY 25-70 &amp;#44;NEWPORT&amp;#44;TN</DisplayCity>
-    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=487</JobURL>
-  </Job>
-  <Job>
-    <RequisitionDivision>RETAIL</RequisitionDivision>
     <RequisitionID>req449</RequisitionID>
     <RequisitionLocation>01073-CLAYTON HOMES #1073</RequisitionLocation>
     <JobCategory>Office and Administrative Support</JobCategory>
@@ -1378,19 +1330,19 @@
   </Job>
   <Job>
     <RequisitionDivision>RETAIL</RequisitionDivision>
-    <RequisitionID>req381</RequisitionID>
-    <RequisitionLocation>00739-CLAYTON HOMES #739</RequisitionLocation>
+    <RequisitionID>req358</RequisitionID>
+    <RequisitionLocation>00371-CLAYTON HOMES #371</RequisitionLocation>
     <JobCategory>Office and Administrative Support</JobCategory>
     <RequisitionPosition>SALES ASSISTANT</RequisitionPosition>
-    <RequisitionDisplayJobTitle>Clayton Homes Sales Assistant - Denver&amp;#44; CO</RequisitionDisplayJobTitle>
-    <RequisitionAddress1>6199 NORTH FEDERAL BLVD</RequisitionAddress1>
+    <RequisitionDisplayJobTitle>Clayton Homes Sales Assistant - Cleveland&amp;#44; TN</RequisitionDisplayJobTitle>
+    <RequisitionAddress1>2350 SOUTH LEE HIGHWAY SW</RequisitionAddress1>
     <RequisitionAddress2></RequisitionAddress2>
-    <RequisitionCity>DENVER</RequisitionCity>
-    <RequisitionState>CO</RequisitionState>
-    <RequisitionPostalCode>80221</RequisitionPostalCode>
-    <RequisitionPrimaryOwnerFullName>DICKSON&amp;#44; DAMON</RequisitionPrimaryOwnerFullName>
-    <DisplayCity>6199 NORTH FEDERAL BLVD &amp;#44;DENVER&amp;#44;CO</DisplayCity>
-    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=381</JobURL>
+    <RequisitionCity>CLEVELAND</RequisitionCity>
+    <RequisitionState>TN</RequisitionState>
+    <RequisitionPostalCode>37311</RequisitionPostalCode>
+    <RequisitionPrimaryOwnerFullName>HAGOOD&amp;#44; MICHAEL</RequisitionPrimaryOwnerFullName>
+    <DisplayCity>2350 SOUTH LEE HIGHWAY SW &amp;#44;CLEVELAND&amp;#44;TN</DisplayCity>
+    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=358</JobURL>
   </Job>
   <Job>
     <RequisitionDivision>RETAIL</RequisitionDivision>
@@ -1410,131 +1362,51 @@
   </Job>
   <Job>
     <RequisitionDivision>RETAIL</RequisitionDivision>
-    <RequisitionID>req358</RequisitionID>
-    <RequisitionLocation>00371-CLAYTON HOMES #371</RequisitionLocation>
+    <RequisitionID>req381</RequisitionID>
+    <RequisitionLocation>00739-CLAYTON HOMES #739</RequisitionLocation>
     <JobCategory>Office and Administrative Support</JobCategory>
     <RequisitionPosition>SALES ASSISTANT</RequisitionPosition>
-    <RequisitionDisplayJobTitle>Clayton Homes Sales Assistant - Cleveland&amp;#44; TN</RequisitionDisplayJobTitle>
-    <RequisitionAddress1>2350 SOUTH LEE HIGHWAY SW</RequisitionAddress1>
+    <RequisitionDisplayJobTitle>Clayton Homes Sales Assistant - Denver&amp;#44; CO</RequisitionDisplayJobTitle>
+    <RequisitionAddress1>6199 NORTH FEDERAL BLVD</RequisitionAddress1>
     <RequisitionAddress2></RequisitionAddress2>
-    <RequisitionCity>CLEVELAND</RequisitionCity>
-    <RequisitionState>TN</RequisitionState>
-    <RequisitionPostalCode>37311</RequisitionPostalCode>
-    <RequisitionPrimaryOwnerFullName>HAGOOD&amp;#44; MICHAEL</RequisitionPrimaryOwnerFullName>
-    <DisplayCity>2350 SOUTH LEE HIGHWAY SW &amp;#44;CLEVELAND&amp;#44;TN</DisplayCity>
-    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=358</JobURL>
-  </Job>
-  <Job>
-    <RequisitionDivision>RETAIL</RequisitionDivision>
-    <RequisitionID>req274</RequisitionID>
-    <RequisitionLocation>00799-CLAYTON HOMES #799</RequisitionLocation>
-    <JobCategory>Sales</JobCategory>
-    <RequisitionPosition>SALES PROFESSIONAL</RequisitionPosition>
-    <RequisitionDisplayJobTitle>Clayton Homes Sales Professional - Hot Springs&amp;#44; AR</RequisitionDisplayJobTitle>
-    <RequisitionAddress1>526 AIRPORT RD</RequisitionAddress1>
-    <RequisitionAddress2></RequisitionAddress2>
-    <RequisitionCity>HOT SPRINGS</RequisitionCity>
-    <RequisitionState>AR</RequisitionState>
-    <RequisitionPostalCode>71913</RequisitionPostalCode>
-    <RequisitionPrimaryOwnerFullName>CHILES&amp;#44; SUE</RequisitionPrimaryOwnerFullName>
-    <DisplayCity>526 AIRPORT RD &amp;#44;HOT SPRINGS&amp;#44;AR</DisplayCity>
-    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=274</JobURL>
-  </Job>
-  <Job>
-    <RequisitionDivision>RETAIL</RequisitionDivision>
-    <RequisitionID>req267</RequisitionID>
-    <RequisitionLocation>00270-CLAYTON HOMES #270</RequisitionLocation>
-    <JobCategory>Sales</JobCategory>
-    <RequisitionPosition>SALES PROFESSIONAL</RequisitionPosition>
-    <RequisitionDisplayJobTitle>Clayton Homes Sales Professional - Bossier City&amp;#44; LA</RequisitionDisplayJobTitle>
-    <RequisitionAddress1>3730 EAST TEXAS STREET</RequisitionAddress1>
-    <RequisitionAddress2></RequisitionAddress2>
-    <RequisitionCity>BOSSIER CITY</RequisitionCity>
-    <RequisitionState>LA</RequisitionState>
-    <RequisitionPostalCode>71111</RequisitionPostalCode>
-    <RequisitionPrimaryOwnerFullName>CHILES&amp;#44; SUE</RequisitionPrimaryOwnerFullName>
-    <DisplayCity>3730 EAST TEXAS STREET &amp;#44;BOSSIER CITY&amp;#44;LA</DisplayCity>
-    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=267</JobURL>
-  </Job>
-  <Job>
-    <RequisitionDivision>RETAIL</RequisitionDivision>
-    <RequisitionID>req268</RequisitionID>
-    <RequisitionLocation>00392-CLAYTON HOMES #392</RequisitionLocation>
-    <JobCategory>Sales</JobCategory>
-    <RequisitionPosition>SALES PROFESSIONAL</RequisitionPosition>
-    <RequisitionDisplayJobTitle>Clayton Homes Sales Professional - Mesa&amp;#44; AZ</RequisitionDisplayJobTitle>
-    <RequisitionAddress1>7835 EAST MAIN STREET</RequisitionAddress1>
-    <RequisitionAddress2></RequisitionAddress2>
-    <RequisitionCity>MESA</RequisitionCity>
-    <RequisitionState>AZ</RequisitionState>
-    <RequisitionPostalCode>85207</RequisitionPostalCode>
+    <RequisitionCity>DENVER</RequisitionCity>
+    <RequisitionState>CO</RequisitionState>
+    <RequisitionPostalCode>80221</RequisitionPostalCode>
     <RequisitionPrimaryOwnerFullName>DICKSON&amp;#44; DAMON</RequisitionPrimaryOwnerFullName>
-    <DisplayCity>7835 EAST MAIN STREET &amp;#44;MESA&amp;#44;AZ</DisplayCity>
-    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=268</JobURL>
+    <DisplayCity>6199 NORTH FEDERAL BLVD &amp;#44;DENVER&amp;#44;CO</DisplayCity>
+    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=381</JobURL>
   </Job>
   <Job>
     <RequisitionDivision>RETAIL</RequisitionDivision>
-    <RequisitionID>req280</RequisitionID>
-    <RequisitionLocation>00795-CLAYTON HOMES #795</RequisitionLocation>
-    <JobCategory>Sales</JobCategory>
-    <RequisitionPosition>SALES PROFESSIONAL</RequisitionPosition>
-    <RequisitionDisplayJobTitle>Clayton Homes Sales Professional - Porter&amp;#44; TX</RequisitionDisplayJobTitle>
-    <RequisitionAddress1>23557 HWY 59 NORTH</RequisitionAddress1>
+    <RequisitionID>req310</RequisitionID>
+    <RequisitionLocation>00850-CLAYTON HOMES #850</RequisitionLocation>
+    <JobCategory>Office and Administrative Support</JobCategory>
+    <RequisitionPosition>SALES ASSISTANT</RequisitionPosition>
+    <RequisitionDisplayJobTitle>Clayton Homes Sales Assistant - Athens&amp;#44; TN</RequisitionDisplayJobTitle>
+    <RequisitionAddress1>2104 S. CONGRESS PARKWAY</RequisitionAddress1>
     <RequisitionAddress2></RequisitionAddress2>
-    <RequisitionCity>PORTER</RequisitionCity>
-    <RequisitionState>TX</RequisitionState>
-    <RequisitionPostalCode>77365</RequisitionPostalCode>
-    <RequisitionPrimaryOwnerFullName>CHILES&amp;#44; SUE</RequisitionPrimaryOwnerFullName>
-    <DisplayCity>23557 HWY 59 NORTH &amp;#44;PORTER&amp;#44;TX</DisplayCity>
-    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=280</JobURL>
+    <RequisitionCity>ATHENS</RequisitionCity>
+    <RequisitionState>TN</RequisitionState>
+    <RequisitionPostalCode>37303</RequisitionPostalCode>
+    <RequisitionPrimaryOwnerFullName>HAGOOD&amp;#44; MICHAEL</RequisitionPrimaryOwnerFullName>
+    <DisplayCity>2104 S. CONGRESS PARKWAY &amp;#44;ATHENS&amp;#44;TN</DisplayCity>
+    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=310</JobURL>
   </Job>
   <Job>
     <RequisitionDivision>RETAIL</RequisitionDivision>
-    <RequisitionID>req265</RequisitionID>
-    <RequisitionLocation>00874-CLAYTON HOMES #874</RequisitionLocation>
+    <RequisitionID>req330</RequisitionID>
+    <RequisitionLocation>00187-CLAYTON HOMES #187</RequisitionLocation>
     <JobCategory>Sales</JobCategory>
     <RequisitionPosition>SALES PROFESSIONAL</RequisitionPosition>
-    <RequisitionDisplayJobTitle>Clayton Homes Sales Professional - Channelview&amp;#44; Tx</RequisitionDisplayJobTitle>
-    <RequisitionAddress1>16219 EAST FREEWAY</RequisitionAddress1>
+    <RequisitionDisplayJobTitle>Clayton Homes Sales Professional - Elizabeth City&amp;#44; NC</RequisitionDisplayJobTitle>
+    <RequisitionAddress1>1560 N. ROAD STREET</RequisitionAddress1>
     <RequisitionAddress2></RequisitionAddress2>
-    <RequisitionCity>CHANNELVIEW</RequisitionCity>
-    <RequisitionState>TX</RequisitionState>
-    <RequisitionPostalCode>77530</RequisitionPostalCode>
-    <RequisitionPrimaryOwnerFullName>CHILES&amp;#44; SUE</RequisitionPrimaryOwnerFullName>
-    <DisplayCity>16219 EAST FREEWAY &amp;#44;CHANNELVIEW&amp;#44;TX</DisplayCity>
-    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=265</JobURL>
-  </Job>
-  <Job>
-    <RequisitionDivision>RETAIL</RequisitionDivision>
-    <RequisitionID>req260</RequisitionID>
-    <RequisitionLocation>00846-CLAYTON HOMES #846</RequisitionLocation>
-    <JobCategory>Sales</JobCategory>
-    <RequisitionPosition>SALES PROFESSIONAL</RequisitionPosition>
-    <RequisitionDisplayJobTitle>Clayton Homes Sales Professional - Covington&amp;#44; LA</RequisitionDisplayJobTitle>
-    <RequisitionAddress1>74682 HWY 25</RequisitionAddress1>
-    <RequisitionAddress2></RequisitionAddress2>
-    <RequisitionCity>COVINGTON</RequisitionCity>
-    <RequisitionState>LA</RequisitionState>
-    <RequisitionPostalCode>70435</RequisitionPostalCode>
-    <RequisitionPrimaryOwnerFullName>CHILES&amp;#44; SUE</RequisitionPrimaryOwnerFullName>
-    <DisplayCity>74682 HWY 25 &amp;#44;COVINGTON&amp;#44;LA</DisplayCity>
-    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=260</JobURL>
-  </Job>
-  <Job>
-    <RequisitionDivision>RETAIL</RequisitionDivision>
-    <RequisitionID>req261</RequisitionID>
-    <RequisitionLocation>00784-FREEDOM HOMES #784</RequisitionLocation>
-    <JobCategory>Sales</JobCategory>
-    <RequisitionPosition>SALES PROFESSIONAL</RequisitionPosition>
-    <RequisitionDisplayJobTitle>Freedom Homes Sales Professional - Roanoke&amp;#44; VA</RequisitionDisplayJobTitle>
-    <RequisitionAddress1>1128 PETERS CREED ROAD&amp;#44; NW</RequisitionAddress1>
-    <RequisitionAddress2></RequisitionAddress2>
-    <RequisitionCity>ROANOKE</RequisitionCity>
-    <RequisitionState>VA</RequisitionState>
-    <RequisitionPostalCode>24017</RequisitionPostalCode>
-    <RequisitionPrimaryOwnerFullName>WILLIAMS&amp;#44; JOHN</RequisitionPrimaryOwnerFullName>
-    <DisplayCity>1128 PETERS CREED ROAD&amp;#44; NW &amp;#44;ROANOKE&amp;#44;VA</DisplayCity>
-    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=261</JobURL>
+    <RequisitionCity>ELIZABETH CITY</RequisitionCity>
+    <RequisitionState>NC</RequisitionState>
+    <RequisitionPostalCode>27909</RequisitionPostalCode>
+    <RequisitionPrimaryOwnerFullName>KARDATZKE&amp;#44; CHRISTEN</RequisitionPrimaryOwnerFullName>
+    <DisplayCity>1560 N. ROAD STREET &amp;#44;ELIZABETH CITY&amp;#44;NC</DisplayCity>
+    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=330</JobURL>
   </Job>
   <Job>
     <RequisitionDivision>RETAIL</RequisitionDivision>
@@ -1666,6 +1538,102 @@
   </Job>
   <Job>
     <RequisitionDivision>RETAIL</RequisitionDivision>
+    <RequisitionID>req280</RequisitionID>
+    <RequisitionLocation>00795-CLAYTON HOMES #795</RequisitionLocation>
+    <JobCategory>Sales</JobCategory>
+    <RequisitionPosition>SALES PROFESSIONAL</RequisitionPosition>
+    <RequisitionDisplayJobTitle>Clayton Homes Sales Professional - Porter&amp;#44; TX</RequisitionDisplayJobTitle>
+    <RequisitionAddress1>23557 HWY 59 NORTH</RequisitionAddress1>
+    <RequisitionAddress2></RequisitionAddress2>
+    <RequisitionCity>PORTER</RequisitionCity>
+    <RequisitionState>TX</RequisitionState>
+    <RequisitionPostalCode>77365</RequisitionPostalCode>
+    <RequisitionPrimaryOwnerFullName>CHILES&amp;#44; SUE</RequisitionPrimaryOwnerFullName>
+    <DisplayCity>23557 HWY 59 NORTH &amp;#44;PORTER&amp;#44;TX</DisplayCity>
+    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=280</JobURL>
+  </Job>
+  <Job>
+    <RequisitionDivision>RETAIL</RequisitionDivision>
+    <RequisitionID>req307</RequisitionID>
+    <RequisitionLocation>01060-OAKWOOD HOMES #1060</RequisitionLocation>
+    <JobCategory>Sales</JobCategory>
+    <RequisitionPosition>SALES PROFESSIONAL</RequisitionPosition>
+    <RequisitionDisplayJobTitle>Oakwood Homes Sales Professional - Sumter&amp;#44; SC</RequisitionDisplayJobTitle>
+    <RequisitionAddress1>3590 BROAD STREET</RequisitionAddress1>
+    <RequisitionAddress2></RequisitionAddress2>
+    <RequisitionCity>SUMTER</RequisitionCity>
+    <RequisitionState>SC</RequisitionState>
+    <RequisitionPostalCode>29150</RequisitionPostalCode>
+    <RequisitionPrimaryOwnerFullName>HINSON&amp;#44; HANNAH</RequisitionPrimaryOwnerFullName>
+    <DisplayCity>3590 BROAD STREET &amp;#44;SUMTER&amp;#44;SC</DisplayCity>
+    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=307</JobURL>
+  </Job>
+  <Job>
+    <RequisitionDivision>RETAIL</RequisitionDivision>
+    <RequisitionID>req274</RequisitionID>
+    <RequisitionLocation>00799-CLAYTON HOMES #799</RequisitionLocation>
+    <JobCategory>Sales</JobCategory>
+    <RequisitionPosition>SALES PROFESSIONAL</RequisitionPosition>
+    <RequisitionDisplayJobTitle>Clayton Homes Sales Professional - Hot Springs&amp;#44; AR</RequisitionDisplayJobTitle>
+    <RequisitionAddress1>526 AIRPORT RD</RequisitionAddress1>
+    <RequisitionAddress2></RequisitionAddress2>
+    <RequisitionCity>HOT SPRINGS</RequisitionCity>
+    <RequisitionState>AR</RequisitionState>
+    <RequisitionPostalCode>71913</RequisitionPostalCode>
+    <RequisitionPrimaryOwnerFullName>CHILES&amp;#44; SUE</RequisitionPrimaryOwnerFullName>
+    <DisplayCity>526 AIRPORT RD &amp;#44;HOT SPRINGS&amp;#44;AR</DisplayCity>
+    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=274</JobURL>
+  </Job>
+  <Job>
+    <RequisitionDivision>RETAIL</RequisitionDivision>
+    <RequisitionID>req265</RequisitionID>
+    <RequisitionLocation>00874-CLAYTON HOMES #874</RequisitionLocation>
+    <JobCategory>Sales</JobCategory>
+    <RequisitionPosition>SALES PROFESSIONAL</RequisitionPosition>
+    <RequisitionDisplayJobTitle>Clayton Homes Sales Professional - Channelview&amp;#44; Tx</RequisitionDisplayJobTitle>
+    <RequisitionAddress1>16219 EAST FREEWAY</RequisitionAddress1>
+    <RequisitionAddress2></RequisitionAddress2>
+    <RequisitionCity>CHANNELVIEW</RequisitionCity>
+    <RequisitionState>TX</RequisitionState>
+    <RequisitionPostalCode>77530</RequisitionPostalCode>
+    <RequisitionPrimaryOwnerFullName>CHILES&amp;#44; SUE</RequisitionPrimaryOwnerFullName>
+    <DisplayCity>16219 EAST FREEWAY &amp;#44;CHANNELVIEW&amp;#44;TX</DisplayCity>
+    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=265</JobURL>
+  </Job>
+  <Job>
+    <RequisitionDivision>RETAIL</RequisitionDivision>
+    <RequisitionID>req267</RequisitionID>
+    <RequisitionLocation>00270-CLAYTON HOMES #270</RequisitionLocation>
+    <JobCategory>Sales</JobCategory>
+    <RequisitionPosition>SALES PROFESSIONAL</RequisitionPosition>
+    <RequisitionDisplayJobTitle>Clayton Homes Sales Professional - Bossier City&amp;#44; LA</RequisitionDisplayJobTitle>
+    <RequisitionAddress1>3730 EAST TEXAS STREET</RequisitionAddress1>
+    <RequisitionAddress2></RequisitionAddress2>
+    <RequisitionCity>BOSSIER CITY</RequisitionCity>
+    <RequisitionState>LA</RequisitionState>
+    <RequisitionPostalCode>71111</RequisitionPostalCode>
+    <RequisitionPrimaryOwnerFullName>CHILES&amp;#44; SUE</RequisitionPrimaryOwnerFullName>
+    <DisplayCity>3730 EAST TEXAS STREET &amp;#44;BOSSIER CITY&amp;#44;LA</DisplayCity>
+    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=267</JobURL>
+  </Job>
+  <Job>
+    <RequisitionDivision>RETAIL</RequisitionDivision>
+    <RequisitionID>req268</RequisitionID>
+    <RequisitionLocation>00392-CLAYTON HOMES #392</RequisitionLocation>
+    <JobCategory>Sales</JobCategory>
+    <RequisitionPosition>SALES PROFESSIONAL</RequisitionPosition>
+    <RequisitionDisplayJobTitle>Clayton Homes Sales Professional - Mesa&amp;#44; AZ</RequisitionDisplayJobTitle>
+    <RequisitionAddress1>7835 EAST MAIN STREET</RequisitionAddress1>
+    <RequisitionAddress2></RequisitionAddress2>
+    <RequisitionCity>MESA</RequisitionCity>
+    <RequisitionState>AZ</RequisitionState>
+    <RequisitionPostalCode>85207</RequisitionPostalCode>
+    <RequisitionPrimaryOwnerFullName>DICKSON&amp;#44; DAMON</RequisitionPrimaryOwnerFullName>
+    <DisplayCity>7835 EAST MAIN STREET &amp;#44;MESA&amp;#44;AZ</DisplayCity>
+    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=268</JobURL>
+  </Job>
+  <Job>
+    <RequisitionDivision>RETAIL</RequisitionDivision>
     <RequisitionID>req297</RequisitionID>
     <RequisitionLocation>00085-CLAYTON HOMES #85</RequisitionLocation>
     <JobCategory>Sales</JobCategory>
@@ -1746,163 +1714,19 @@
   </Job>
   <Job>
     <RequisitionDivision>RETAIL</RequisitionDivision>
-    <RequisitionID>req359</RequisitionID>
-    <RequisitionLocation>00618-CLAYTON HOMES #618</RequisitionLocation>
+    <RequisitionID>req403</RequisitionID>
+    <RequisitionLocation>00086-CLAYTON HOMES #86</RequisitionLocation>
     <JobCategory>Sales</JobCategory>
     <RequisitionPosition>SALES PROFESSIONAL</RequisitionPosition>
-    <RequisitionDisplayJobTitle>Clayton Homes Sales Professional - Splendora&amp;#44; TX - Bilingual Preferred</RequisitionDisplayJobTitle>
-    <RequisitionAddress1>12793 HIGHWAY 59</RequisitionAddress1>
-    <RequisitionAddress2></RequisitionAddress2>
-    <RequisitionCity>SPLENDORA</RequisitionCity>
-    <RequisitionState>TX</RequisitionState>
-    <RequisitionPostalCode>77372</RequisitionPostalCode>
-    <RequisitionPrimaryOwnerFullName>CHILES&amp;#44; SUE</RequisitionPrimaryOwnerFullName>
-    <DisplayCity>12793 HIGHWAY 59 &amp;#44;SPLENDORA&amp;#44;TX</DisplayCity>
-    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=359</JobURL>
-  </Job>
-  <Job>
-    <RequisitionDivision>RETAIL</RequisitionDivision>
-    <RequisitionID>req363</RequisitionID>
-    <RequisitionLocation>00742-OAKWOOD HOMES #742</RequisitionLocation>
-    <JobCategory>Sales</JobCategory>
-    <RequisitionPosition>SALES PROFESSIONAL</RequisitionPosition>
-    <RequisitionDisplayJobTitle>Oakwood Homes Sales Professional - Lacey&amp;#44; WA</RequisitionDisplayJobTitle>
-    <RequisitionAddress1>6312 MARTIN WAY</RequisitionAddress1>
-    <RequisitionAddress2></RequisitionAddress2>
-    <RequisitionCity>LACEY</RequisitionCity>
-    <RequisitionState>WA</RequisitionState>
-    <RequisitionPostalCode>98516</RequisitionPostalCode>
-    <RequisitionPrimaryOwnerFullName>DICKSON&amp;#44; DAMON</RequisitionPrimaryOwnerFullName>
-    <DisplayCity>6312 MARTIN WAY &amp;#44;LACEY&amp;#44;WA</DisplayCity>
-    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=363</JobURL>
-  </Job>
-  <Job>
-    <RequisitionDivision>RETAIL</RequisitionDivision>
-    <RequisitionID>req368</RequisitionID>
-    <RequisitionLocation>01023-CLAYTON HOMES #1023</RequisitionLocation>
-    <JobCategory>Sales</JobCategory>
-    <RequisitionPosition>SALES PROFESSIONAL</RequisitionPosition>
-    <RequisitionDisplayJobTitle>Clayton Homes Sales Professional - Barboursville&amp;#44; WV</RequisitionDisplayJobTitle>
-    <RequisitionAddress1>5898 ROUTE 60 EAST</RequisitionAddress1>
-    <RequisitionAddress2></RequisitionAddress2>
-    <RequisitionCity>BARBOURSVILLE</RequisitionCity>
-    <RequisitionState>WV</RequisitionState>
-    <RequisitionPostalCode>25504</RequisitionPostalCode>
-    <RequisitionPrimaryOwnerFullName>KEMP&amp;#44; JENNIFER</RequisitionPrimaryOwnerFullName>
-    <DisplayCity>5898 ROUTE 60 EAST &amp;#44;BARBOURSVILLE&amp;#44;WV</DisplayCity>
-    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=368</JobURL>
-  </Job>
-  <Job>
-    <RequisitionDivision>RETAIL</RequisitionDivision>
-    <RequisitionID>req369</RequisitionID>
-    <RequisitionLocation>01042-CLAYTON HOMES #1042</RequisitionLocation>
-    <JobCategory>Sales</JobCategory>
-    <RequisitionPosition>SALES PROFESSIONAL</RequisitionPosition>
-    <RequisitionDisplayJobTitle>Clayton Homes Sales Professional - Durango&amp;#44; CO</RequisitionDisplayJobTitle>
-    <RequisitionAddress1>27015 US HWY 160</RequisitionAddress1>
-    <RequisitionAddress2></RequisitionAddress2>
-    <RequisitionCity>DURANGO</RequisitionCity>
-    <RequisitionState>CO</RequisitionState>
-    <RequisitionPostalCode>81301</RequisitionPostalCode>
-    <RequisitionPrimaryOwnerFullName>DICKSON&amp;#44; DAMON</RequisitionPrimaryOwnerFullName>
-    <DisplayCity>27015 US HWY 160 &amp;#44;DURANGO&amp;#44;CO</DisplayCity>
-    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=369</JobURL>
-  </Job>
-  <Job>
-    <RequisitionDivision>RETAIL</RequisitionDivision>
-    <RequisitionID>req344</RequisitionID>
-    <RequisitionLocation>00692-CLAYTON HOMES #692</RequisitionLocation>
-    <JobCategory>Sales</JobCategory>
-    <RequisitionPosition>SALES PROFESSIONAL</RequisitionPosition>
-    <RequisitionDisplayJobTitle>Clayton Homes Sales Professional - Alexandria&amp;#44; LA</RequisitionDisplayJobTitle>
-    <RequisitionAddress1>7500 COLISEUM BLVD</RequisitionAddress1>
-    <RequisitionAddress2></RequisitionAddress2>
-    <RequisitionCity>ALEXANDRIA</RequisitionCity>
-    <RequisitionState>LA</RequisitionState>
-    <RequisitionPostalCode>71303</RequisitionPostalCode>
-    <RequisitionPrimaryOwnerFullName>CHILES&amp;#44; SUE</RequisitionPrimaryOwnerFullName>
-    <DisplayCity>7500 COLISEUM BLVD &amp;#44;ALEXANDRIA&amp;#44;LA</DisplayCity>
-    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=344</JobURL>
-  </Job>
-  <Job>
-    <RequisitionDivision>RETAIL</RequisitionDivision>
-    <RequisitionID>req356</RequisitionID>
-    <RequisitionLocation>00721-OAKWOOD HOMES #721</RequisitionLocation>
-    <JobCategory>Sales</JobCategory>
-    <RequisitionPosition>SALES PROFESSIONAL</RequisitionPosition>
-    <RequisitionDisplayJobTitle>Oakwood Homes Sales Professional - Barboursville&amp;#44; WV</RequisitionDisplayJobTitle>
-    <RequisitionAddress1>5875 DAVIS CREEK RD</RequisitionAddress1>
-    <RequisitionAddress2></RequisitionAddress2>
-    <RequisitionCity>BARBOURSVILLE</RequisitionCity>
-    <RequisitionState>WV</RequisitionState>
-    <RequisitionPostalCode>25504</RequisitionPostalCode>
-    <RequisitionPrimaryOwnerFullName>KEMP&amp;#44; JENNIFER</RequisitionPrimaryOwnerFullName>
-    <DisplayCity>5875 DAVIS CREEK RD &amp;#44;BARBOURSVILLE&amp;#44;WV</DisplayCity>
-    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=356</JobURL>
-  </Job>
-  <Job>
-    <RequisitionDivision>RETAIL</RequisitionDivision>
-    <RequisitionID>req341</RequisitionID>
-    <RequisitionLocation>00653-CLAYTON HOMES #653</RequisitionLocation>
-    <JobCategory>Sales</JobCategory>
-    <RequisitionPosition>SALES PROFESSIONAL</RequisitionPosition>
-    <RequisitionDisplayJobTitle>Clayton Homes Sales Professional - McComb&amp;#44; MS</RequisitionDisplayJobTitle>
-    <RequisitionAddress1>216 HWY. 98 EAST</RequisitionAddress1>
-    <RequisitionAddress2></RequisitionAddress2>
-    <RequisitionCity>MCCOMB</RequisitionCity>
-    <RequisitionState>MS</RequisitionState>
-    <RequisitionPostalCode>39648</RequisitionPostalCode>
-    <RequisitionPrimaryOwnerFullName>HAGOOD&amp;#44; MICHAEL</RequisitionPrimaryOwnerFullName>
-    <DisplayCity>216 HWY. 98 EAST &amp;#44;MCCOMB&amp;#44;MS</DisplayCity>
-    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=341</JobURL>
-  </Job>
-  <Job>
-    <RequisitionDivision>RETAIL</RequisitionDivision>
-    <RequisitionID>req337</RequisitionID>
-    <RequisitionLocation>00894-CLAYTON HOMES #894</RequisitionLocation>
-    <JobCategory>Sales</JobCategory>
-    <RequisitionPosition>SALES PROFESSIONAL</RequisitionPosition>
-    <RequisitionDisplayJobTitle>Clayton Homes Sales Professional - Fairfield&amp;#44; IL</RequisitionDisplayJobTitle>
-    <RequisitionAddress1>636 US HWY 45</RequisitionAddress1>
-    <RequisitionAddress2></RequisitionAddress2>
-    <RequisitionCity>FAIRFIELD</RequisitionCity>
-    <RequisitionState>IL</RequisitionState>
-    <RequisitionPostalCode>62837</RequisitionPostalCode>
-    <RequisitionPrimaryOwnerFullName>KEMP&amp;#44; JENNIFER</RequisitionPrimaryOwnerFullName>
-    <DisplayCity>636 US HWY 45 &amp;#44;FAIRFIELD&amp;#44;IL</DisplayCity>
-    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=337</JobURL>
-  </Job>
-  <Job>
-    <RequisitionDivision>RETAIL</RequisitionDivision>
-    <RequisitionID>req330</RequisitionID>
-    <RequisitionLocation>00187-CLAYTON HOMES #187</RequisitionLocation>
-    <JobCategory>Sales</JobCategory>
-    <RequisitionPosition>SALES PROFESSIONAL</RequisitionPosition>
-    <RequisitionDisplayJobTitle>Clayton Homes Sales Professional - Elizabeth City&amp;#44; NC</RequisitionDisplayJobTitle>
-    <RequisitionAddress1>1560 N. ROAD STREET</RequisitionAddress1>
-    <RequisitionAddress2></RequisitionAddress2>
-    <RequisitionCity>ELIZABETH CITY</RequisitionCity>
-    <RequisitionState>NC</RequisitionState>
-    <RequisitionPostalCode>27909</RequisitionPostalCode>
-    <RequisitionPrimaryOwnerFullName>KARDATZKE&amp;#44; CHRISTEN</RequisitionPrimaryOwnerFullName>
-    <DisplayCity>1560 N. ROAD STREET &amp;#44;ELIZABETH CITY&amp;#44;NC</DisplayCity>
-    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=330</JobURL>
-  </Job>
-  <Job>
-    <RequisitionDivision>RETAIL</RequisitionDivision>
-    <RequisitionID>req307</RequisitionID>
-    <RequisitionLocation>01060-OAKWOOD HOMES #1060</RequisitionLocation>
-    <JobCategory>Sales</JobCategory>
-    <RequisitionPosition>SALES PROFESSIONAL</RequisitionPosition>
-    <RequisitionDisplayJobTitle>Oakwood Homes Sales Professional - Sumter&amp;#44; SC</RequisitionDisplayJobTitle>
-    <RequisitionAddress1>3590 BROAD STREET</RequisitionAddress1>
-    <RequisitionAddress2></RequisitionAddress2>
-    <RequisitionCity>SUMTER</RequisitionCity>
-    <RequisitionState>SC</RequisitionState>
-    <RequisitionPostalCode>29150</RequisitionPostalCode>
-    <RequisitionPrimaryOwnerFullName>HINSON&amp;#44; HANNAH</RequisitionPrimaryOwnerFullName>
-    <DisplayCity>3590 BROAD STREET &amp;#44;SUMTER&amp;#44;SC</DisplayCity>
-    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=307</JobURL>
+    <RequisitionDisplayJobTitle>Clayton Homes Sales Professional - Farmville&amp;#44; VA</RequisitionDisplayJobTitle>
+    <RequisitionAddress1>2742 W. THIRD STREET</RequisitionAddress1>
+    <RequisitionAddress2>PO BOX 828</RequisitionAddress2>
+    <RequisitionCity>FARMVILLE</RequisitionCity>
+    <RequisitionState>VA</RequisitionState>
+    <RequisitionPostalCode>23901</RequisitionPostalCode>
+    <RequisitionPrimaryOwnerFullName>WILLIAMS&amp;#44; JOHN</RequisitionPrimaryOwnerFullName>
+    <DisplayCity>2742 W. THIRD STREET PO BOX 828&amp;#44;FARMVILLE&amp;#44;VA</DisplayCity>
+    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=403</JobURL>
   </Job>
   <Job>
     <RequisitionDivision>RETAIL</RequisitionDivision>
@@ -1938,51 +1762,83 @@
   </Job>
   <Job>
     <RequisitionDivision>RETAIL</RequisitionDivision>
-    <RequisitionID>req387</RequisitionID>
-    <RequisitionLocation>00327-CLAYTON HOMES #327</RequisitionLocation>
+    <RequisitionID>req434</RequisitionID>
+    <RequisitionLocation>00739-CLAYTON HOMES #739</RequisitionLocation>
     <JobCategory>Sales</JobCategory>
     <RequisitionPosition>SALES PROFESSIONAL</RequisitionPosition>
-    <RequisitionDisplayJobTitle>Clayton Homes Sales Professional - Walterboro&amp;#44; SC</RequisitionDisplayJobTitle>
-    <RequisitionAddress1>2354 N. JEFFRIES BOULEVARD</RequisitionAddress1>
+    <RequisitionDisplayJobTitle>Clayton Homes Sales Professional - Denver&amp;#44; CO</RequisitionDisplayJobTitle>
+    <RequisitionAddress1>6199 NORTH FEDERAL BLVD</RequisitionAddress1>
     <RequisitionAddress2></RequisitionAddress2>
-    <RequisitionCity>WALTERBORO</RequisitionCity>
-    <RequisitionState>SC</RequisitionState>
-    <RequisitionPostalCode>29488</RequisitionPostalCode>
-    <RequisitionPrimaryOwnerFullName>HINSON&amp;#44; HANNAH</RequisitionPrimaryOwnerFullName>
-    <DisplayCity>2354 N. JEFFRIES BOULEVARD &amp;#44;WALTERBORO&amp;#44;SC</DisplayCity>
-    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=387</JobURL>
+    <RequisitionCity>DENVER</RequisitionCity>
+    <RequisitionState>CO</RequisitionState>
+    <RequisitionPostalCode>80221</RequisitionPostalCode>
+    <RequisitionPrimaryOwnerFullName>DICKSON&amp;#44; DAMON</RequisitionPrimaryOwnerFullName>
+    <DisplayCity>6199 NORTH FEDERAL BLVD &amp;#44;DENVER&amp;#44;CO</DisplayCity>
+    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=434</JobURL>
   </Job>
   <Job>
     <RequisitionDivision>RETAIL</RequisitionDivision>
-    <RequisitionID>req388</RequisitionID>
-    <RequisitionLocation>00760-FREEDOM HOMES #760</RequisitionLocation>
+    <RequisitionID>req435</RequisitionID>
+    <RequisitionLocation>01005-CLAYTON HOMES #1005</RequisitionLocation>
     <JobCategory>Sales</JobCategory>
     <RequisitionPosition>SALES PROFESSIONAL</RequisitionPosition>
-    <RequisitionDisplayJobTitle>Freedom Homes Sales Professional - Gallipolis&amp;#44; OH</RequisitionDisplayJobTitle>
-    <RequisitionAddress1>604 STATE RT 7 SOUTH</RequisitionAddress1>
+    <RequisitionDisplayJobTitle>Clayton Homes Sales Professional - Chino Valley&amp;#44; AZ</RequisitionDisplayJobTitle>
+    <RequisitionAddress1>325 WEST INDUSTRIAL WAY</RequisitionAddress1>
     <RequisitionAddress2></RequisitionAddress2>
-    <RequisitionCity>GALLIPOLIS</RequisitionCity>
-    <RequisitionState>OH</RequisitionState>
-    <RequisitionPostalCode>45631</RequisitionPostalCode>
-    <RequisitionPrimaryOwnerFullName>KEMP&amp;#44; JENNIFER</RequisitionPrimaryOwnerFullName>
-    <DisplayCity>604 STATE RT 7 SOUTH &amp;#44;GALLIPOLIS&amp;#44;OH</DisplayCity>
-    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=388</JobURL>
+    <RequisitionCity>CHINO VALLEY</RequisitionCity>
+    <RequisitionState>AZ</RequisitionState>
+    <RequisitionPostalCode>86323</RequisitionPostalCode>
+    <RequisitionPrimaryOwnerFullName>DICKSON&amp;#44; DAMON</RequisitionPrimaryOwnerFullName>
+    <DisplayCity>325 WEST INDUSTRIAL WAY &amp;#44;CHINO VALLEY&amp;#44;AZ</DisplayCity>
+    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=435</JobURL>
   </Job>
   <Job>
     <RequisitionDivision>RETAIL</RequisitionDivision>
-    <RequisitionID>req403</RequisitionID>
-    <RequisitionLocation>00086-CLAYTON HOMES #86</RequisitionLocation>
+    <RequisitionID>req436</RequisitionID>
+    <RequisitionLocation>00133-LUV HOMES #133</RequisitionLocation>
     <JobCategory>Sales</JobCategory>
     <RequisitionPosition>SALES PROFESSIONAL</RequisitionPosition>
-    <RequisitionDisplayJobTitle>Clayton Homes Sales Professional - Farmville&amp;#44; VA</RequisitionDisplayJobTitle>
-    <RequisitionAddress1>2742 W. THIRD STREET</RequisitionAddress1>
-    <RequisitionAddress2>PO BOX 828</RequisitionAddress2>
-    <RequisitionCity>FARMVILLE</RequisitionCity>
-    <RequisitionState>VA</RequisitionState>
-    <RequisitionPostalCode>23901</RequisitionPostalCode>
+    <RequisitionDisplayJobTitle>LUV Homes Sales Professional - Tomball&amp;#44; TX</RequisitionDisplayJobTitle>
+    <RequisitionAddress1>27641 TOMBALL PARKWAY</RequisitionAddress1>
+    <RequisitionAddress2></RequisitionAddress2>
+    <RequisitionCity>TOMBALL</RequisitionCity>
+    <RequisitionState>TX</RequisitionState>
+    <RequisitionPostalCode>77375</RequisitionPostalCode>
+    <RequisitionPrimaryOwnerFullName>CHILES&amp;#44; SUE</RequisitionPrimaryOwnerFullName>
+    <DisplayCity>27641 TOMBALL PARKWAY &amp;#44;TOMBALL&amp;#44;TX</DisplayCity>
+    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=436</JobURL>
+  </Job>
+  <Job>
+    <RequisitionDivision>RETAIL</RequisitionDivision>
+    <RequisitionID>req447</RequisitionID>
+    <RequisitionLocation>00087-CLAYTON HOMES #87</RequisitionLocation>
+    <JobCategory>Sales</JobCategory>
+    <RequisitionPosition>SALES PROFESSIONAL</RequisitionPosition>
+    <RequisitionDisplayJobTitle>Clayton Homes Sales Professional - Dunn&amp;#44; NC</RequisitionDisplayJobTitle>
+    <RequisitionAddress1>2001 W CUMBERLAND STREET</RequisitionAddress1>
+    <RequisitionAddress2></RequisitionAddress2>
+    <RequisitionCity>DUNN</RequisitionCity>
+    <RequisitionState>NC</RequisitionState>
+    <RequisitionPostalCode>28335</RequisitionPostalCode>
     <RequisitionPrimaryOwnerFullName>WILLIAMS&amp;#44; JOHN</RequisitionPrimaryOwnerFullName>
-    <DisplayCity>2742 W. THIRD STREET PO BOX 828&amp;#44;FARMVILLE&amp;#44;VA</DisplayCity>
-    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=403</JobURL>
+    <DisplayCity>2001 W CUMBERLAND STREET &amp;#44;DUNN&amp;#44;NC</DisplayCity>
+    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=447</JobURL>
+  </Job>
+  <Job>
+    <RequisitionDivision>RETAIL</RequisitionDivision>
+    <RequisitionID>req448</RequisitionID>
+    <RequisitionLocation>00208-CLAYTON HOMES #208</RequisitionLocation>
+    <JobCategory>Sales</JobCategory>
+    <RequisitionPosition>SALES PROFESSIONAL</RequisitionPosition>
+    <RequisitionDisplayJobTitle>Clayton Homes Sales Professional - Lumberton&amp;#44; NC</RequisitionDisplayJobTitle>
+    <RequisitionAddress1>6684 HWY 41 NORTH</RequisitionAddress1>
+    <RequisitionAddress2></RequisitionAddress2>
+    <RequisitionCity>LUMBERTON</RequisitionCity>
+    <RequisitionState>NC</RequisitionState>
+    <RequisitionPostalCode>28358</RequisitionPostalCode>
+    <RequisitionPrimaryOwnerFullName>WILLIAMS&amp;#44; JOHN</RequisitionPrimaryOwnerFullName>
+    <DisplayCity>6684 HWY 41 NORTH &amp;#44;LUMBERTON&amp;#44;NC</DisplayCity>
+    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=448</JobURL>
   </Job>
   <Job>
     <RequisitionDivision>RETAIL</RequisitionDivision>
@@ -2050,19 +1906,163 @@
   </Job>
   <Job>
     <RequisitionDivision>RETAIL</RequisitionDivision>
-    <RequisitionID>req155</RequisitionID>
-    <RequisitionLocation>01061-G&amp;I HOMES #1061</RequisitionLocation>
+    <RequisitionID>req368</RequisitionID>
+    <RequisitionLocation>01023-CLAYTON HOMES #1023</RequisitionLocation>
     <JobCategory>Sales</JobCategory>
     <RequisitionPosition>SALES PROFESSIONAL</RequisitionPosition>
-    <RequisitionDisplayJobTitle>G&amp;I Homes Sales Professional - Frankfort&amp;#44; NY</RequisitionDisplayJobTitle>
-    <RequisitionAddress1>2605 STATE ROUTE 5</RequisitionAddress1>
+    <RequisitionDisplayJobTitle>Clayton Homes Sales Professional - Barboursville&amp;#44; WV</RequisitionDisplayJobTitle>
+    <RequisitionAddress1>5898 ROUTE 60 EAST</RequisitionAddress1>
     <RequisitionAddress2></RequisitionAddress2>
-    <RequisitionCity>FRANKFORT</RequisitionCity>
+    <RequisitionCity>BARBOURSVILLE</RequisitionCity>
+    <RequisitionState>WV</RequisitionState>
+    <RequisitionPostalCode>25504</RequisitionPostalCode>
+    <RequisitionPrimaryOwnerFullName>KEMP&amp;#44; JENNIFER</RequisitionPrimaryOwnerFullName>
+    <DisplayCity>5898 ROUTE 60 EAST &amp;#44;BARBOURSVILLE&amp;#44;WV</DisplayCity>
+    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=368</JobURL>
+  </Job>
+  <Job>
+    <RequisitionDivision>RETAIL</RequisitionDivision>
+    <RequisitionID>req369</RequisitionID>
+    <RequisitionLocation>01042-CLAYTON HOMES #1042</RequisitionLocation>
+    <JobCategory>Sales</JobCategory>
+    <RequisitionPosition>SALES PROFESSIONAL</RequisitionPosition>
+    <RequisitionDisplayJobTitle>Clayton Homes Sales Professional - Durango&amp;#44; CO</RequisitionDisplayJobTitle>
+    <RequisitionAddress1>27015 US HWY 160</RequisitionAddress1>
+    <RequisitionAddress2></RequisitionAddress2>
+    <RequisitionCity>DURANGO</RequisitionCity>
+    <RequisitionState>CO</RequisitionState>
+    <RequisitionPostalCode>81301</RequisitionPostalCode>
+    <RequisitionPrimaryOwnerFullName>DICKSON&amp;#44; DAMON</RequisitionPrimaryOwnerFullName>
+    <DisplayCity>27015 US HWY 160 &amp;#44;DURANGO&amp;#44;CO</DisplayCity>
+    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=369</JobURL>
+  </Job>
+  <Job>
+    <RequisitionDivision>RETAIL</RequisitionDivision>
+    <RequisitionID>req387</RequisitionID>
+    <RequisitionLocation>00327-CLAYTON HOMES #327</RequisitionLocation>
+    <JobCategory>Sales</JobCategory>
+    <RequisitionPosition>SALES PROFESSIONAL</RequisitionPosition>
+    <RequisitionDisplayJobTitle>Clayton Homes Sales Professional - Walterboro&amp;#44; SC</RequisitionDisplayJobTitle>
+    <RequisitionAddress1>2354 N. JEFFRIES BOULEVARD</RequisitionAddress1>
+    <RequisitionAddress2></RequisitionAddress2>
+    <RequisitionCity>WALTERBORO</RequisitionCity>
+    <RequisitionState>SC</RequisitionState>
+    <RequisitionPostalCode>29488</RequisitionPostalCode>
+    <RequisitionPrimaryOwnerFullName>HINSON&amp;#44; HANNAH</RequisitionPrimaryOwnerFullName>
+    <DisplayCity>2354 N. JEFFRIES BOULEVARD &amp;#44;WALTERBORO&amp;#44;SC</DisplayCity>
+    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=387</JobURL>
+  </Job>
+  <Job>
+    <RequisitionDivision>RETAIL</RequisitionDivision>
+    <RequisitionID>req388</RequisitionID>
+    <RequisitionLocation>00760-FREEDOM HOMES #760</RequisitionLocation>
+    <JobCategory>Sales</JobCategory>
+    <RequisitionPosition>SALES PROFESSIONAL</RequisitionPosition>
+    <RequisitionDisplayJobTitle>Freedom Homes Sales Professional - Gallipolis&amp;#44; OH</RequisitionDisplayJobTitle>
+    <RequisitionAddress1>604 STATE RT 7 SOUTH</RequisitionAddress1>
+    <RequisitionAddress2></RequisitionAddress2>
+    <RequisitionCity>GALLIPOLIS</RequisitionCity>
+    <RequisitionState>OH</RequisitionState>
+    <RequisitionPostalCode>45631</RequisitionPostalCode>
+    <RequisitionPrimaryOwnerFullName>KEMP&amp;#44; JENNIFER</RequisitionPrimaryOwnerFullName>
+    <DisplayCity>604 STATE RT 7 SOUTH &amp;#44;GALLIPOLIS&amp;#44;OH</DisplayCity>
+    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=388</JobURL>
+  </Job>
+  <Job>
+    <RequisitionDivision>RETAIL</RequisitionDivision>
+    <RequisitionID>req341</RequisitionID>
+    <RequisitionLocation>00653-CLAYTON HOMES #653</RequisitionLocation>
+    <JobCategory>Sales</JobCategory>
+    <RequisitionPosition>SALES PROFESSIONAL</RequisitionPosition>
+    <RequisitionDisplayJobTitle>Clayton Homes Sales Professional - McComb&amp;#44; MS</RequisitionDisplayJobTitle>
+    <RequisitionAddress1>216 HWY. 98 EAST</RequisitionAddress1>
+    <RequisitionAddress2></RequisitionAddress2>
+    <RequisitionCity>MCCOMB</RequisitionCity>
+    <RequisitionState>MS</RequisitionState>
+    <RequisitionPostalCode>39648</RequisitionPostalCode>
+    <RequisitionPrimaryOwnerFullName>HAGOOD&amp;#44; MICHAEL</RequisitionPrimaryOwnerFullName>
+    <DisplayCity>216 HWY. 98 EAST &amp;#44;MCCOMB&amp;#44;MS</DisplayCity>
+    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=341</JobURL>
+  </Job>
+  <Job>
+    <RequisitionDivision>RETAIL</RequisitionDivision>
+    <RequisitionID>req359</RequisitionID>
+    <RequisitionLocation>00618-CLAYTON HOMES #618</RequisitionLocation>
+    <JobCategory>Sales</JobCategory>
+    <RequisitionPosition>SALES PROFESSIONAL</RequisitionPosition>
+    <RequisitionDisplayJobTitle>Clayton Homes Sales Professional - Splendora&amp;#44; TX - Bilingual Preferred</RequisitionDisplayJobTitle>
+    <RequisitionAddress1>12793 HIGHWAY 59</RequisitionAddress1>
+    <RequisitionAddress2></RequisitionAddress2>
+    <RequisitionCity>SPLENDORA</RequisitionCity>
+    <RequisitionState>TX</RequisitionState>
+    <RequisitionPostalCode>77372</RequisitionPostalCode>
+    <RequisitionPrimaryOwnerFullName>CHILES&amp;#44; SUE</RequisitionPrimaryOwnerFullName>
+    <DisplayCity>12793 HIGHWAY 59 &amp;#44;SPLENDORA&amp;#44;TX</DisplayCity>
+    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=359</JobURL>
+  </Job>
+  <Job>
+    <RequisitionDivision>RETAIL</RequisitionDivision>
+    <RequisitionID>req363</RequisitionID>
+    <RequisitionLocation>00742-OAKWOOD HOMES #742</RequisitionLocation>
+    <JobCategory>Sales</JobCategory>
+    <RequisitionPosition>SALES PROFESSIONAL</RequisitionPosition>
+    <RequisitionDisplayJobTitle>Oakwood Homes Sales Professional - Lacey&amp;#44; WA</RequisitionDisplayJobTitle>
+    <RequisitionAddress1>6312 MARTIN WAY</RequisitionAddress1>
+    <RequisitionAddress2></RequisitionAddress2>
+    <RequisitionCity>LACEY</RequisitionCity>
+    <RequisitionState>WA</RequisitionState>
+    <RequisitionPostalCode>98516</RequisitionPostalCode>
+    <RequisitionPrimaryOwnerFullName>DICKSON&amp;#44; DAMON</RequisitionPrimaryOwnerFullName>
+    <DisplayCity>6312 MARTIN WAY &amp;#44;LACEY&amp;#44;WA</DisplayCity>
+    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=363</JobURL>
+  </Job>
+  <Job>
+    <RequisitionDivision>RETAIL</RequisitionDivision>
+    <RequisitionID>req344</RequisitionID>
+    <RequisitionLocation>00692-CLAYTON HOMES #692</RequisitionLocation>
+    <JobCategory>Sales</JobCategory>
+    <RequisitionPosition>SALES PROFESSIONAL</RequisitionPosition>
+    <RequisitionDisplayJobTitle>Clayton Homes Sales Professional - Alexandria&amp;#44; LA</RequisitionDisplayJobTitle>
+    <RequisitionAddress1>7500 COLISEUM BLVD</RequisitionAddress1>
+    <RequisitionAddress2></RequisitionAddress2>
+    <RequisitionCity>ALEXANDRIA</RequisitionCity>
+    <RequisitionState>LA</RequisitionState>
+    <RequisitionPostalCode>71303</RequisitionPostalCode>
+    <RequisitionPrimaryOwnerFullName>CHILES&amp;#44; SUE</RequisitionPrimaryOwnerFullName>
+    <DisplayCity>7500 COLISEUM BLVD &amp;#44;ALEXANDRIA&amp;#44;LA</DisplayCity>
+    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=344</JobURL>
+  </Job>
+  <Job>
+    <RequisitionDivision>RETAIL</RequisitionDivision>
+    <RequisitionID>req356</RequisitionID>
+    <RequisitionLocation>00721-OAKWOOD HOMES #721</RequisitionLocation>
+    <JobCategory>Sales</JobCategory>
+    <RequisitionPosition>SALES PROFESSIONAL</RequisitionPosition>
+    <RequisitionDisplayJobTitle>Oakwood Homes Sales Professional - Barboursville&amp;#44; WV</RequisitionDisplayJobTitle>
+    <RequisitionAddress1>5875 DAVIS CREEK RD</RequisitionAddress1>
+    <RequisitionAddress2></RequisitionAddress2>
+    <RequisitionCity>BARBOURSVILLE</RequisitionCity>
+    <RequisitionState>WV</RequisitionState>
+    <RequisitionPostalCode>25504</RequisitionPostalCode>
+    <RequisitionPrimaryOwnerFullName>KEMP&amp;#44; JENNIFER</RequisitionPrimaryOwnerFullName>
+    <DisplayCity>5875 DAVIS CREEK RD &amp;#44;BARBOURSVILLE&amp;#44;WV</DisplayCity>
+    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=356</JobURL>
+  </Job>
+  <Job>
+    <RequisitionDivision>RETAIL</RequisitionDivision>
+    <RequisitionID>req175</RequisitionID>
+    <RequisitionLocation>01065-G&amp;I HOMES #1065</RequisitionLocation>
+    <JobCategory>Sales</JobCategory>
+    <RequisitionPosition>SALES PROFESSIONAL</RequisitionPosition>
+    <RequisitionDisplayJobTitle>G&amp;I Homes Sales Professional - Vernon&amp;#44; NY</RequisitionDisplayJobTitle>
+    <RequisitionAddress1>5924 E. SENECA STREET</RequisitionAddress1>
+    <RequisitionAddress2></RequisitionAddress2>
+    <RequisitionCity>VERNON</RequisitionCity>
     <RequisitionState>NY</RequisitionState>
-    <RequisitionPostalCode>13340</RequisitionPostalCode>
+    <RequisitionPostalCode>13476</RequisitionPostalCode>
     <RequisitionPrimaryOwnerFullName>WILLIAMS&amp;#44; JOHN</RequisitionPrimaryOwnerFullName>
-    <DisplayCity>2605 STATE ROUTE 5 &amp;#44;FRANKFORT&amp;#44;NY</DisplayCity>
-    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=155</JobURL>
+    <DisplayCity>5924 E. SENECA STREET &amp;#44;VERNON&amp;#44;NY</DisplayCity>
+    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=175</JobURL>
   </Job>
   <Job>
     <RequisitionDivision>RETAIL</RequisitionDivision>
@@ -2146,19 +2146,19 @@
   </Job>
   <Job>
     <RequisitionDivision>RETAIL</RequisitionDivision>
-    <RequisitionID>req130</RequisitionID>
-    <RequisitionLocation>00172-CLAYTON HOMES #172</RequisitionLocation>
+    <RequisitionID>req168</RequisitionID>
+    <RequisitionLocation>00821-FREEDOM HOMES #821</RequisitionLocation>
     <JobCategory>Sales</JobCategory>
     <RequisitionPosition>SALES PROFESSIONAL</RequisitionPosition>
-    <RequisitionDisplayJobTitle>Clayton Homes Sales Professional - Monroe&amp;#44; LA</RequisitionDisplayJobTitle>
-    <RequisitionAddress1>3505 HIGHWAY 165 BY-PASS SOUTH</RequisitionAddress1>
+    <RequisitionDisplayJobTitle>Freedom Homes Sales Professional - Opelika&amp;#44; AL</RequisitionDisplayJobTitle>
+    <RequisitionAddress1>1900 COLUMBUS PARKWAY</RequisitionAddress1>
     <RequisitionAddress2></RequisitionAddress2>
-    <RequisitionCity>MONROE</RequisitionCity>
-    <RequisitionState>LA</RequisitionState>
-    <RequisitionPostalCode>71201</RequisitionPostalCode>
-    <RequisitionPrimaryOwnerFullName>CHILES&amp;#44; SUE</RequisitionPrimaryOwnerFullName>
-    <DisplayCity>3505 HIGHWAY 165 BY-PASS SOUTH &amp;#44;MONROE&amp;#44;LA</DisplayCity>
-    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=130</JobURL>
+    <RequisitionCity>OPELIKA</RequisitionCity>
+    <RequisitionState>AL</RequisitionState>
+    <RequisitionPostalCode>36801</RequisitionPostalCode>
+    <RequisitionPrimaryOwnerFullName>HAGOOD&amp;#44; MICHAEL</RequisitionPrimaryOwnerFullName>
+    <DisplayCity>1900 COLUMBUS PARKWAY &amp;#44;OPELIKA&amp;#44;AL</DisplayCity>
+    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=168</JobURL>
   </Job>
   <Job>
     <RequisitionDivision>RETAIL</RequisitionDivision>
@@ -2194,35 +2194,19 @@
   </Job>
   <Job>
     <RequisitionDivision>RETAIL</RequisitionDivision>
-    <RequisitionID>req168</RequisitionID>
-    <RequisitionLocation>00821-FREEDOM HOMES #821</RequisitionLocation>
+    <RequisitionID>req155</RequisitionID>
+    <RequisitionLocation>01061-G&amp;I HOMES #1061</RequisitionLocation>
     <JobCategory>Sales</JobCategory>
     <RequisitionPosition>SALES PROFESSIONAL</RequisitionPosition>
-    <RequisitionDisplayJobTitle>Freedom Homes Sales Professional - Opelika&amp;#44; AL</RequisitionDisplayJobTitle>
-    <RequisitionAddress1>1900 COLUMBUS PARKWAY</RequisitionAddress1>
+    <RequisitionDisplayJobTitle>G&amp;I Homes Sales Professional - Frankfort&amp;#44; NY</RequisitionDisplayJobTitle>
+    <RequisitionAddress1>2605 STATE ROUTE 5</RequisitionAddress1>
     <RequisitionAddress2></RequisitionAddress2>
-    <RequisitionCity>OPELIKA</RequisitionCity>
-    <RequisitionState>AL</RequisitionState>
-    <RequisitionPostalCode>36801</RequisitionPostalCode>
-    <RequisitionPrimaryOwnerFullName>HAGOOD&amp;#44; MICHAEL</RequisitionPrimaryOwnerFullName>
-    <DisplayCity>1900 COLUMBUS PARKWAY &amp;#44;OPELIKA&amp;#44;AL</DisplayCity>
-    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=168</JobURL>
-  </Job>
-  <Job>
-    <RequisitionDivision>RETAIL</RequisitionDivision>
-    <RequisitionID>req229</RequisitionID>
-    <RequisitionLocation>00650-FREEDOM HOMES #650</RequisitionLocation>
-    <JobCategory>Sales</JobCategory>
-    <RequisitionPosition>SALES PROFESSIONAL</RequisitionPosition>
-    <RequisitionDisplayJobTitle>Freedom Homes Sales Professional - Hammond&amp;#44; LA</RequisitionDisplayJobTitle>
-    <RequisitionAddress1>42367 S.MORRISON BLVD</RequisitionAddress1>
-    <RequisitionAddress2></RequisitionAddress2>
-    <RequisitionCity>HAMMOND</RequisitionCity>
-    <RequisitionState>LA</RequisitionState>
-    <RequisitionPostalCode>70403</RequisitionPostalCode>
-    <RequisitionPrimaryOwnerFullName>CHILES&amp;#44; SUE</RequisitionPrimaryOwnerFullName>
-    <DisplayCity>42367 S.MORRISON BLVD &amp;#44;HAMMOND&amp;#44;LA</DisplayCity>
-    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=229</JobURL>
+    <RequisitionCity>FRANKFORT</RequisitionCity>
+    <RequisitionState>NY</RequisitionState>
+    <RequisitionPostalCode>13340</RequisitionPostalCode>
+    <RequisitionPrimaryOwnerFullName>WILLIAMS&amp;#44; JOHN</RequisitionPrimaryOwnerFullName>
+    <DisplayCity>2605 STATE ROUTE 5 &amp;#44;FRANKFORT&amp;#44;NY</DisplayCity>
+    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=155</JobURL>
   </Job>
   <Job>
     <RequisitionDivision>RETAIL</RequisitionDivision>
@@ -2239,6 +2223,38 @@
     <RequisitionPrimaryOwnerFullName>CHILES&amp;#44; SUE</RequisitionPrimaryOwnerFullName>
     <DisplayCity>5879 HWY 1 BY-PASS &amp;#44;NATCHITOCHES&amp;#44;LA</DisplayCity>
     <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=253</JobURL>
+  </Job>
+  <Job>
+    <RequisitionDivision>RETAIL</RequisitionDivision>
+    <RequisitionID>req260</RequisitionID>
+    <RequisitionLocation>00846-CLAYTON HOMES #846</RequisitionLocation>
+    <JobCategory>Sales</JobCategory>
+    <RequisitionPosition>SALES PROFESSIONAL</RequisitionPosition>
+    <RequisitionDisplayJobTitle>Clayton Homes Sales Professional - Covington&amp;#44; LA</RequisitionDisplayJobTitle>
+    <RequisitionAddress1>74682 HWY 25</RequisitionAddress1>
+    <RequisitionAddress2></RequisitionAddress2>
+    <RequisitionCity>COVINGTON</RequisitionCity>
+    <RequisitionState>LA</RequisitionState>
+    <RequisitionPostalCode>70435</RequisitionPostalCode>
+    <RequisitionPrimaryOwnerFullName>CHILES&amp;#44; SUE</RequisitionPrimaryOwnerFullName>
+    <DisplayCity>74682 HWY 25 &amp;#44;COVINGTON&amp;#44;LA</DisplayCity>
+    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=260</JobURL>
+  </Job>
+  <Job>
+    <RequisitionDivision>RETAIL</RequisitionDivision>
+    <RequisitionID>req229</RequisitionID>
+    <RequisitionLocation>00650-FREEDOM HOMES #650</RequisitionLocation>
+    <JobCategory>Sales</JobCategory>
+    <RequisitionPosition>SALES PROFESSIONAL</RequisitionPosition>
+    <RequisitionDisplayJobTitle>Freedom Homes Sales Professional - Hammond&amp;#44; LA</RequisitionDisplayJobTitle>
+    <RequisitionAddress1>42367 S.MORRISON BLVD</RequisitionAddress1>
+    <RequisitionAddress2></RequisitionAddress2>
+    <RequisitionCity>HAMMOND</RequisitionCity>
+    <RequisitionState>LA</RequisitionState>
+    <RequisitionPostalCode>70403</RequisitionPostalCode>
+    <RequisitionPrimaryOwnerFullName>CHILES&amp;#44; SUE</RequisitionPrimaryOwnerFullName>
+    <DisplayCity>42367 S.MORRISON BLVD &amp;#44;HAMMOND&amp;#44;LA</DisplayCity>
+    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=229</JobURL>
   </Job>
   <Job>
     <RequisitionDivision>RETAIL</RequisitionDivision>
@@ -2287,22 +2303,6 @@
     <RequisitionPrimaryOwnerFullName>CHILES&amp;#44; SUE</RequisitionPrimaryOwnerFullName>
     <DisplayCity>410 SOUTH BLOOMINGTON ROAD &amp;#44;LOWELL&amp;#44;AR</DisplayCity>
     <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=190</JobURL>
-  </Job>
-  <Job>
-    <RequisitionDivision>RETAIL</RequisitionDivision>
-    <RequisitionID>req195</RequisitionID>
-    <RequisitionLocation>00639-FREEDOM HOMES #639</RequisitionLocation>
-    <JobCategory>Sales</JobCategory>
-    <RequisitionPosition>SALES PROFESSIONAL</RequisitionPosition>
-    <RequisitionDisplayJobTitle>Freedom Homes Sales Professional - Buckhannon&amp;#44; WV</RequisitionDisplayJobTitle>
-    <RequisitionAddress1>P.O. BOX 398&amp;#44; RT 33 EAST</RequisitionAddress1>
-    <RequisitionAddress2></RequisitionAddress2>
-    <RequisitionCity>BUCKHANNON</RequisitionCity>
-    <RequisitionState>WV</RequisitionState>
-    <RequisitionPostalCode>26201</RequisitionPostalCode>
-    <RequisitionPrimaryOwnerFullName>KEMP&amp;#44; JENNIFER</RequisitionPrimaryOwnerFullName>
-    <DisplayCity>P.O. BOX 398&amp;#44; RT 33 EAST &amp;#44;BUCKHANNON&amp;#44;WV</DisplayCity>
-    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=195</JobURL>
   </Job>
   <Job>
     <RequisitionDivision>RETAIL</RequisitionDivision>
@@ -2370,19 +2370,163 @@
   </Job>
   <Job>
     <RequisitionDivision>RETAIL</RequisitionDivision>
-    <RequisitionID>req175</RequisitionID>
-    <RequisitionLocation>01065-G&amp;I HOMES #1065</RequisitionLocation>
+    <RequisitionID>req130</RequisitionID>
+    <RequisitionLocation>00172-CLAYTON HOMES #172</RequisitionLocation>
     <JobCategory>Sales</JobCategory>
     <RequisitionPosition>SALES PROFESSIONAL</RequisitionPosition>
-    <RequisitionDisplayJobTitle>G&amp;I Homes Sales Professional - Vernon&amp;#44; NY</RequisitionDisplayJobTitle>
-    <RequisitionAddress1>5924 E. SENECA STREET</RequisitionAddress1>
+    <RequisitionDisplayJobTitle>Clayton Homes Sales Professional - Monroe&amp;#44; LA</RequisitionDisplayJobTitle>
+    <RequisitionAddress1>3505 HIGHWAY 165 BY-PASS SOUTH</RequisitionAddress1>
     <RequisitionAddress2></RequisitionAddress2>
-    <RequisitionCity>VERNON</RequisitionCity>
-    <RequisitionState>NY</RequisitionState>
-    <RequisitionPostalCode>13476</RequisitionPostalCode>
-    <RequisitionPrimaryOwnerFullName>WILLIAMS&amp;#44; JOHN</RequisitionPrimaryOwnerFullName>
-    <DisplayCity>5924 E. SENECA STREET &amp;#44;VERNON&amp;#44;NY</DisplayCity>
-    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=175</JobURL>
+    <RequisitionCity>MONROE</RequisitionCity>
+    <RequisitionState>LA</RequisitionState>
+    <RequisitionPostalCode>71201</RequisitionPostalCode>
+    <RequisitionPrimaryOwnerFullName>CHILES&amp;#44; SUE</RequisitionPrimaryOwnerFullName>
+    <DisplayCity>3505 HIGHWAY 165 BY-PASS SOUTH &amp;#44;MONROE&amp;#44;LA</DisplayCity>
+    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=130</JobURL>
+  </Job>
+  <Job>
+    <RequisitionDivision>RETAIL</RequisitionDivision>
+    <RequisitionID>req122</RequisitionID>
+    <RequisitionLocation>00674-CLAYTON HOMES #674</RequisitionLocation>
+    <JobCategory>Sales</JobCategory>
+    <RequisitionPosition>SALES PROFESSIONAL</RequisitionPosition>
+    <RequisitionDisplayJobTitle>Clayton Homes Sales Professional - Hixson&amp;#44; TN</RequisitionDisplayJobTitle>
+    <RequisitionAddress1>620 BOY SCOUT RD</RequisitionAddress1>
+    <RequisitionAddress2></RequisitionAddress2>
+    <RequisitionCity>HIXSON</RequisitionCity>
+    <RequisitionState>TN</RequisitionState>
+    <RequisitionPostalCode>37343</RequisitionPostalCode>
+    <RequisitionPrimaryOwnerFullName>HAGOOD&amp;#44; MICHAEL</RequisitionPrimaryOwnerFullName>
+    <DisplayCity>620 BOY SCOUT RD &amp;#44;HIXSON&amp;#44;TN</DisplayCity>
+    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=122</JobURL>
+  </Job>
+  <Job>
+    <RequisitionDivision>RETAIL</RequisitionDivision>
+    <RequisitionID>req115</RequisitionID>
+    <RequisitionLocation>00204-CLAYTON HOMES #204</RequisitionLocation>
+    <JobCategory>Sales</JobCategory>
+    <RequisitionPosition>SALES PROFESSIONAL</RequisitionPosition>
+    <RequisitionDisplayJobTitle>Clayton Homes Sales Professional - Crossville&amp;#44; TN</RequisitionDisplayJobTitle>
+    <RequisitionAddress1>1340 WEST AVENUE</RequisitionAddress1>
+    <RequisitionAddress2></RequisitionAddress2>
+    <RequisitionCity>CROSSVILLE</RequisitionCity>
+    <RequisitionState>TN</RequisitionState>
+    <RequisitionPostalCode>38555</RequisitionPostalCode>
+    <RequisitionPrimaryOwnerFullName>HAGOOD&amp;#44; MICHAEL</RequisitionPrimaryOwnerFullName>
+    <DisplayCity>1340 WEST AVENUE &amp;#44;CROSSVILLE&amp;#44;TN</DisplayCity>
+    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=115</JobURL>
+  </Job>
+  <Job>
+    <RequisitionDivision>RETAIL</RequisitionDivision>
+    <RequisitionID>req106</RequisitionID>
+    <RequisitionLocation>01051-CLAYTON HOMES #1051</RequisitionLocation>
+    <JobCategory>Sales</JobCategory>
+    <RequisitionPosition>SALES PROFESSIONAL</RequisitionPosition>
+    <RequisitionDisplayJobTitle>Clayton Homes Sales Professional - Odessa&amp;#44; TX</RequisitionDisplayJobTitle>
+    <RequisitionAddress1>2817 E HWY 80</RequisitionAddress1>
+    <RequisitionAddress2></RequisitionAddress2>
+    <RequisitionCity>ODESSA</RequisitionCity>
+    <RequisitionState>TX</RequisitionState>
+    <RequisitionPostalCode>79761</RequisitionPostalCode>
+    <RequisitionPrimaryOwnerFullName>BALLENGER&amp;#44; KELLI</RequisitionPrimaryOwnerFullName>
+    <DisplayCity>2817 E HWY 80 &amp;#44;ODESSA&amp;#44;TX</DisplayCity>
+    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=106</JobURL>
+  </Job>
+  <Job>
+    <RequisitionDivision>RETAIL</RequisitionDivision>
+    <RequisitionID>req108</RequisitionID>
+    <RequisitionLocation>00733-OAKWOOD HOMES #733</RequisitionLocation>
+    <JobCategory>Sales</JobCategory>
+    <RequisitionPosition>SALES PROFESSIONAL</RequisitionPosition>
+    <RequisitionDisplayJobTitle>Oakwood Homes Sales Professional - Tulsa&amp;#44; Ok</RequisitionDisplayJobTitle>
+    <RequisitionAddress1>12547 E SKELLY DRIVE</RequisitionAddress1>
+    <RequisitionAddress2></RequisitionAddress2>
+    <RequisitionCity>TULSA</RequisitionCity>
+    <RequisitionState>OK</RequisitionState>
+    <RequisitionPostalCode>74128</RequisitionPostalCode>
+    <RequisitionPrimaryOwnerFullName>CHILES&amp;#44; SUE</RequisitionPrimaryOwnerFullName>
+    <DisplayCity>12547 E SKELLY DRIVE &amp;#44;TULSA&amp;#44;OK</DisplayCity>
+    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=108</JobURL>
+  </Job>
+  <Job>
+    <RequisitionDivision>RETAIL</RequisitionDivision>
+    <RequisitionID>req89</RequisitionID>
+    <RequisitionLocation>00363-CLAYTON HOMES #363</RequisitionLocation>
+    <JobCategory>Sales</JobCategory>
+    <RequisitionPosition>SALES PROFESSIONAL</RequisitionPosition>
+    <RequisitionDisplayJobTitle>Clayton Homes Sales Professional - Lancaster&amp;#44; SC</RequisitionDisplayJobTitle>
+    <RequisitionAddress1>1400 HIGHWAY 9 BY-PASS</RequisitionAddress1>
+    <RequisitionAddress2></RequisitionAddress2>
+    <RequisitionCity>LANCASTER</RequisitionCity>
+    <RequisitionState>SC</RequisitionState>
+    <RequisitionPostalCode>29720</RequisitionPostalCode>
+    <RequisitionPrimaryOwnerFullName>HINSON&amp;#44; HANNAH</RequisitionPrimaryOwnerFullName>
+    <DisplayCity>1400 HIGHWAY 9 BY-PASS &amp;#44;LANCASTER&amp;#44;SC</DisplayCity>
+    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=89</JobURL>
+  </Job>
+  <Job>
+    <RequisitionDivision>RETAIL</RequisitionDivision>
+    <RequisitionID>req91</RequisitionID>
+    <RequisitionLocation>00110-CROSSLAND HOMES #110</RequisitionLocation>
+    <JobCategory>Sales</JobCategory>
+    <RequisitionPosition>SALES PROFESSIONAL</RequisitionPosition>
+    <RequisitionDisplayJobTitle>Crossland Homes Sales Professional - Candler&amp;#44; NC</RequisitionDisplayJobTitle>
+    <RequisitionAddress1>651 SMOKY PARK HIGHWAY</RequisitionAddress1>
+    <RequisitionAddress2></RequisitionAddress2>
+    <RequisitionCity>CANDLER</RequisitionCity>
+    <RequisitionState>NC</RequisitionState>
+    <RequisitionPostalCode>28715</RequisitionPostalCode>
+    <RequisitionPrimaryOwnerFullName>HINSON&amp;#44; HANNAH</RequisitionPrimaryOwnerFullName>
+    <DisplayCity>651 SMOKY PARK HIGHWAY &amp;#44;CANDLER&amp;#44;NC</DisplayCity>
+    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=91</JobURL>
+  </Job>
+  <Job>
+    <RequisitionDivision>RETAIL</RequisitionDivision>
+    <RequisitionID>req95</RequisitionID>
+    <RequisitionLocation>00654-FREEDOM HOMES #654</RequisitionLocation>
+    <JobCategory>Sales</JobCategory>
+    <RequisitionPosition>SALES PROFESSIONAL</RequisitionPosition>
+    <RequisitionDisplayJobTitle>Freedom Homes Sales Professional - Pearl&amp;#44; MS</RequisitionDisplayJobTitle>
+    <RequisitionAddress1>2250 HWY. 80 EAST</RequisitionAddress1>
+    <RequisitionAddress2></RequisitionAddress2>
+    <RequisitionCity>PEARL</RequisitionCity>
+    <RequisitionState>MS</RequisitionState>
+    <RequisitionPostalCode>39208</RequisitionPostalCode>
+    <RequisitionPrimaryOwnerFullName>HAGOOD&amp;#44; MICHAEL</RequisitionPrimaryOwnerFullName>
+    <DisplayCity>2250 HWY. 80 EAST &amp;#44;PEARL&amp;#44;MS</DisplayCity>
+    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=95</JobURL>
+  </Job>
+  <Job>
+    <RequisitionDivision>RETAIL</RequisitionDivision>
+    <RequisitionID>req87</RequisitionID>
+    <RequisitionLocation>00325-CLAYTON HOMES #325</RequisitionLocation>
+    <JobCategory>Sales</JobCategory>
+    <RequisitionPosition>SALES PROFESSIONAL</RequisitionPosition>
+    <RequisitionDisplayJobTitle>Clayton Homes Sales Professional - Charleston&amp;#44; SC</RequisitionDisplayJobTitle>
+    <RequisitionAddress1>6581 RIVERS AVENUE</RequisitionAddress1>
+    <RequisitionAddress2></RequisitionAddress2>
+    <RequisitionCity>NORTH CHARLESTON</RequisitionCity>
+    <RequisitionState>SC</RequisitionState>
+    <RequisitionPostalCode>29406</RequisitionPostalCode>
+    <RequisitionPrimaryOwnerFullName>HINSON&amp;#44; HANNAH</RequisitionPrimaryOwnerFullName>
+    <DisplayCity>6581 RIVERS AVENUE &amp;#44;NORTH CHARLESTON&amp;#44;SC</DisplayCity>
+    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=87</JobURL>
+  </Job>
+  <Job>
+    <RequisitionDivision>RETAIL</RequisitionDivision>
+    <RequisitionID>req74</RequisitionID>
+    <RequisitionLocation>00696-CLAYTON HOMES #696</RequisitionLocation>
+    <JobCategory>Sales</JobCategory>
+    <RequisitionPosition>SALES PROFESSIONAL</RequisitionPosition>
+    <RequisitionDisplayJobTitle>Clayton Homes Sales Professional - Lakeland&amp;#44; FL</RequisitionDisplayJobTitle>
+    <RequisitionAddress1>4612 US HWY 92 EAST</RequisitionAddress1>
+    <RequisitionAddress2></RequisitionAddress2>
+    <RequisitionCity>LAKELAND</RequisitionCity>
+    <RequisitionState>FL</RequisitionState>
+    <RequisitionPostalCode>33801</RequisitionPostalCode>
+    <RequisitionPrimaryOwnerFullName>HINSON&amp;#44; HANNAH</RequisitionPrimaryOwnerFullName>
+    <DisplayCity>4612 US HWY 92 EAST &amp;#44;LAKELAND&amp;#44;FL</DisplayCity>
+    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=74</JobURL>
   </Job>
   <Job>
     <RequisitionDivision>RETAIL</RequisitionDivision>
@@ -2530,6 +2674,22 @@
   </Job>
   <Job>
     <RequisitionDivision>RETAIL</RequisitionDivision>
+    <RequisitionID>req50</RequisitionID>
+    <RequisitionLocation>00034-CLAYTON HOMES #34</RequisitionLocation>
+    <JobCategory>Sales</JobCategory>
+    <RequisitionPosition>SALES PROFESSIONAL</RequisitionPosition>
+    <RequisitionDisplayJobTitle>Clayton Homes Sales Professional - Middlesboro&amp;#44; KY</RequisitionDisplayJobTitle>
+    <RequisitionAddress1>625 NORTH 12TH STREET</RequisitionAddress1>
+    <RequisitionAddress2></RequisitionAddress2>
+    <RequisitionCity>MIDDLESBORO</RequisitionCity>
+    <RequisitionState>KY</RequisitionState>
+    <RequisitionPostalCode>40965</RequisitionPostalCode>
+    <RequisitionPrimaryOwnerFullName>KEMP&amp;#44; JENNIFER</RequisitionPrimaryOwnerFullName>
+    <DisplayCity>625 NORTH 12TH STREET &amp;#44;MIDDLESBORO&amp;#44;KY</DisplayCity>
+    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=50</JobURL>
+  </Job>
+  <Job>
+    <RequisitionDivision>RETAIL</RequisitionDivision>
     <RequisitionID>req54</RequisitionID>
     <RequisitionLocation>00065-CLAYTON HOMES #65</RequisitionLocation>
     <JobCategory>Sales</JobCategory>
@@ -2607,150 +2767,6 @@
     <RequisitionPrimaryOwnerFullName>CHILES&amp;#44; SUE</RequisitionPrimaryOwnerFullName>
     <DisplayCity>34940 KATY FREEWAY &amp;#44;BROOKSHIRE&amp;#44;TX</DisplayCity>
     <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=58</JobURL>
-  </Job>
-  <Job>
-    <RequisitionDivision>RETAIL</RequisitionDivision>
-    <RequisitionID>req89</RequisitionID>
-    <RequisitionLocation>00363-CLAYTON HOMES #363</RequisitionLocation>
-    <JobCategory>Sales</JobCategory>
-    <RequisitionPosition>SALES PROFESSIONAL</RequisitionPosition>
-    <RequisitionDisplayJobTitle>Clayton Homes Sales Professional - Lancaster&amp;#44; SC</RequisitionDisplayJobTitle>
-    <RequisitionAddress1>1400 HIGHWAY 9 BY-PASS</RequisitionAddress1>
-    <RequisitionAddress2></RequisitionAddress2>
-    <RequisitionCity>LANCASTER</RequisitionCity>
-    <RequisitionState>SC</RequisitionState>
-    <RequisitionPostalCode>29720</RequisitionPostalCode>
-    <RequisitionPrimaryOwnerFullName>HINSON&amp;#44; HANNAH</RequisitionPrimaryOwnerFullName>
-    <DisplayCity>1400 HIGHWAY 9 BY-PASS &amp;#44;LANCASTER&amp;#44;SC</DisplayCity>
-    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=89</JobURL>
-  </Job>
-  <Job>
-    <RequisitionDivision>RETAIL</RequisitionDivision>
-    <RequisitionID>req91</RequisitionID>
-    <RequisitionLocation>00110-CROSSLAND HOMES #110</RequisitionLocation>
-    <JobCategory>Sales</JobCategory>
-    <RequisitionPosition>SALES PROFESSIONAL</RequisitionPosition>
-    <RequisitionDisplayJobTitle>Crossland Homes Sales Professional - Candler&amp;#44; NC</RequisitionDisplayJobTitle>
-    <RequisitionAddress1>651 SMOKY PARK HIGHWAY</RequisitionAddress1>
-    <RequisitionAddress2></RequisitionAddress2>
-    <RequisitionCity>CANDLER</RequisitionCity>
-    <RequisitionState>NC</RequisitionState>
-    <RequisitionPostalCode>28715</RequisitionPostalCode>
-    <RequisitionPrimaryOwnerFullName>HINSON&amp;#44; HANNAH</RequisitionPrimaryOwnerFullName>
-    <DisplayCity>651 SMOKY PARK HIGHWAY &amp;#44;CANDLER&amp;#44;NC</DisplayCity>
-    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=91</JobURL>
-  </Job>
-  <Job>
-    <RequisitionDivision>RETAIL</RequisitionDivision>
-    <RequisitionID>req95</RequisitionID>
-    <RequisitionLocation>00654-FREEDOM HOMES #654</RequisitionLocation>
-    <JobCategory>Sales</JobCategory>
-    <RequisitionPosition>SALES PROFESSIONAL</RequisitionPosition>
-    <RequisitionDisplayJobTitle>Freedom Homes Sales Professional - Pearl&amp;#44; MS</RequisitionDisplayJobTitle>
-    <RequisitionAddress1>2250 HWY. 80 EAST</RequisitionAddress1>
-    <RequisitionAddress2></RequisitionAddress2>
-    <RequisitionCity>PEARL</RequisitionCity>
-    <RequisitionState>MS</RequisitionState>
-    <RequisitionPostalCode>39208</RequisitionPostalCode>
-    <RequisitionPrimaryOwnerFullName>HAGOOD&amp;#44; MICHAEL</RequisitionPrimaryOwnerFullName>
-    <DisplayCity>2250 HWY. 80 EAST &amp;#44;PEARL&amp;#44;MS</DisplayCity>
-    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=95</JobURL>
-  </Job>
-  <Job>
-    <RequisitionDivision>RETAIL</RequisitionDivision>
-    <RequisitionID>req87</RequisitionID>
-    <RequisitionLocation>00325-CLAYTON HOMES #325</RequisitionLocation>
-    <JobCategory>Sales</JobCategory>
-    <RequisitionPosition>SALES PROFESSIONAL</RequisitionPosition>
-    <RequisitionDisplayJobTitle>Clayton Homes Sales Professional - Charleston&amp;#44; SC</RequisitionDisplayJobTitle>
-    <RequisitionAddress1>6581 RIVERS AVENUE</RequisitionAddress1>
-    <RequisitionAddress2></RequisitionAddress2>
-    <RequisitionCity>NORTH CHARLESTON</RequisitionCity>
-    <RequisitionState>SC</RequisitionState>
-    <RequisitionPostalCode>29406</RequisitionPostalCode>
-    <RequisitionPrimaryOwnerFullName>HINSON&amp;#44; HANNAH</RequisitionPrimaryOwnerFullName>
-    <DisplayCity>6581 RIVERS AVENUE &amp;#44;NORTH CHARLESTON&amp;#44;SC</DisplayCity>
-    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=87</JobURL>
-  </Job>
-  <Job>
-    <RequisitionDivision>RETAIL</RequisitionDivision>
-    <RequisitionID>req74</RequisitionID>
-    <RequisitionLocation>00696-CLAYTON HOMES #696</RequisitionLocation>
-    <JobCategory>Sales</JobCategory>
-    <RequisitionPosition>SALES PROFESSIONAL</RequisitionPosition>
-    <RequisitionDisplayJobTitle>Clayton Homes Sales Professional - Lakeland&amp;#44; FL</RequisitionDisplayJobTitle>
-    <RequisitionAddress1>4612 US HWY 92 EAST</RequisitionAddress1>
-    <RequisitionAddress2></RequisitionAddress2>
-    <RequisitionCity>LAKELAND</RequisitionCity>
-    <RequisitionState>FL</RequisitionState>
-    <RequisitionPostalCode>33801</RequisitionPostalCode>
-    <RequisitionPrimaryOwnerFullName>HINSON&amp;#44; HANNAH</RequisitionPrimaryOwnerFullName>
-    <DisplayCity>4612 US HWY 92 EAST &amp;#44;LAKELAND&amp;#44;FL</DisplayCity>
-    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=74</JobURL>
-  </Job>
-  <Job>
-    <RequisitionDivision>RETAIL</RequisitionDivision>
-    <RequisitionID>req106</RequisitionID>
-    <RequisitionLocation>01051-CLAYTON HOMES #1051</RequisitionLocation>
-    <JobCategory>Sales</JobCategory>
-    <RequisitionPosition>SALES PROFESSIONAL</RequisitionPosition>
-    <RequisitionDisplayJobTitle>Clayton Homes Sales Professional - Odessa&amp;#44; TX</RequisitionDisplayJobTitle>
-    <RequisitionAddress1>2817 E HWY 80</RequisitionAddress1>
-    <RequisitionAddress2></RequisitionAddress2>
-    <RequisitionCity>ODESSA</RequisitionCity>
-    <RequisitionState>TX</RequisitionState>
-    <RequisitionPostalCode>79761</RequisitionPostalCode>
-    <RequisitionPrimaryOwnerFullName>BALLENGER&amp;#44; KELLI</RequisitionPrimaryOwnerFullName>
-    <DisplayCity>2817 E HWY 80 &amp;#44;ODESSA&amp;#44;TX</DisplayCity>
-    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=106</JobURL>
-  </Job>
-  <Job>
-    <RequisitionDivision>RETAIL</RequisitionDivision>
-    <RequisitionID>req108</RequisitionID>
-    <RequisitionLocation>00733-OAKWOOD HOMES #733</RequisitionLocation>
-    <JobCategory>Sales</JobCategory>
-    <RequisitionPosition>SALES PROFESSIONAL</RequisitionPosition>
-    <RequisitionDisplayJobTitle>Oakwood Homes Sales Professional - Tulsa&amp;#44; Ok</RequisitionDisplayJobTitle>
-    <RequisitionAddress1>12547 E SKELLY DRIVE</RequisitionAddress1>
-    <RequisitionAddress2></RequisitionAddress2>
-    <RequisitionCity>TULSA</RequisitionCity>
-    <RequisitionState>OK</RequisitionState>
-    <RequisitionPostalCode>74128</RequisitionPostalCode>
-    <RequisitionPrimaryOwnerFullName>CHILES&amp;#44; SUE</RequisitionPrimaryOwnerFullName>
-    <DisplayCity>12547 E SKELLY DRIVE &amp;#44;TULSA&amp;#44;OK</DisplayCity>
-    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=108</JobURL>
-  </Job>
-  <Job>
-    <RequisitionDivision>RETAIL</RequisitionDivision>
-    <RequisitionID>req115</RequisitionID>
-    <RequisitionLocation>00204-CLAYTON HOMES #204</RequisitionLocation>
-    <JobCategory>Sales</JobCategory>
-    <RequisitionPosition>SALES PROFESSIONAL</RequisitionPosition>
-    <RequisitionDisplayJobTitle>Clayton Homes Sales Professional - Crossville&amp;#44; TN</RequisitionDisplayJobTitle>
-    <RequisitionAddress1>1340 WEST AVENUE</RequisitionAddress1>
-    <RequisitionAddress2></RequisitionAddress2>
-    <RequisitionCity>CROSSVILLE</RequisitionCity>
-    <RequisitionState>TN</RequisitionState>
-    <RequisitionPostalCode>38555</RequisitionPostalCode>
-    <RequisitionPrimaryOwnerFullName>HAGOOD&amp;#44; MICHAEL</RequisitionPrimaryOwnerFullName>
-    <DisplayCity>1340 WEST AVENUE &amp;#44;CROSSVILLE&amp;#44;TN</DisplayCity>
-    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=115</JobURL>
-  </Job>
-  <Job>
-    <RequisitionDivision>RETAIL</RequisitionDivision>
-    <RequisitionID>req122</RequisitionID>
-    <RequisitionLocation>00674-CLAYTON HOMES #674</RequisitionLocation>
-    <JobCategory>Sales</JobCategory>
-    <RequisitionPosition>SALES PROFESSIONAL</RequisitionPosition>
-    <RequisitionDisplayJobTitle>Clayton Homes Sales Professional - Hixson&amp;#44; TN</RequisitionDisplayJobTitle>
-    <RequisitionAddress1>620 BOY SCOUT RD</RequisitionAddress1>
-    <RequisitionAddress2></RequisitionAddress2>
-    <RequisitionCity>HIXSON</RequisitionCity>
-    <RequisitionState>TN</RequisitionState>
-    <RequisitionPostalCode>37343</RequisitionPostalCode>
-    <RequisitionPrimaryOwnerFullName>HAGOOD&amp;#44; MICHAEL</RequisitionPrimaryOwnerFullName>
-    <DisplayCity>620 BOY SCOUT RD &amp;#44;HIXSON&amp;#44;TN</DisplayCity>
-    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=122</JobURL>
   </Job>
   <Job>
     <RequisitionDivision>RETAIL</RequisitionDivision>
@@ -2850,83 +2866,131 @@
   </Job>
   <Job>
     <RequisitionDivision>RETAIL</RequisitionDivision>
-    <RequisitionID>req434</RequisitionID>
-    <RequisitionLocation>00739-CLAYTON HOMES #739</RequisitionLocation>
+    <RequisitionID>req481</RequisitionID>
+    <RequisitionLocation>00785-CLAYTON HOMES #785</RequisitionLocation>
     <JobCategory>Sales</JobCategory>
     <RequisitionPosition>SALES PROFESSIONAL</RequisitionPosition>
-    <RequisitionDisplayJobTitle>Clayton Homes Sales Professional - Denver&amp;#44; CO</RequisitionDisplayJobTitle>
-    <RequisitionAddress1>6199 NORTH FEDERAL BLVD</RequisitionAddress1>
+    <RequisitionDisplayJobTitle>Clayton Homes Sales Professional - Hattiesburg&amp;#44; MS</RequisitionDisplayJobTitle>
+    <RequisitionAddress1>7325 HIGHWAY 49</RequisitionAddress1>
     <RequisitionAddress2></RequisitionAddress2>
-    <RequisitionCity>DENVER</RequisitionCity>
-    <RequisitionState>CO</RequisitionState>
-    <RequisitionPostalCode>80221</RequisitionPostalCode>
-    <RequisitionPrimaryOwnerFullName>DICKSON&amp;#44; DAMON</RequisitionPrimaryOwnerFullName>
-    <DisplayCity>6199 NORTH FEDERAL BLVD &amp;#44;DENVER&amp;#44;CO</DisplayCity>
-    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=434</JobURL>
+    <RequisitionCity>HATTIESBURG</RequisitionCity>
+    <RequisitionState>MS</RequisitionState>
+    <RequisitionPostalCode>39402</RequisitionPostalCode>
+    <RequisitionPrimaryOwnerFullName>HAGOOD&amp;#44; MICHAEL</RequisitionPrimaryOwnerFullName>
+    <DisplayCity>7325 HIGHWAY 49 &amp;#44;HATTIESBURG&amp;#44;MS</DisplayCity>
+    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=481</JobURL>
   </Job>
   <Job>
     <RequisitionDivision>RETAIL</RequisitionDivision>
-    <RequisitionID>req435</RequisitionID>
-    <RequisitionLocation>01005-CLAYTON HOMES #1005</RequisitionLocation>
+    <RequisitionID>req486</RequisitionID>
+    <RequisitionLocation>00851-CLAYTON HOMES #851</RequisitionLocation>
     <JobCategory>Sales</JobCategory>
     <RequisitionPosition>SALES PROFESSIONAL</RequisitionPosition>
-    <RequisitionDisplayJobTitle>Clayton Homes Sales Professional - Chino Valley&amp;#44; AZ</RequisitionDisplayJobTitle>
-    <RequisitionAddress1>325 WEST INDUSTRIAL WAY</RequisitionAddress1>
+    <RequisitionDisplayJobTitle>Clayton Homes Sales Professional - Sweetwater&amp;#44; TN</RequisitionDisplayJobTitle>
+    <RequisitionAddress1>449 TENNESSEE HWY 68</RequisitionAddress1>
     <RequisitionAddress2></RequisitionAddress2>
-    <RequisitionCity>CHINO VALLEY</RequisitionCity>
-    <RequisitionState>AZ</RequisitionState>
-    <RequisitionPostalCode>86323</RequisitionPostalCode>
-    <RequisitionPrimaryOwnerFullName>DICKSON&amp;#44; DAMON</RequisitionPrimaryOwnerFullName>
-    <DisplayCity>325 WEST INDUSTRIAL WAY &amp;#44;CHINO VALLEY&amp;#44;AZ</DisplayCity>
-    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=435</JobURL>
+    <RequisitionCity>SWEETWATER</RequisitionCity>
+    <RequisitionState>TN</RequisitionState>
+    <RequisitionPostalCode>37874</RequisitionPostalCode>
+    <RequisitionPrimaryOwnerFullName>HAGOOD&amp;#44; MICHAEL</RequisitionPrimaryOwnerFullName>
+    <DisplayCity>449 TENNESSEE HWY 68 &amp;#44;SWEETWATER&amp;#44;TN</DisplayCity>
+    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=486</JobURL>
   </Job>
   <Job>
     <RequisitionDivision>RETAIL</RequisitionDivision>
-    <RequisitionID>req436</RequisitionID>
-    <RequisitionLocation>00133-LUV HOMES #133</RequisitionLocation>
+    <RequisitionID>req488</RequisitionID>
+    <RequisitionLocation>00858-CLAYTON HOMES #858</RequisitionLocation>
     <JobCategory>Sales</JobCategory>
     <RequisitionPosition>SALES PROFESSIONAL</RequisitionPosition>
-    <RequisitionDisplayJobTitle>LUV Homes Sales Professional - Tomball&amp;#44; TX</RequisitionDisplayJobTitle>
-    <RequisitionAddress1>27641 TOMBALL PARKWAY</RequisitionAddress1>
+    <RequisitionDisplayJobTitle>Clayton Homes Sales Professional - Longview&amp;#44; TX</RequisitionDisplayJobTitle>
+    <RequisitionAddress1>4695 ESTES PARKWAY</RequisitionAddress1>
     <RequisitionAddress2></RequisitionAddress2>
-    <RequisitionCity>TOMBALL</RequisitionCity>
+    <RequisitionCity>LONGVIEW</RequisitionCity>
     <RequisitionState>TX</RequisitionState>
-    <RequisitionPostalCode>77375</RequisitionPostalCode>
+    <RequisitionPostalCode>75603</RequisitionPostalCode>
+    <RequisitionPrimaryOwnerFullName>BALLENGER&amp;#44; KELLI</RequisitionPrimaryOwnerFullName>
+    <DisplayCity>4695 ESTES PARKWAY &amp;#44;LONGVIEW&amp;#44;TX</DisplayCity>
+    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=488</JobURL>
+  </Job>
+  <Job>
+    <RequisitionDivision>RETAIL</RequisitionDivision>
+    <RequisitionID>req484</RequisitionID>
+    <RequisitionLocation>00717-OAKWOOD HOMES #717</RequisitionLocation>
+    <JobCategory>Sales</JobCategory>
+    <RequisitionPosition>SALES PROFESSIONAL</RequisitionPosition>
+    <RequisitionDisplayJobTitle>Oakwood Homes Sales Professional - Eden NC</RequisitionDisplayJobTitle>
+    <RequisitionAddress1>916 S VAN BUREN RD</RequisitionAddress1>
+    <RequisitionAddress2></RequisitionAddress2>
+    <RequisitionCity>EDEN</RequisitionCity>
+    <RequisitionState>NC</RequisitionState>
+    <RequisitionPostalCode>27288</RequisitionPostalCode>
+    <RequisitionPrimaryOwnerFullName>WILLIAMS&amp;#44; JOHN</RequisitionPrimaryOwnerFullName>
+    <DisplayCity>916 S VAN BUREN RD &amp;#44;EDEN&amp;#44;NC</DisplayCity>
+    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=484</JobURL>
+  </Job>
+  <Job>
+    <RequisitionDivision>RETAIL</RequisitionDivision>
+    <RequisitionID>req467</RequisitionID>
+    <RequisitionLocation>00272-CLAYTON HOMES #272</RequisitionLocation>
+    <JobCategory>Sales</JobCategory>
+    <RequisitionPosition>SALES PROFESSIONAL</RequisitionPosition>
+    <RequisitionDisplayJobTitle>Clayton Homes Sales Professional - Denison&amp;#44; Tx</RequisitionDisplayJobTitle>
+    <RequisitionAddress1>5020 TEXOMA PARKWAY</RequisitionAddress1>
+    <RequisitionAddress2>BUILDING C</RequisitionAddress2>
+    <RequisitionCity>DENISON</RequisitionCity>
+    <RequisitionState>TX</RequisitionState>
+    <RequisitionPostalCode>75020</RequisitionPostalCode>
+    <RequisitionPrimaryOwnerFullName>BALLENGER&amp;#44; KELLI</RequisitionPrimaryOwnerFullName>
+    <DisplayCity>5020 TEXOMA PARKWAY BUILDING C&amp;#44;DENISON&amp;#44;TX</DisplayCity>
+    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=467</JobURL>
+  </Job>
+  <Job>
+    <RequisitionDivision>RETAIL</RequisitionDivision>
+    <RequisitionID>req475</RequisitionID>
+    <RequisitionLocation>00897-OAKWOOD HOMES #897</RequisitionLocation>
+    <JobCategory>Sales</JobCategory>
+    <RequisitionPosition>SALES PROFESSIONAL</RequisitionPosition>
+    <RequisitionDisplayJobTitle>Oakwood Homes Sales Professional - Lexington&amp;#44; SC</RequisitionDisplayJobTitle>
+    <RequisitionAddress1>5017 SUNSET BLVD</RequisitionAddress1>
+    <RequisitionAddress2></RequisitionAddress2>
+    <RequisitionCity>LEXINGTON</RequisitionCity>
+    <RequisitionState>SC</RequisitionState>
+    <RequisitionPostalCode>29072</RequisitionPostalCode>
+    <RequisitionPrimaryOwnerFullName>HINSON&amp;#44; HANNAH</RequisitionPrimaryOwnerFullName>
+    <DisplayCity>5017 SUNSET BLVD &amp;#44;LEXINGTON&amp;#44;SC</DisplayCity>
+    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=475</JobURL>
+  </Job>
+  <Job>
+    <RequisitionDivision>RETAIL</RequisitionDivision>
+    <RequisitionID>req471</RequisitionID>
+    <RequisitionLocation>00642-FREEDOM HOMES #642</RequisitionLocation>
+    <JobCategory>Sales</JobCategory>
+    <RequisitionPosition>SALES PROFESSIONAL</RequisitionPosition>
+    <RequisitionDisplayJobTitle>Freedom Homes Sales Professional - Ripley&amp;#44; WV</RequisitionDisplayJobTitle>
+    <RequisitionAddress1>3097 CHARLESTON ROAD</RequisitionAddress1>
+    <RequisitionAddress2></RequisitionAddress2>
+    <RequisitionCity>RIPLEY</RequisitionCity>
+    <RequisitionState>WV</RequisitionState>
+    <RequisitionPostalCode>25271</RequisitionPostalCode>
+    <RequisitionPrimaryOwnerFullName>KEMP&amp;#44; JENNIFER</RequisitionPrimaryOwnerFullName>
+    <DisplayCity>3097 CHARLESTON ROAD &amp;#44;RIPLEY&amp;#44;WV</DisplayCity>
+    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=471</JobURL>
+  </Job>
+  <Job>
+    <RequisitionDivision>RETAIL</RequisitionDivision>
+    <RequisitionID>req472</RequisitionID>
+    <RequisitionLocation>00140-CLAYTON HOMES #140</RequisitionLocation>
+    <JobCategory>Sales</JobCategory>
+    <RequisitionPosition>SALES PROFESSIONAL</RequisitionPosition>
+    <RequisitionDisplayJobTitle>Clayton Homes Sales Professional Roseburg&amp;#44; TX</RequisitionDisplayJobTitle>
+    <RequisitionAddress1>2919 FIRST STREET HWY 36</RequisitionAddress1>
+    <RequisitionAddress2></RequisitionAddress2>
+    <RequisitionCity>ROSENBURG</RequisitionCity>
+    <RequisitionState>TX</RequisitionState>
+    <RequisitionPostalCode>77471</RequisitionPostalCode>
     <RequisitionPrimaryOwnerFullName>CHILES&amp;#44; SUE</RequisitionPrimaryOwnerFullName>
-    <DisplayCity>27641 TOMBALL PARKWAY &amp;#44;TOMBALL&amp;#44;TX</DisplayCity>
-    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=436</JobURL>
-  </Job>
-  <Job>
-    <RequisitionDivision>RETAIL</RequisitionDivision>
-    <RequisitionID>req447</RequisitionID>
-    <RequisitionLocation>00087-CLAYTON HOMES #87</RequisitionLocation>
-    <JobCategory>Sales</JobCategory>
-    <RequisitionPosition>SALES PROFESSIONAL</RequisitionPosition>
-    <RequisitionDisplayJobTitle>Clayton Homes Sales Professional - Dunn&amp;#44; NC</RequisitionDisplayJobTitle>
-    <RequisitionAddress1>2001 W CUMBERLAND STREET</RequisitionAddress1>
-    <RequisitionAddress2></RequisitionAddress2>
-    <RequisitionCity>DUNN</RequisitionCity>
-    <RequisitionState>NC</RequisitionState>
-    <RequisitionPostalCode>28335</RequisitionPostalCode>
-    <RequisitionPrimaryOwnerFullName>WILLIAMS&amp;#44; JOHN</RequisitionPrimaryOwnerFullName>
-    <DisplayCity>2001 W CUMBERLAND STREET &amp;#44;DUNN&amp;#44;NC</DisplayCity>
-    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=447</JobURL>
-  </Job>
-  <Job>
-    <RequisitionDivision>RETAIL</RequisitionDivision>
-    <RequisitionID>req448</RequisitionID>
-    <RequisitionLocation>00208-CLAYTON HOMES #208</RequisitionLocation>
-    <JobCategory>Sales</JobCategory>
-    <RequisitionPosition>SALES PROFESSIONAL</RequisitionPosition>
-    <RequisitionDisplayJobTitle>Clayton Homes Sales Professional - Lumberton&amp;#44; NC</RequisitionDisplayJobTitle>
-    <RequisitionAddress1>6684 HWY 41 NORTH</RequisitionAddress1>
-    <RequisitionAddress2></RequisitionAddress2>
-    <RequisitionCity>LUMBERTON</RequisitionCity>
-    <RequisitionState>NC</RequisitionState>
-    <RequisitionPostalCode>28358</RequisitionPostalCode>
-    <RequisitionPrimaryOwnerFullName>WILLIAMS&amp;#44; JOHN</RequisitionPrimaryOwnerFullName>
-    <DisplayCity>6684 HWY 41 NORTH &amp;#44;LUMBERTON&amp;#44;NC</DisplayCity>
-    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=448</JobURL>
+    <DisplayCity>2919 FIRST STREET HWY 36 &amp;#44;ROSENBURG&amp;#44;TX</DisplayCity>
+    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=472</JobURL>
   </Job>
   <Job>
     <RequisitionDivision>RETAIL</RequisitionDivision>
@@ -3010,131 +3074,131 @@
   </Job>
   <Job>
     <RequisitionDivision>RETAIL</RequisitionDivision>
-    <RequisitionID>req488</RequisitionID>
-    <RequisitionLocation>00858-CLAYTON HOMES #858</RequisitionLocation>
+    <RequisitionID>req525</RequisitionID>
+    <RequisitionLocation>00191-CLAYTON HOMES #191</RequisitionLocation>
     <JobCategory>Sales</JobCategory>
     <RequisitionPosition>SALES PROFESSIONAL</RequisitionPosition>
-    <RequisitionDisplayJobTitle>Clayton Homes Sales Professional - Longview&amp;#44; TX</RequisitionDisplayJobTitle>
-    <RequisitionAddress1>4695 ESTES PARKWAY</RequisitionAddress1>
+    <RequisitionDisplayJobTitle>Clayton Homes Sales Professional - Greenville&amp;#44; NC</RequisitionDisplayJobTitle>
+    <RequisitionAddress1>3876 U S HIGHWAY 264 EAST</RequisitionAddress1>
     <RequisitionAddress2></RequisitionAddress2>
-    <RequisitionCity>LONGVIEW</RequisitionCity>
-    <RequisitionState>TX</RequisitionState>
-    <RequisitionPostalCode>75603</RequisitionPostalCode>
-    <RequisitionPrimaryOwnerFullName>BALLENGER&amp;#44; KELLI</RequisitionPrimaryOwnerFullName>
-    <DisplayCity>4695 ESTES PARKWAY &amp;#44;LONGVIEW&amp;#44;TX</DisplayCity>
-    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=488</JobURL>
-  </Job>
-  <Job>
-    <RequisitionDivision>RETAIL</RequisitionDivision>
-    <RequisitionID>req486</RequisitionID>
-    <RequisitionLocation>00851-CLAYTON HOMES #851</RequisitionLocation>
-    <JobCategory>Sales</JobCategory>
-    <RequisitionPosition>SALES PROFESSIONAL</RequisitionPosition>
-    <RequisitionDisplayJobTitle>Clayton Homes Sales Professional - Sweetwater&amp;#44; TN</RequisitionDisplayJobTitle>
-    <RequisitionAddress1>449 TENNESSEE HWY 68</RequisitionAddress1>
-    <RequisitionAddress2></RequisitionAddress2>
-    <RequisitionCity>SWEETWATER</RequisitionCity>
-    <RequisitionState>TN</RequisitionState>
-    <RequisitionPostalCode>37874</RequisitionPostalCode>
-    <RequisitionPrimaryOwnerFullName>HAGOOD&amp;#44; MICHAEL</RequisitionPrimaryOwnerFullName>
-    <DisplayCity>449 TENNESSEE HWY 68 &amp;#44;SWEETWATER&amp;#44;TN</DisplayCity>
-    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=486</JobURL>
-  </Job>
-  <Job>
-    <RequisitionDivision>RETAIL</RequisitionDivision>
-    <RequisitionID>req484</RequisitionID>
-    <RequisitionLocation>00717-OAKWOOD HOMES #717</RequisitionLocation>
-    <JobCategory>Sales</JobCategory>
-    <RequisitionPosition>SALES PROFESSIONAL</RequisitionPosition>
-    <RequisitionDisplayJobTitle>Oakwood Homes Sales Professional - Eden NC</RequisitionDisplayJobTitle>
-    <RequisitionAddress1>916 S VAN BUREN RD</RequisitionAddress1>
-    <RequisitionAddress2></RequisitionAddress2>
-    <RequisitionCity>EDEN</RequisitionCity>
+    <RequisitionCity>GREENVILLE</RequisitionCity>
     <RequisitionState>NC</RequisitionState>
-    <RequisitionPostalCode>27288</RequisitionPostalCode>
+    <RequisitionPostalCode>27834</RequisitionPostalCode>
     <RequisitionPrimaryOwnerFullName>WILLIAMS&amp;#44; JOHN</RequisitionPrimaryOwnerFullName>
-    <DisplayCity>916 S VAN BUREN RD &amp;#44;EDEN&amp;#44;NC</DisplayCity>
-    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=484</JobURL>
+    <DisplayCity>3876 U S HIGHWAY 264 EAST &amp;#44;GREENVILLE&amp;#44;NC</DisplayCity>
+    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=525</JobURL>
   </Job>
   <Job>
     <RequisitionDivision>RETAIL</RequisitionDivision>
-    <RequisitionID>req481</RequisitionID>
-    <RequisitionLocation>00785-CLAYTON HOMES #785</RequisitionLocation>
+    <RequisitionID>req526</RequisitionID>
+    <RequisitionLocation>00150-CLAYTON HOMES #150</RequisitionLocation>
     <JobCategory>Sales</JobCategory>
     <RequisitionPosition>SALES PROFESSIONAL</RequisitionPosition>
-    <RequisitionDisplayJobTitle>Clayton Homes Sales Professional - Hattiesburg&amp;#44; MS</RequisitionDisplayJobTitle>
-    <RequisitionAddress1>7325 HIGHWAY 49</RequisitionAddress1>
+    <RequisitionDisplayJobTitle>Clayton Homes Sales Professional - Amarillo&amp;#44; TX</RequisitionDisplayJobTitle>
+    <RequisitionAddress1>5000 AMARILLO BOULEVARD EAST</RequisitionAddress1>
+    <RequisitionAddress2></RequisitionAddress2>
+    <RequisitionCity>AMARILLO</RequisitionCity>
+    <RequisitionState>TX</RequisitionState>
+    <RequisitionPostalCode>79107</RequisitionPostalCode>
+    <RequisitionPrimaryOwnerFullName>BALLENGER&amp;#44; KELLI</RequisitionPrimaryOwnerFullName>
+    <DisplayCity>5000 AMARILLO BOULEVARD EAST &amp;#44;AMARILLO&amp;#44;TX</DisplayCity>
+    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=526</JobURL>
+  </Job>
+  <Job>
+    <RequisitionDivision>RETAIL</RequisitionDivision>
+    <RequisitionID>req527</RequisitionID>
+    <RequisitionLocation>01015-CLAYTON HOMES #1015</RequisitionLocation>
+    <JobCategory>Sales</JobCategory>
+    <RequisitionPosition>SALES PROFESSIONAL</RequisitionPosition>
+    <RequisitionDisplayJobTitle>Clayton Homes Sales Professional - Coeburn&amp;#44; VA</RequisitionDisplayJobTitle>
+    <RequisitionAddress1>11416 NORTON COEBURN ROAD</RequisitionAddress1>
+    <RequisitionAddress2></RequisitionAddress2>
+    <RequisitionCity>COEBURN</RequisitionCity>
+    <RequisitionState>VA</RequisitionState>
+    <RequisitionPostalCode>24230</RequisitionPostalCode>
+    <RequisitionPrimaryOwnerFullName>WILLIAMS&amp;#44; JOHN</RequisitionPrimaryOwnerFullName>
+    <DisplayCity>11416 NORTON COEBURN ROAD &amp;#44;COEBURN&amp;#44;VA</DisplayCity>
+    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=527</JobURL>
+  </Job>
+  <Job>
+    <RequisitionDivision>RETAIL</RequisitionDivision>
+    <RequisitionID>req530</RequisitionID>
+    <RequisitionLocation>01017-CLAYTON HOMES #1017</RequisitionLocation>
+    <JobCategory>Sales</JobCategory>
+    <RequisitionPosition>SALES PROFESSIONAL</RequisitionPosition>
+    <RequisitionDisplayJobTitle>Clayton Homes Sales Professional - Georgetown&amp;#44; IN</RequisitionDisplayJobTitle>
+    <RequisitionAddress1>1151 W KNABLE RD</RequisitionAddress1>
+    <RequisitionAddress2></RequisitionAddress2>
+    <RequisitionCity>GEORGETOWN</RequisitionCity>
+    <RequisitionState>IN</RequisitionState>
+    <RequisitionPostalCode>47122</RequisitionPostalCode>
+    <RequisitionPrimaryOwnerFullName>KEMP&amp;#44; JENNIFER</RequisitionPrimaryOwnerFullName>
+    <DisplayCity>1151 W KNABLE RD &amp;#44;GEORGETOWN&amp;#44;IN</DisplayCity>
+    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=530</JobURL>
+  </Job>
+  <Job>
+    <RequisitionDivision>RETAIL</RequisitionDivision>
+    <RequisitionID>req531</RequisitionID>
+    <RequisitionLocation>00162-CLAYTON HOMES #162</RequisitionLocation>
+    <JobCategory>Sales</JobCategory>
+    <RequisitionPosition>SALES PROFESSIONAL</RequisitionPosition>
+    <RequisitionDisplayJobTitle>Clayton Homes Sales Professional - Mt. Airy&amp;#44; NC</RequisitionDisplayJobTitle>
+    <RequisitionAddress1>1044 N ANDY GRIFFITH PKY</RequisitionAddress1>
+    <RequisitionAddress2></RequisitionAddress2>
+    <RequisitionCity>MT. AIRY</RequisitionCity>
+    <RequisitionState>NC</RequisitionState>
+    <RequisitionPostalCode>27030</RequisitionPostalCode>
+    <RequisitionPrimaryOwnerFullName>WILLIAMS&amp;#44; JOHN</RequisitionPrimaryOwnerFullName>
+    <DisplayCity>1044 N ANDY GRIFFITH PKY &amp;#44;MT. AIRY&amp;#44;NC</DisplayCity>
+    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=531</JobURL>
+  </Job>
+  <Job>
+    <RequisitionDivision>RETAIL</RequisitionDivision>
+    <RequisitionID>req520</RequisitionID>
+    <RequisitionLocation>00817-CLAYTON HOMES #817</RequisitionLocation>
+    <JobCategory>Sales</JobCategory>
+    <RequisitionPosition>SALES PROFESSIONAL</RequisitionPosition>
+    <RequisitionDisplayJobTitle>Clayton Homes Sales Professional - Festus&amp;#44; MO</RequisitionDisplayJobTitle>
+    <RequisitionAddress1>2786 MEYER ROAD</RequisitionAddress1>
+    <RequisitionAddress2></RequisitionAddress2>
+    <RequisitionCity>FESTUS</RequisitionCity>
+    <RequisitionState>MO</RequisitionState>
+    <RequisitionPostalCode>63028</RequisitionPostalCode>
+    <RequisitionPrimaryOwnerFullName>KEMP&amp;#44; JENNIFER</RequisitionPrimaryOwnerFullName>
+    <DisplayCity>2786 MEYER ROAD &amp;#44;FESTUS&amp;#44;MO</DisplayCity>
+    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=520</JobURL>
+  </Job>
+  <Job>
+    <RequisitionDivision>RETAIL</RequisitionDivision>
+    <RequisitionID>req522</RequisitionID>
+    <RequisitionLocation>00793-CLAYTON HOMES #793</RequisitionLocation>
+    <JobCategory>Sales</JobCategory>
+    <RequisitionPosition>SALES PROFESSIONAL</RequisitionPosition>
+    <RequisitionDisplayJobTitle>Sales Professional Jasper&amp;#44; AL</RequisitionDisplayJobTitle>
+    <RequisitionAddress1>13140 HWY 78</RequisitionAddress1>
+    <RequisitionAddress2></RequisitionAddress2>
+    <RequisitionCity>JASPER</RequisitionCity>
+    <RequisitionState>AL</RequisitionState>
+    <RequisitionPostalCode>35501</RequisitionPostalCode>
+    <RequisitionPrimaryOwnerFullName>HAGOOD&amp;#44; MICHAEL</RequisitionPrimaryOwnerFullName>
+    <DisplayCity>13140 HWY 78 &amp;#44;JASPER&amp;#44;AL</DisplayCity>
+    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=522</JobURL>
+  </Job>
+  <Job>
+    <RequisitionDivision>RETAIL</RequisitionDivision>
+    <RequisitionID>req523</RequisitionID>
+    <RequisitionLocation>00614-FREEDOM HOMES #614</RequisitionLocation>
+    <JobCategory>Sales</JobCategory>
+    <RequisitionPosition>SALES PROFESSIONAL</RequisitionPosition>
+    <RequisitionDisplayJobTitle>Freedom Homes Sales Professional - Hattiesburg&amp;#44; MS</RequisitionDisplayJobTitle>
+    <RequisitionAddress1>6896 HWY 49 NORTH</RequisitionAddress1>
     <RequisitionAddress2></RequisitionAddress2>
     <RequisitionCity>HATTIESBURG</RequisitionCity>
     <RequisitionState>MS</RequisitionState>
     <RequisitionPostalCode>39402</RequisitionPostalCode>
     <RequisitionPrimaryOwnerFullName>HAGOOD&amp;#44; MICHAEL</RequisitionPrimaryOwnerFullName>
-    <DisplayCity>7325 HIGHWAY 49 &amp;#44;HATTIESBURG&amp;#44;MS</DisplayCity>
-    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=481</JobURL>
-  </Job>
-  <Job>
-    <RequisitionDivision>RETAIL</RequisitionDivision>
-    <RequisitionID>req467</RequisitionID>
-    <RequisitionLocation>00272-CLAYTON HOMES #272</RequisitionLocation>
-    <JobCategory>Sales</JobCategory>
-    <RequisitionPosition>SALES PROFESSIONAL</RequisitionPosition>
-    <RequisitionDisplayJobTitle>Clayton Homes Sales Professional - Denison&amp;#44; Tx</RequisitionDisplayJobTitle>
-    <RequisitionAddress1>5020 TEXOMA PARKWAY</RequisitionAddress1>
-    <RequisitionAddress2>BUILDING C</RequisitionAddress2>
-    <RequisitionCity>DENISON</RequisitionCity>
-    <RequisitionState>TX</RequisitionState>
-    <RequisitionPostalCode>75020</RequisitionPostalCode>
-    <RequisitionPrimaryOwnerFullName>BALLENGER&amp;#44; KELLI</RequisitionPrimaryOwnerFullName>
-    <DisplayCity>5020 TEXOMA PARKWAY BUILDING C&amp;#44;DENISON&amp;#44;TX</DisplayCity>
-    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=467</JobURL>
-  </Job>
-  <Job>
-    <RequisitionDivision>RETAIL</RequisitionDivision>
-    <RequisitionID>req475</RequisitionID>
-    <RequisitionLocation>00897-OAKWOOD HOMES #897</RequisitionLocation>
-    <JobCategory>Sales</JobCategory>
-    <RequisitionPosition>SALES PROFESSIONAL</RequisitionPosition>
-    <RequisitionDisplayJobTitle>Oakwood Homes Sales Professional - Lexington&amp;#44; SC</RequisitionDisplayJobTitle>
-    <RequisitionAddress1>5017 SUNSET BLVD</RequisitionAddress1>
-    <RequisitionAddress2></RequisitionAddress2>
-    <RequisitionCity>LEXINGTON</RequisitionCity>
-    <RequisitionState>SC</RequisitionState>
-    <RequisitionPostalCode>29072</RequisitionPostalCode>
-    <RequisitionPrimaryOwnerFullName>HINSON&amp;#44; HANNAH</RequisitionPrimaryOwnerFullName>
-    <DisplayCity>5017 SUNSET BLVD &amp;#44;LEXINGTON&amp;#44;SC</DisplayCity>
-    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=475</JobURL>
-  </Job>
-  <Job>
-    <RequisitionDivision>RETAIL</RequisitionDivision>
-    <RequisitionID>req471</RequisitionID>
-    <RequisitionLocation>00642-FREEDOM HOMES #642</RequisitionLocation>
-    <JobCategory>Sales</JobCategory>
-    <RequisitionPosition>SALES PROFESSIONAL</RequisitionPosition>
-    <RequisitionDisplayJobTitle>Freedom Homes Sales Professional - Ripley&amp;#44; WV</RequisitionDisplayJobTitle>
-    <RequisitionAddress1>3097 CHARLESTON ROAD</RequisitionAddress1>
-    <RequisitionAddress2></RequisitionAddress2>
-    <RequisitionCity>RIPLEY</RequisitionCity>
-    <RequisitionState>WV</RequisitionState>
-    <RequisitionPostalCode>25271</RequisitionPostalCode>
-    <RequisitionPrimaryOwnerFullName>KEMP&amp;#44; JENNIFER</RequisitionPrimaryOwnerFullName>
-    <DisplayCity>3097 CHARLESTON ROAD &amp;#44;RIPLEY&amp;#44;WV</DisplayCity>
-    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=471</JobURL>
-  </Job>
-  <Job>
-    <RequisitionDivision>RETAIL</RequisitionDivision>
-    <RequisitionID>req472</RequisitionID>
-    <RequisitionLocation>00140-CLAYTON HOMES #140</RequisitionLocation>
-    <JobCategory>Sales</JobCategory>
-    <RequisitionPosition>SALES PROFESSIONAL</RequisitionPosition>
-    <RequisitionDisplayJobTitle>Clayton Homes Sales Professional Roseburg&amp;#44; TX</RequisitionDisplayJobTitle>
-    <RequisitionAddress1>2919 FIRST STREET HWY 36</RequisitionAddress1>
-    <RequisitionAddress2></RequisitionAddress2>
-    <RequisitionCity>ROSENBURG</RequisitionCity>
-    <RequisitionState>TX</RequisitionState>
-    <RequisitionPostalCode>77471</RequisitionPostalCode>
-    <RequisitionPrimaryOwnerFullName>CHILES&amp;#44; SUE</RequisitionPrimaryOwnerFullName>
-    <DisplayCity>2919 FIRST STREET HWY 36 &amp;#44;ROSENBURG&amp;#44;TX</DisplayCity>
-    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=472</JobURL>
+    <DisplayCity>6896 HWY 49 NORTH &amp;#44;HATTIESBURG&amp;#44;MS</DisplayCity>
+    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=523</JobURL>
   </Job>
   <Job>
     <RequisitionDivision>VANDERBILT</RequisitionDivision>
@@ -3215,22 +3279,6 @@
     <RequisitionPrimaryOwnerFullName>UPTON&amp;#44; MARY</RequisitionPrimaryOwnerFullName>
     <DisplayCity>500 Alcoa Trail &amp;#44;MARYVILLE&amp;#44;TN</DisplayCity>
     <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=22</JobURL>
-  </Job>
-  <Job>
-    <RequisitionDivision>VANDERBILT</RequisitionDivision>
-    <RequisitionID>req515</RequisitionID>
-    <RequisitionLocation>HOME-HOME OFFICE</RequisitionLocation>
-    <JobCategory>Customer Service</JobCategory>
-    <RequisitionPosition>VMF CALL CTR AGNT T4</RequisitionPosition>
-    <RequisitionDisplayJobTitle>VMF Call Center Agent VCC004</RequisitionDisplayJobTitle>
-    <RequisitionAddress1>500 Alcoa Trail</RequisitionAddress1>
-    <RequisitionAddress2></RequisitionAddress2>
-    <RequisitionCity>MARYVILLE</RequisitionCity>
-    <RequisitionState>TN</RequisitionState>
-    <RequisitionPostalCode>37804</RequisitionPostalCode>
-    <RequisitionPrimaryOwnerFullName>UPTON&amp;#44; MARY</RequisitionPrimaryOwnerFullName>
-    <DisplayCity>500 Alcoa Trail &amp;#44;MARYVILLE&amp;#44;TN</DisplayCity>
-    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=515</JobURL>
   </Job>
   <Job>
     <RequisitionDivision>VANDERBILT</RequisitionDivision>
@@ -3398,7 +3446,7 @@
     <RequisitionLocation>HOME-HOME OFFICE</RequisitionLocation>
     <JobCategory>Government</JobCategory>
     <RequisitionPosition>VMF FHA STIPUL CLEAR REP</RequisitionPosition>
-    <RequisitionDisplayJobTitle>VMF FHA Title I Stipulations Clearing Representative - Maryville&amp;#44; TN</RequisitionDisplayJobTitle>
+    <RequisitionDisplayJobTitle>VMF FHA Title I Stipulations Clearing Representative</RequisitionDisplayJobTitle>
     <RequisitionAddress1>500 Alcoa Trail</RequisitionAddress1>
     <RequisitionAddress2></RequisitionAddress2>
     <RequisitionCity>MARYVILLE</RequisitionCity>
@@ -3426,6 +3474,22 @@
   </Job>
   <Job>
     <RequisitionDivision>VANDERBILT</RequisitionDivision>
+    <RequisitionID>req532</RequisitionID>
+    <RequisitionLocation>HOME-HOME OFFICE</RequisitionLocation>
+    <JobCategory>Mortgage and Loan Servicing</JobCategory>
+    <RequisitionPosition>VMF AR - POD4/TM2</RequisitionPosition>
+    <RequisitionDisplayJobTitle>VMF Account Representative VAR036</RequisitionDisplayJobTitle>
+    <RequisitionAddress1>500 Alcoa Trail</RequisitionAddress1>
+    <RequisitionAddress2></RequisitionAddress2>
+    <RequisitionCity>MARYVILLE</RequisitionCity>
+    <RequisitionState>TN</RequisitionState>
+    <RequisitionPostalCode>37804</RequisitionPostalCode>
+    <RequisitionPrimaryOwnerFullName>UPTON&amp;#44; MARY</RequisitionPrimaryOwnerFullName>
+    <DisplayCity>500 Alcoa Trail &amp;#44;MARYVILLE&amp;#44;TN</DisplayCity>
+    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=532</JobURL>
+  </Job>
+  <Job>
+    <RequisitionDivision>VANDERBILT</RequisitionDivision>
     <RequisitionID>req474</RequisitionID>
     <RequisitionLocation>HOME-HOME OFFICE</RequisitionLocation>
     <JobCategory>Mortgage and Loan Servicing</JobCategory>
@@ -3439,69 +3503,5 @@
     <RequisitionPrimaryOwnerFullName>UPTON&amp;#44; MARY</RequisitionPrimaryOwnerFullName>
     <DisplayCity>500 Alcoa Trail &amp;#44;MARYVILLE&amp;#44;TN</DisplayCity>
     <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=474</JobURL>
-  </Job>
-  <Job>
-    <RequisitionDivision>RETAIL</RequisitionDivision>
-    <RequisitionID>req518</RequisitionID>
-    <RequisitionLocation>00793-CLAYTON HOMES #793</RequisitionLocation>
-    <JobCategory>Office and Administrative Support</JobCategory>
-    <RequisitionPosition>ADMIN</RequisitionPosition>
-    <RequisitionDisplayJobTitle>Clayton Homes Administrative Assistant - Jasper&amp;#44; AL</RequisitionDisplayJobTitle>
-    <RequisitionAddress1>13140 HWY 78</RequisitionAddress1>
-    <RequisitionAddress2></RequisitionAddress2>
-    <RequisitionCity>JASPER</RequisitionCity>
-    <RequisitionState>AL</RequisitionState>
-    <RequisitionPostalCode>35501</RequisitionPostalCode>
-    <RequisitionPrimaryOwnerFullName>HAGOOD&amp;#44; MICHAEL</RequisitionPrimaryOwnerFullName>
-    <DisplayCity>13140 HWY 78 &amp;#44;JASPER&amp;#44;AL</DisplayCity>
-    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=518</JobURL>
-  </Job>
-  <Job>
-    <RequisitionDivision>RETAIL</RequisitionDivision>
-    <RequisitionID>req520</RequisitionID>
-    <RequisitionLocation>00817-CLAYTON HOMES #817</RequisitionLocation>
-    <JobCategory>Sales</JobCategory>
-    <RequisitionPosition>SALES PROFESSIONAL</RequisitionPosition>
-    <RequisitionDisplayJobTitle>Clayton Homes Sales Professional - Festus&amp;#44; MO</RequisitionDisplayJobTitle>
-    <RequisitionAddress1>2786 MEYER ROAD</RequisitionAddress1>
-    <RequisitionAddress2></RequisitionAddress2>
-    <RequisitionCity>FESTUS</RequisitionCity>
-    <RequisitionState>MO</RequisitionState>
-    <RequisitionPostalCode>63028</RequisitionPostalCode>
-    <RequisitionPrimaryOwnerFullName>KEMP&amp;#44; JENNIFER</RequisitionPrimaryOwnerFullName>
-    <DisplayCity>2786 MEYER ROAD &amp;#44;FESTUS&amp;#44;MO</DisplayCity>
-    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=520</JobURL>
-  </Job>
-  <Job>
-    <RequisitionDivision>RETAIL</RequisitionDivision>
-    <RequisitionID>req522</RequisitionID>
-    <RequisitionLocation>00793-CLAYTON HOMES #793</RequisitionLocation>
-    <JobCategory>Sales</JobCategory>
-    <RequisitionPosition>SALES PROFESSIONAL</RequisitionPosition>
-    <RequisitionDisplayJobTitle>Sales Professional Jasper&amp;#44; AL</RequisitionDisplayJobTitle>
-    <RequisitionAddress1>13140 HWY 78</RequisitionAddress1>
-    <RequisitionAddress2></RequisitionAddress2>
-    <RequisitionCity>JASPER</RequisitionCity>
-    <RequisitionState>AL</RequisitionState>
-    <RequisitionPostalCode>35501</RequisitionPostalCode>
-    <RequisitionPrimaryOwnerFullName>HAGOOD&amp;#44; MICHAEL</RequisitionPrimaryOwnerFullName>
-    <DisplayCity>13140 HWY 78 &amp;#44;JASPER&amp;#44;AL</DisplayCity>
-    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=522</JobURL>
-  </Job>
-  <Job>
-    <RequisitionDivision>RETAIL</RequisitionDivision>
-    <RequisitionID>req523</RequisitionID>
-    <RequisitionLocation>00614-FREEDOM HOMES #614</RequisitionLocation>
-    <JobCategory>Sales</JobCategory>
-    <RequisitionPosition>SALES PROFESSIONAL</RequisitionPosition>
-    <RequisitionDisplayJobTitle>Freedom Homes Sales Professional - Hattiesburg&amp;#44; MS</RequisitionDisplayJobTitle>
-    <RequisitionAddress1>6896 HWY 49 NORTH</RequisitionAddress1>
-    <RequisitionAddress2></RequisitionAddress2>
-    <RequisitionCity>HATTIESBURG</RequisitionCity>
-    <RequisitionState>MS</RequisitionState>
-    <RequisitionPostalCode>39402</RequisitionPostalCode>
-    <RequisitionPrimaryOwnerFullName>HAGOOD&amp;#44; MICHAEL</RequisitionPrimaryOwnerFullName>
-    <DisplayCity>6896 HWY 49 NORTH &amp;#44;HATTIESBURG&amp;#44;MS</DisplayCity>
-    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=523</JobURL>
   </Job>
 </Jobs>
