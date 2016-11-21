@@ -130,6 +130,22 @@
   </Job>
   <Job>
     <RequisitionDivision>CMH SERVICES</RequisitionDivision>
+    <RequisitionID>req535</RequisitionID>
+    <RequisitionLocation>HOME-HOME OFFICE</RequisitionLocation>
+    <JobCategory>Information Technology</JobCategory>
+    <RequisitionPosition>ECM DEVELOPER II</RequisitionPosition>
+    <RequisitionDisplayJobTitle>ECM Engineer - Maryville&amp;#44; TN</RequisitionDisplayJobTitle>
+    <RequisitionAddress1>5000 CLAYTON RD</RequisitionAddress1>
+    <RequisitionAddress2></RequisitionAddress2>
+    <RequisitionCity>MARYVILLE</RequisitionCity>
+    <RequisitionState>TN</RequisitionState>
+    <RequisitionPostalCode>37804</RequisitionPostalCode>
+    <RequisitionPrimaryOwnerFullName>Benedetti&amp;#44; Tony</RequisitionPrimaryOwnerFullName>
+    <DisplayCity>5000 CLAYTON RD &amp;#44;MARYVILLE&amp;#44;TN</DisplayCity>
+    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=535</JobURL>
+  </Job>
+  <Job>
+    <RequisitionDivision>CMH SERVICES</RequisitionDivision>
     <RequisitionID>req174</RequisitionID>
     <RequisitionLocation>HOME-HOME OFFICE</RequisitionLocation>
     <JobCategory>Information Technology</JobCategory>
@@ -198,7 +214,7 @@
     <RequisitionLocation>HOME-HOME OFFICE</RequisitionLocation>
     <JobCategory>Information Technology</JobCategory>
     <RequisitionPosition>MSSQL APPLICATIONS DBA</RequisitionPosition>
-    <RequisitionDisplayJobTitle>MS SQL Applications DBA - Maryville&amp;#44; TN</RequisitionDisplayJobTitle>
+    <RequisitionDisplayJobTitle>MS SQL DBA - Maryville&amp;#44; TN</RequisitionDisplayJobTitle>
     <RequisitionAddress1>5000 CLAYTON RD</RequisitionAddress1>
     <RequisitionAddress2></RequisitionAddress2>
     <RequisitionCity>MARYVILLE</RequisitionCity>
@@ -207,6 +223,22 @@
     <RequisitionPrimaryOwnerFullName>Benedetti&amp;#44; Tony</RequisitionPrimaryOwnerFullName>
     <DisplayCity>5000 CLAYTON RD &amp;#44;MARYVILLE&amp;#44;TN</DisplayCity>
     <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=529</JobURL>
+  </Job>
+  <Job>
+    <RequisitionDivision>CMH SERVICES</RequisitionDivision>
+    <RequisitionID>req537</RequisitionID>
+    <RequisitionLocation>HOME-HOME OFFICE</RequisitionLocation>
+    <JobCategory>Information Technology</JobCategory>
+    <RequisitionPosition>NETWORK ENGINEER II-TM2</RequisitionPosition>
+    <RequisitionDisplayJobTitle>Microsoft Engineer - Maryville&amp;#44; TN</RequisitionDisplayJobTitle>
+    <RequisitionAddress1>5000 CLAYTON RD</RequisitionAddress1>
+    <RequisitionAddress2></RequisitionAddress2>
+    <RequisitionCity>MARYVILLE</RequisitionCity>
+    <RequisitionState>TN</RequisitionState>
+    <RequisitionPostalCode>37804</RequisitionPostalCode>
+    <RequisitionPrimaryOwnerFullName>Benedetti&amp;#44; Tony</RequisitionPrimaryOwnerFullName>
+    <DisplayCity>5000 CLAYTON RD &amp;#44;MARYVILLE&amp;#44;TN</DisplayCity>
+    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=537</JobURL>
   </Job>
   <Job>
     <RequisitionDivision>CMH SERVICES</RequisitionDivision>
@@ -277,7 +309,7 @@
     <RequisitionID>req235</RequisitionID>
     <RequisitionLocation>HOME-HOME OFFICE</RequisitionLocation>
     <JobCategory>Information Technology</JobCategory>
-    <RequisitionPosition>QUALITY ASSURANCE ANALYST</RequisitionPosition>
+    <RequisitionPosition>QA ANALYST</RequisitionPosition>
     <RequisitionDisplayJobTitle>Sr. Quality Assurance Analyst - Maryville&amp;#44; TN</RequisitionDisplayJobTitle>
     <RequisitionAddress1>5000 CLAYTON RD</RequisitionAddress1>
     <RequisitionAddress2></RequisitionAddress2>
@@ -322,6 +354,22 @@
   </Job>
   <Job>
     <RequisitionDivision>CMH SERVICES</RequisitionDivision>
+    <RequisitionID>req536</RequisitionID>
+    <RequisitionLocation>HOME-HOME OFFICE</RequisitionLocation>
+    <JobCategory>Information Technology</JobCategory>
+    <RequisitionPosition>SR SECURITY ANALYST</RequisitionPosition>
+    <RequisitionDisplayJobTitle>Web Security Analyst - Maryville&amp;#44; TN</RequisitionDisplayJobTitle>
+    <RequisitionAddress1>5000 CLAYTON RD</RequisitionAddress1>
+    <RequisitionAddress2></RequisitionAddress2>
+    <RequisitionCity>MARYVILLE</RequisitionCity>
+    <RequisitionState>TN</RequisitionState>
+    <RequisitionPostalCode>37804</RequisitionPostalCode>
+    <RequisitionPrimaryOwnerFullName>TESKE&amp;#44; JESSICA</RequisitionPrimaryOwnerFullName>
+    <DisplayCity>5000 CLAYTON RD &amp;#44;MARYVILLE&amp;#44;TN</DisplayCity>
+    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=536</JobURL>
+  </Job>
+  <Job>
+    <RequisitionDivision>CMH SERVICES</RequisitionDivision>
     <RequisitionID>req160</RequisitionID>
     <RequisitionLocation>HOME-HOME OFFICE</RequisitionLocation>
     <JobCategory>Information Technology</JobCategory>
@@ -358,7 +406,7 @@
     <RequisitionLocation>HOME-HOME OFFICE</RequisitionLocation>
     <JobCategory>Information Technology</JobCategory>
     <RequisitionPosition>WEB ENGINEER</RequisitionPosition>
-    <RequisitionDisplayJobTitle>Web Engineer - Maryville&amp;#44; TN</RequisitionDisplayJobTitle>
+    <RequisitionDisplayJobTitle>Web Server Engineer -IIS - Maryville&amp;#44; TN</RequisitionDisplayJobTitle>
     <RequisitionAddress1>5000 CLAYTON RD</RequisitionAddress1>
     <RequisitionAddress2></RequisitionAddress2>
     <RequisitionCity>MARYVILLE</RequisitionCity>
@@ -406,7 +454,7 @@
     <RequisitionLocation>HOME-HOME OFFICE</RequisitionLocation>
     <JobCategory>Insurance</JobCategory>
     <RequisitionPosition>HFA CLAIMS CARE REP I</RequisitionPosition>
-    <RequisitionDisplayJobTitle>HFA Claims Care Representative Bilingual - Maryville&amp;#44; TN</RequisitionDisplayJobTitle>
+    <RequisitionDisplayJobTitle>HFA Claims Care Representative - Maryville&amp;#44; TN</RequisitionDisplayJobTitle>
     <RequisitionAddress1>5000 CLAYTON RD</RequisitionAddress1>
     <RequisitionAddress2></RequisitionAddress2>
     <RequisitionCity>MARYVILLE</RequisitionCity>
@@ -468,7 +516,7 @@
     <RequisitionDivision>MANUFACTURING</RequisitionDivision>
     <RequisitionID>req480</RequisitionID>
     <RequisitionLocation>00934-APPALACHIA #934</RequisitionLocation>
-    <JobCategory>Installation&#44; Maintenance&#44; Repair</JobCategory>
+    <JobCategory>Installation, Maintenance, Repair</JobCategory>
     <RequisitionPosition>MAINTENANCE</RequisitionPosition>
     <RequisitionDisplayJobTitle>934 Clayton Appalachia-Facility Maintenance</RequisitionDisplayJobTitle>
     <RequisitionAddress1>1420 MOUNTAIN ROAD</RequisitionAddress1>
@@ -530,11 +578,11 @@
   </Job>
   <Job>
     <RequisitionDivision>MANUFACTURING</RequisitionDivision>
-    <RequisitionID>req517</RequisitionID>
+    <RequisitionID>req534</RequisitionID>
     <RequisitionLocation>00952-ATHENS #952</RequisitionLocation>
     <JobCategory>Sales</JobCategory>
     <RequisitionPosition>SALES COORDINATOR</RequisitionPosition>
-    <RequisitionDisplayJobTitle>Sales Coordinator</RequisitionDisplayJobTitle>
+    <RequisitionDisplayJobTitle>Clayton Athens Sales Coordinator - Athens&amp;#44; TX</RequisitionDisplayJobTitle>
     <RequisitionAddress1>3429 WEST STATE HWY 31</RequisitionAddress1>
     <RequisitionAddress2></RequisitionAddress2>
     <RequisitionCity>ATHENS</RequisitionCity>
@@ -542,7 +590,7 @@
     <RequisitionPostalCode>75751</RequisitionPostalCode>
     <RequisitionPrimaryOwnerFullName>PYTLAK&amp;#44; JEANNETTE</RequisitionPrimaryOwnerFullName>
     <DisplayCity>3429 WEST STATE HWY 31 &amp;#44;ATHENS&amp;#44;TX</DisplayCity>
-    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=517</JobURL>
+    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=534</JobURL>
   </Job>
   <Job>
     <RequisitionDivision>RETAIL</RequisitionDivision>
@@ -866,22 +914,6 @@
   </Job>
   <Job>
     <RequisitionDivision>RETAIL</RequisitionDivision>
-    <RequisitionID>req386</RequisitionID>
-    <RequisitionLocation>00095-CLAYTON HOMES #95</RequisitionLocation>
-    <JobCategory>Installation, Maintenance, Repair</JobCategory>
-    <RequisitionPosition>SERVICE TECHNICIAN</RequisitionPosition>
-    <RequisitionDisplayJobTitle>Clayton Homes Service Technician - Candler&amp;#44; NC</RequisitionDisplayJobTitle>
-    <RequisitionAddress1>1123 SMOKEY PARK HWY</RequisitionAddress1>
-    <RequisitionAddress2>SMOKEY PARKWAY</RequisitionAddress2>
-    <RequisitionCity>CANDLER</RequisitionCity>
-    <RequisitionState>NC</RequisitionState>
-    <RequisitionPostalCode>28715</RequisitionPostalCode>
-    <RequisitionPrimaryOwnerFullName>HINSON&amp;#44; HANNAH</RequisitionPrimaryOwnerFullName>
-    <DisplayCity>1123 SMOKEY PARK HWY SMOKEY PARKWAY&amp;#44;CANDLER&amp;#44;NC</DisplayCity>
-    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=386</JobURL>
-  </Job>
-  <Job>
-    <RequisitionDivision>RETAIL</RequisitionDivision>
     <RequisitionID>req296</RequisitionID>
     <RequisitionLocation>00090-CLAYTON HOMES #90</RequisitionLocation>
     <JobCategory>Installation, Maintenance, Repair</JobCategory>
@@ -1087,6 +1119,22 @@
     <RequisitionPrimaryOwnerFullName>HINSON&amp;#44; HANNAH</RequisitionPrimaryOwnerFullName>
     <DisplayCity>2493 HIGHWAY 501 EAST &amp;#44;CONWAY&amp;#44;SC</DisplayCity>
     <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=500</JobURL>
+  </Job>
+  <Job>
+    <RequisitionDivision>RETAIL</RequisitionDivision>
+    <RequisitionID>req533</RequisitionID>
+    <RequisitionLocation>00292-CLAYTON HOMES #292</RequisitionLocation>
+    <JobCategory>Installation, Maintenance, Repair</JobCategory>
+    <RequisitionPosition>SERVICE TECHNICIAN</RequisitionPosition>
+    <RequisitionDisplayJobTitle>Clayton Homes Service Technician - Evansville&amp;#44; IN</RequisitionDisplayJobTitle>
+    <RequisitionAddress1>19410 U.S. 41 NORTH</RequisitionAddress1>
+    <RequisitionAddress2></RequisitionAddress2>
+    <RequisitionCity>EVANSVILLE</RequisitionCity>
+    <RequisitionState>IN</RequisitionState>
+    <RequisitionPostalCode>47725</RequisitionPostalCode>
+    <RequisitionPrimaryOwnerFullName>KEMP&amp;#44; JENNIFER</RequisitionPrimaryOwnerFullName>
+    <DisplayCity>19410 U.S. 41 NORTH &amp;#44;EVANSVILLE&amp;#44;IN</DisplayCity>
+    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=533</JobURL>
   </Job>
   <Job>
     <RequisitionDivision>RETAIL</RequisitionDivision>
@@ -2322,22 +2370,6 @@
   </Job>
   <Job>
     <RequisitionDivision>RETAIL</RequisitionDivision>
-    <RequisitionID>req195</RequisitionID>
-    <RequisitionLocation>00639-FREEDOM HOMES #639</RequisitionLocation>
-    <JobCategory>Sales</JobCategory>
-    <RequisitionPosition>SALES PROFESSIONAL</RequisitionPosition>
-    <RequisitionDisplayJobTitle>Freedom Homes Sales Professional - Buckhannon&amp;#44; WV</RequisitionDisplayJobTitle>
-    <RequisitionAddress1>P.O. BOX 398, RT 33 EAST</RequisitionAddress1>
-    <RequisitionAddress2></RequisitionAddress2>
-    <RequisitionCity>BUCKHANNON</RequisitionCity>
-    <RequisitionState>WV</RequisitionState>
-    <RequisitionPostalCode>26201</RequisitionPostalCode>
-    <RequisitionPrimaryOwnerFullName>KEMP&amp;#44; JENNIFER</RequisitionPrimaryOwnerFullName>
-    <DisplayCity>P.O. BOX 398, RT 33 EAST &amp;#44;BUCKHANNON&amp;#44;WV</DisplayCity>
-    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=195</JobURL>
-  </Job>
-  <Job>
-    <RequisitionDivision>RETAIL</RequisitionDivision>
     <RequisitionID>req198</RequisitionID>
     <RequisitionLocation>00083-CLAYTON HOMES #83</RequisitionLocation>
     <JobCategory>Sales</JobCategory>
@@ -2847,6 +2879,38 @@
     <RequisitionPrimaryOwnerFullName>WILLIAMS&amp;#44; JOHN</RequisitionPrimaryOwnerFullName>
     <DisplayCity>11416 NORTON COEBURN ROAD &amp;#44;COEBURN&amp;#44;VA</DisplayCity>
     <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=527</JobURL>
+  </Job>
+  <Job>
+    <RequisitionDivision>RETAIL</RequisitionDivision>
+    <RequisitionID>req530</RequisitionID>
+    <RequisitionLocation>01017-CLAYTON HOMES #1017</RequisitionLocation>
+    <JobCategory>Sales</JobCategory>
+    <RequisitionPosition>SALES PROFESSIONAL</RequisitionPosition>
+    <RequisitionDisplayJobTitle>Clayton Homes Sales Professional - Georgetown&amp;#44; IN</RequisitionDisplayJobTitle>
+    <RequisitionAddress1>1151 W KNABLE RD</RequisitionAddress1>
+    <RequisitionAddress2></RequisitionAddress2>
+    <RequisitionCity>GEORGETOWN</RequisitionCity>
+    <RequisitionState>IN</RequisitionState>
+    <RequisitionPostalCode>47122</RequisitionPostalCode>
+    <RequisitionPrimaryOwnerFullName>KEMP&amp;#44; JENNIFER</RequisitionPrimaryOwnerFullName>
+    <DisplayCity>1151 W KNABLE RD &amp;#44;GEORGETOWN&amp;#44;IN</DisplayCity>
+    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=530</JobURL>
+  </Job>
+  <Job>
+    <RequisitionDivision>RETAIL</RequisitionDivision>
+    <RequisitionID>req531</RequisitionID>
+    <RequisitionLocation>00162-CLAYTON HOMES #162</RequisitionLocation>
+    <JobCategory>Sales</JobCategory>
+    <RequisitionPosition>SALES PROFESSIONAL</RequisitionPosition>
+    <RequisitionDisplayJobTitle>Clayton Homes Sales Professional - Mt. Airy&amp;#44; NC</RequisitionDisplayJobTitle>
+    <RequisitionAddress1>1044 N ANDY GRIFFITH PKY</RequisitionAddress1>
+    <RequisitionAddress2></RequisitionAddress2>
+    <RequisitionCity>MT. AIRY</RequisitionCity>
+    <RequisitionState>NC</RequisitionState>
+    <RequisitionPostalCode>27030</RequisitionPostalCode>
+    <RequisitionPrimaryOwnerFullName>WILLIAMS&amp;#44; JOHN</RequisitionPrimaryOwnerFullName>
+    <DisplayCity>1044 N ANDY GRIFFITH PKY &amp;#44;MT. AIRY&amp;#44;NC</DisplayCity>
+    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=531</JobURL>
   </Job>
   <Job>
     <RequisitionDivision>RETAIL</RequisitionDivision>
@@ -3471,6 +3535,38 @@
     <RequisitionPrimaryOwnerFullName>UPTON&amp;#44; MARY</RequisitionPrimaryOwnerFullName>
     <DisplayCity>500 Alcoa Trail &amp;#44;MARYVILLE&amp;#44;TN</DisplayCity>
     <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=516</JobURL>
+  </Job>
+  <Job>
+    <RequisitionDivision>VANDERBILT</RequisitionDivision>
+    <RequisitionID>req538</RequisitionID>
+    <RequisitionLocation>HOME-HOME OFFICE</RequisitionLocation>
+    <JobCategory>Marketing</JobCategory>
+    <RequisitionPosition>VMF DIRECT SALES MARKT SPECL</RequisitionPosition>
+    <RequisitionDisplayJobTitle>VMF Direct Sales and Marketing Specialist-Part Time - Maryville&amp;#44; TN</RequisitionDisplayJobTitle>
+    <RequisitionAddress1>500 Alcoa Trail</RequisitionAddress1>
+    <RequisitionAddress2></RequisitionAddress2>
+    <RequisitionCity>MARYVILLE</RequisitionCity>
+    <RequisitionState>TN</RequisitionState>
+    <RequisitionPostalCode>37804</RequisitionPostalCode>
+    <RequisitionPrimaryOwnerFullName>UPTON&amp;#44; MARY</RequisitionPrimaryOwnerFullName>
+    <DisplayCity>500 Alcoa Trail &amp;#44;MARYVILLE&amp;#44;TN</DisplayCity>
+    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=538</JobURL>
+  </Job>
+  <Job>
+    <RequisitionDivision>VANDERBILT</RequisitionDivision>
+    <RequisitionID>req532</RequisitionID>
+    <RequisitionLocation>HOME-HOME OFFICE</RequisitionLocation>
+    <JobCategory>Mortgage and Loan Servicing</JobCategory>
+    <RequisitionPosition>VMF AR - POD4/TM2</RequisitionPosition>
+    <RequisitionDisplayJobTitle>VMF Account Representative VAR036</RequisitionDisplayJobTitle>
+    <RequisitionAddress1>500 Alcoa Trail</RequisitionAddress1>
+    <RequisitionAddress2></RequisitionAddress2>
+    <RequisitionCity>MARYVILLE</RequisitionCity>
+    <RequisitionState>TN</RequisitionState>
+    <RequisitionPostalCode>37804</RequisitionPostalCode>
+    <RequisitionPrimaryOwnerFullName>UPTON&amp;#44; MARY</RequisitionPrimaryOwnerFullName>
+    <DisplayCity>500 Alcoa Trail &amp;#44;MARYVILLE&amp;#44;TN</DisplayCity>
+    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=532</JobURL>
   </Job>
   <Job>
     <RequisitionDivision>VANDERBILT</RequisitionDivision>
