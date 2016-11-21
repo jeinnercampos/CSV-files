@@ -3584,4 +3584,36 @@
     <DisplayCity>500 Alcoa Trail &amp;#44;MARYVILLE&amp;#44;TN</DisplayCity>
     <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=474</JobURL>
   </Job>
+  <Job>
+    <RequisitionDivision>RETAIL</RequisitionDivision>
+    <RequisitionID>req540</RequisitionID>
+    <RequisitionLocation>00655-CLAYTON HOMES #655</RequisitionLocation>
+    <JobCategory>Office and Administrative Support</JobCategory>
+    <RequisitionPosition>ADMIN</RequisitionPosition>
+    <RequisitionDisplayJobTitle>Clayton Homes Admin - Como&amp;#44; MS</RequisitionDisplayJobTitle>
+    <RequisitionAddress1>590 E OAK AVE</RequisitionAddress1>
+    <RequisitionAddress2></RequisitionAddress2>
+    <RequisitionCity>COMO</RequisitionCity>
+    <RequisitionState>MS</RequisitionState>
+    <RequisitionPostalCode>38619</RequisitionPostalCode>
+    <RequisitionPrimaryOwnerFullName>HAGOOD&amp;#44; MICHAEL</RequisitionPrimaryOwnerFullName>
+    <DisplayCity>590 E OAK AVE &amp;#44;COMO&amp;#44;MS</DisplayCity>
+    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=540</JobURL>
+  </Job>
+  <Job>
+    <RequisitionDivision>RETAIL</RequisitionDivision>
+    <RequisitionID>req541</RequisitionID>
+    <RequisitionLocation>01049-TRUVALUE HOMES #1049</RequisitionLocation>
+    <JobCategory>Sales</JobCategory>
+    <RequisitionPosition>SALES PROFESSIONAL</RequisitionPosition>
+    <RequisitionDisplayJobTitle>Tru Value Homes Sales Professional - Anniston&amp;#44; AL</RequisitionDisplayJobTitle>
+    <RequisitionAddress1>6962 HWY 431</RequisitionAddress1>
+    <RequisitionAddress2></RequisitionAddress2>
+    <RequisitionCity>ANNISTON</RequisitionCity>
+    <RequisitionState>AL</RequisitionState>
+    <RequisitionPostalCode>36206</RequisitionPostalCode>
+    <RequisitionPrimaryOwnerFullName>HAGOOD&amp;#44; MICHAEL</RequisitionPrimaryOwnerFullName>
+    <DisplayCity>6962 HWY 431 &amp;#44;ANNISTON&amp;#44;AL</DisplayCity>
+    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=541</JobURL>
+  </Job>
 </Jobs>
