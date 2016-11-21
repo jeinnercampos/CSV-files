@@ -516,7 +516,7 @@
     <RequisitionDivision>MANUFACTURING</RequisitionDivision>
     <RequisitionID>req480</RequisitionID>
     <RequisitionLocation>00934-APPALACHIA #934</RequisitionLocation>
-    <JobCategory>Installation, Maintenance, Repair</JobCategory>
+    <JobCategory>Installation&amp;#44; Maintenance&amp;#44; Repair</JobCategory>
     <RequisitionPosition>MAINTENANCE</RequisitionPosition>
     <RequisitionDisplayJobTitle>934 Clayton Appalachia-Facility Maintenance</RequisitionDisplayJobTitle>
     <RequisitionAddress1>1420 MOUNTAIN ROAD</RequisitionAddress1>
@@ -612,7 +612,7 @@
     <RequisitionDivision>RETAIL</RequisitionDivision>
     <RequisitionID>req159</RequisitionID>
     <RequisitionLocation>01067-G&amp;I HOMES #1067</RequisitionLocation>
-    <JobCategory>Installation, Maintenance, Repair</JobCategory>
+    <JobCategory>Installation&amp;#44; Maintenance&amp;#44; Repair</JobCategory>
     <RequisitionPosition>DRIVER</RequisitionPosition>
     <RequisitionDisplayJobTitle>G &amp; I Homes Driver - Frankfort&amp;#44; NY</RequisitionDisplayJobTitle>
     <RequisitionAddress1>2605 RT 5 HERKIMER RD</RequisitionAddress1>
@@ -628,7 +628,7 @@
     <RequisitionDivision>RETAIL</RequisitionDivision>
     <RequisitionID>req508</RequisitionID>
     <RequisitionLocation>01067-G&amp;I HOMES #1067</RequisitionLocation>
-    <JobCategory>Installation, Maintenance, Repair</JobCategory>
+    <JobCategory>Installation&amp;#44; Maintenance&amp;#44; Repair</JobCategory>
     <RequisitionPosition>INSTALLER</RequisitionPosition>
     <RequisitionDisplayJobTitle>G&amp;I Homes Installer - Frankfort&amp;#44; NY</RequisitionDisplayJobTitle>
     <RequisitionAddress1>2605 RT 5 HERKIMER RD</RequisitionAddress1>
@@ -644,7 +644,7 @@
     <RequisitionDivision>RETAIL</RequisitionDivision>
     <RequisitionID>req410</RequisitionID>
     <RequisitionLocation>00070-CLAYTON HOMES #70</RequisitionLocation>
-    <JobCategory>Installation, Maintenance, Repair</JobCategory>
+    <JobCategory>Installation&amp;#44; Maintenance&amp;#44; Repair</JobCategory>
     <RequisitionPosition>MAINTENANCE</RequisitionPosition>
     <RequisitionDisplayJobTitle>Clayton Homes Part -Time Maintenance - Charlottesville&amp;#44; VA</RequisitionDisplayJobTitle>
     <RequisitionAddress1>4301 SEMINOLE TRAIL</RequisitionAddress1>
@@ -660,7 +660,7 @@
     <RequisitionDivision>RETAIL</RequisitionDivision>
     <RequisitionID>req395</RequisitionID>
     <RequisitionLocation>00692-CLAYTON HOMES #692</RequisitionLocation>
-    <JobCategory>Installation, Maintenance, Repair</JobCategory>
+    <JobCategory>Installation&amp;#44; Maintenance&amp;#44; Repair</JobCategory>
     <RequisitionPosition>MAINTENANCE</RequisitionPosition>
     <RequisitionDisplayJobTitle>Clayton Homes Maintenance - Alexandria&amp;#44; LA</RequisitionDisplayJobTitle>
     <RequisitionAddress1>7500 COLISEUM BLVD</RequisitionAddress1>
@@ -676,7 +676,7 @@
     <RequisitionDivision>RETAIL</RequisitionDivision>
     <RequisitionID>req383</RequisitionID>
     <RequisitionLocation>01037-CLAYTON HOMES #1037</RequisitionLocation>
-    <JobCategory>Installation, Maintenance, Repair</JobCategory>
+    <JobCategory>Installation&amp;#44; Maintenance&amp;#44; Repair</JobCategory>
     <RequisitionPosition>PROJECT MANAGER</RequisitionPosition>
     <RequisitionDisplayJobTitle>Clayton Homes Project Manager - Grand Junction &amp;#44; CO</RequisitionDisplayJobTitle>
     <RequisitionAddress1>671 23 ROAD</RequisitionAddress1>
@@ -692,7 +692,7 @@
     <RequisitionDivision>RETAIL</RequisitionDivision>
     <RequisitionID>req208</RequisitionID>
     <RequisitionLocation>00361-CLAYTON HOMES #361</RequisitionLocation>
-    <JobCategory>Installation, Maintenance, Repair</JobCategory>
+    <JobCategory>Installation&amp;#44; Maintenance&amp;#44; Repair</JobCategory>
     <RequisitionPosition>SERVICE TECHNICIAN</RequisitionPosition>
     <RequisitionDisplayJobTitle>Clayton Homes Service Technician - Ringgold&amp;#44; GA</RequisitionDisplayJobTitle>
     <RequisitionAddress1>4303 BATTLEFIELD PKWY</RequisitionAddress1>
@@ -708,7 +708,7 @@
     <RequisitionDivision>RETAIL</RequisitionDivision>
     <RequisitionID>req188</RequisitionID>
     <RequisitionLocation>00833-CLAYTON HOMES #833</RequisitionLocation>
-    <JobCategory>Installation, Maintenance, Repair</JobCategory>
+    <JobCategory>Installation&amp;#44; Maintenance&amp;#44; Repair</JobCategory>
     <RequisitionPosition>SERVICE TECHNICIAN</RequisitionPosition>
     <RequisitionDisplayJobTitle>Clayton Homes Service Technician - Muskogee&amp;#44; OK</RequisitionDisplayJobTitle>
     <RequisitionAddress1>2235 N. 32ND ST</RequisitionAddress1>
@@ -724,7 +724,7 @@
     <RequisitionDivision>RETAIL</RequisitionDivision>
     <RequisitionID>req78</RequisitionID>
     <RequisitionLocation>00069-CLAYTON HOMES #69</RequisitionLocation>
-    <JobCategory>Installation, Maintenance, Repair</JobCategory>
+    <JobCategory>Installation&amp;#44; Maintenance&amp;#44; Repair</JobCategory>
     <RequisitionPosition>SERVICE TECHNICIAN</RequisitionPosition>
     <RequisitionDisplayJobTitle>Clayton Homes Service Technician - Athens&amp;#44; AL</RequisitionDisplayJobTitle>
     <RequisitionAddress1>1120 U.S. HWY 72 EAST</RequisitionAddress1>
@@ -740,7 +740,7 @@
     <RequisitionDivision>RETAIL</RequisitionDivision>
     <RequisitionID>req101</RequisitionID>
     <RequisitionLocation>00307-CLAYTON HOMES #307</RequisitionLocation>
-    <JobCategory>Installation, Maintenance, Repair</JobCategory>
+    <JobCategory>Installation&amp;#44; Maintenance&amp;#44; Repair</JobCategory>
     <RequisitionPosition>SERVICE TECHNICIAN</RequisitionPosition>
     <RequisitionDisplayJobTitle>Clayton Homes Service Technician - Dublin&amp;#44; VA</RequisitionDisplayJobTitle>
     <RequisitionAddress1>4810 CLEBURNE BLVD</RequisitionAddress1>
@@ -756,7 +756,7 @@
     <RequisitionDivision>RETAIL</RequisitionDivision>
     <RequisitionID>req110</RequisitionID>
     <RequisitionLocation>00277-CLAYTON HOMES #277</RequisitionLocation>
-    <JobCategory>Installation, Maintenance, Repair</JobCategory>
+    <JobCategory>Installation&amp;#44; Maintenance&amp;#44; Repair</JobCategory>
     <RequisitionPosition>SERVICE TECHNICIAN</RequisitionPosition>
     <RequisitionDisplayJobTitle>Clayton Homes Service Technician - Evans&amp;#44; CO</RequisitionDisplayJobTitle>
     <RequisitionAddress1>3455 WEST SERVICE ROAD</RequisitionAddress1>
@@ -772,7 +772,7 @@
     <RequisitionDivision>RETAIL</RequisitionDivision>
     <RequisitionID>req65</RequisitionID>
     <RequisitionLocation>01066-G&amp;I HOMES #1066</RequisitionLocation>
-    <JobCategory>Installation, Maintenance, Repair</JobCategory>
+    <JobCategory>Installation&amp;#44; Maintenance&amp;#44; Repair</JobCategory>
     <RequisitionPosition>SERVICE TECHNICIAN</RequisitionPosition>
     <RequisitionDisplayJobTitle>G&amp;I Homes Service Technician - Ballston Spa&amp;#44; NY</RequisitionDisplayJobTitle>
     <RequisitionAddress1>2138 DOUBLEDAY AVE</RequisitionAddress1>
@@ -788,7 +788,7 @@
     <RequisitionDivision>RETAIL</RequisitionDivision>
     <RequisitionID>req86</RequisitionID>
     <RequisitionLocation>00113-CLAYTON HOMES #113</RequisitionLocation>
-    <JobCategory>Installation, Maintenance, Repair</JobCategory>
+    <JobCategory>Installation&amp;#44; Maintenance&amp;#44; Repair</JobCategory>
     <RequisitionPosition>SERVICE TECHNICIAN</RequisitionPosition>
     <RequisitionDisplayJobTitle>Clayton Homes Service Technician - Greenville&amp;#44; SC</RequisitionDisplayJobTitle>
     <RequisitionAddress1>2351 NORTH PLEASANTBURG DRIVE</RequisitionAddress1>
@@ -804,7 +804,7 @@
     <RequisitionDivision>RETAIL</RequisitionDivision>
     <RequisitionID>req88</RequisitionID>
     <RequisitionLocation>00325-CLAYTON HOMES #325</RequisitionLocation>
-    <JobCategory>Installation, Maintenance, Repair</JobCategory>
+    <JobCategory>Installation&amp;#44; Maintenance&amp;#44; Repair</JobCategory>
     <RequisitionPosition>SERVICE TECHNICIAN</RequisitionPosition>
     <RequisitionDisplayJobTitle>Clayton Homes Service Technician - Charleston&amp;#44; SC</RequisitionDisplayJobTitle>
     <RequisitionAddress1>6581 RIVERS AVENUE</RequisitionAddress1>
@@ -820,7 +820,7 @@
     <RequisitionDivision>RETAIL</RequisitionDivision>
     <RequisitionID>req433</RequisitionID>
     <RequisitionLocation>01072-CLAYTON HOMES #1072</RequisitionLocation>
-    <JobCategory>Installation, Maintenance, Repair</JobCategory>
+    <JobCategory>Installation&amp;#44; Maintenance&amp;#44; Repair</JobCategory>
     <RequisitionPosition>SERVICE TECHNICIAN</RequisitionPosition>
     <RequisitionDisplayJobTitle>Clayton Homes Service Technician - Alvin&amp;#44; Tx</RequisitionDisplayJobTitle>
     <RequisitionAddress1>23378 STATE HWY 6</RequisitionAddress1>
@@ -836,7 +836,7 @@
     <RequisitionDivision>RETAIL</RequisitionDivision>
     <RequisitionID>req389</RequisitionID>
     <RequisitionLocation>00760-FREEDOM HOMES #760</RequisitionLocation>
-    <JobCategory>Installation, Maintenance, Repair</JobCategory>
+    <JobCategory>Installation&amp;#44; Maintenance&amp;#44; Repair</JobCategory>
     <RequisitionPosition>SERVICE TECHNICIAN</RequisitionPosition>
     <RequisitionDisplayJobTitle>Freedom Homes Service Technician - Gallipolis&amp;#44; OH</RequisitionDisplayJobTitle>
     <RequisitionAddress1>604 STATE RT 7 SOUTH</RequisitionAddress1>
@@ -852,7 +852,7 @@
     <RequisitionDivision>RETAIL</RequisitionDivision>
     <RequisitionID>req394</RequisitionID>
     <RequisitionLocation>00291-CLAYTON HOMES #291</RequisitionLocation>
-    <JobCategory>Installation, Maintenance, Repair</JobCategory>
+    <JobCategory>Installation&amp;#44; Maintenance&amp;#44; Repair</JobCategory>
     <RequisitionPosition>SERVICE TECHNICIAN</RequisitionPosition>
     <RequisitionDisplayJobTitle>Clayton Homes Service Technician - Kodak&amp;#44; TN</RequisitionDisplayJobTitle>
     <RequisitionAddress1>3110 WINFIELD DUNN PARKWAY HWY 66</RequisitionAddress1>
@@ -868,7 +868,7 @@
     <RequisitionDivision>RETAIL</RequisitionDivision>
     <RequisitionID>req331</RequisitionID>
     <RequisitionLocation>01064-G&amp;I HOMES #1064</RequisitionLocation>
-    <JobCategory>Installation, Maintenance, Repair</JobCategory>
+    <JobCategory>Installation&amp;#44; Maintenance&amp;#44; Repair</JobCategory>
     <RequisitionPosition>SERVICE TECHNICIAN</RequisitionPosition>
     <RequisitionDisplayJobTitle>G&amp;I Homes Service Technician - Whitney Point&amp;#44; NY</RequisitionDisplayJobTitle>
     <RequisitionAddress1>4976 STATE ROUTE 26</RequisitionAddress1>
@@ -884,7 +884,7 @@
     <RequisitionDivision>RETAIL</RequisitionDivision>
     <RequisitionID>req340</RequisitionID>
     <RequisitionLocation>01065-G&amp;I HOMES #1065</RequisitionLocation>
-    <JobCategory>Installation, Maintenance, Repair</JobCategory>
+    <JobCategory>Installation&amp;#44; Maintenance&amp;#44; Repair</JobCategory>
     <RequisitionPosition>SERVICE TECHNICIAN</RequisitionPosition>
     <RequisitionDisplayJobTitle>G&amp;I Homes Service Technician - Vernon&amp;#44; NY</RequisitionDisplayJobTitle>
     <RequisitionAddress1>5924 E. SENECA STREET</RequisitionAddress1>
@@ -900,7 +900,7 @@
     <RequisitionDivision>RETAIL</RequisitionDivision>
     <RequisitionID>req382</RequisitionID>
     <RequisitionLocation>00739-CLAYTON HOMES #739</RequisitionLocation>
-    <JobCategory>Installation, Maintenance, Repair</JobCategory>
+    <JobCategory>Installation&amp;#44; Maintenance&amp;#44; Repair</JobCategory>
     <RequisitionPosition>SERVICE TECHNICIAN</RequisitionPosition>
     <RequisitionDisplayJobTitle>Clayton Homes Service Technician - Denver&amp;#44; CO</RequisitionDisplayJobTitle>
     <RequisitionAddress1>6199 NORTH FEDERAL BLVD</RequisitionAddress1>
@@ -916,7 +916,7 @@
     <RequisitionDivision>RETAIL</RequisitionDivision>
     <RequisitionID>req296</RequisitionID>
     <RequisitionLocation>00090-CLAYTON HOMES #90</RequisitionLocation>
-    <JobCategory>Installation, Maintenance, Repair</JobCategory>
+    <JobCategory>Installation&amp;#44; Maintenance&amp;#44; Repair</JobCategory>
     <RequisitionPosition>SERVICE TECHNICIAN</RequisitionPosition>
     <RequisitionDisplayJobTitle>Clayton Homes Service Technician- Harrisonburg&amp;#44;VA</RequisitionDisplayJobTitle>
     <RequisitionAddress1>3820 SOUTH MAIN STREET</RequisitionAddress1>
@@ -932,7 +932,7 @@
     <RequisitionDivision>RETAIL</RequisitionDivision>
     <RequisitionID>req311</RequisitionID>
     <RequisitionLocation>00168-CLAYTON HOMES #168</RequisitionLocation>
-    <JobCategory>Installation, Maintenance, Repair</JobCategory>
+    <JobCategory>Installation&amp;#44; Maintenance&amp;#44; Repair</JobCategory>
     <RequisitionPosition>SERVICE TECHNICIAN</RequisitionPosition>
     <RequisitionDisplayJobTitle>Clayton Homes Service Technician - Shelby&amp;#44; NC</RequisitionDisplayJobTitle>
     <RequisitionAddress1>1640 EAST DIXON BOULEVARD</RequisitionAddress1>
@@ -948,7 +948,7 @@
     <RequisitionDivision>RETAIL</RequisitionDivision>
     <RequisitionID>req317</RequisitionID>
     <RequisitionLocation>00675-OAKWOOD HOMES #675</RequisitionLocation>
-    <JobCategory>Installation, Maintenance, Repair</JobCategory>
+    <JobCategory>Installation&amp;#44; Maintenance&amp;#44; Repair</JobCategory>
     <RequisitionPosition>SERVICE TECHNICIAN</RequisitionPosition>
     <RequisitionDisplayJobTitle>Oakwood Homes Service Technician - Amarillo&amp;#44; TX</RequisitionDisplayJobTitle>
     <RequisitionAddress1>8301 CANYON DR</RequisitionAddress1>
@@ -964,7 +964,7 @@
     <RequisitionDivision>RETAIL</RequisitionDivision>
     <RequisitionID>req278</RequisitionID>
     <RequisitionLocation>00607-CLAYTON HOMES #607</RequisitionLocation>
-    <JobCategory>Installation, Maintenance, Repair</JobCategory>
+    <JobCategory>Installation&amp;#44; Maintenance&amp;#44; Repair</JobCategory>
     <RequisitionPosition>SERVICE TECHNICIAN</RequisitionPosition>
     <RequisitionDisplayJobTitle>Clayton Homes Service Technician - Albertville&amp;#44; AL</RequisitionDisplayJobTitle>
     <RequisitionAddress1>8691 US HWY 431</RequisitionAddress1>
@@ -980,7 +980,7 @@
     <RequisitionDivision>RETAIL</RequisitionDivision>
     <RequisitionID>req329</RequisitionID>
     <RequisitionLocation>00077-CLAYTON HOMES #77</RequisitionLocation>
-    <JobCategory>Installation, Maintenance, Repair</JobCategory>
+    <JobCategory>Installation&amp;#44; Maintenance&amp;#44; Repair</JobCategory>
     <RequisitionPosition>SERVICE TECHNICIAN</RequisitionPosition>
     <RequisitionDisplayJobTitle>Clayton Homes Service Technician - Chester&amp;#44; VA</RequisitionDisplayJobTitle>
     <RequisitionAddress1>11716 JEFFERSON DAVIS HIGHWAY</RequisitionAddress1>
@@ -996,7 +996,7 @@
     <RequisitionDivision>RETAIL</RequisitionDivision>
     <RequisitionID>req466</RequisitionID>
     <RequisitionLocation>00830-CLAYTON HOMES #830</RequisitionLocation>
-    <JobCategory>Installation, Maintenance, Repair</JobCategory>
+    <JobCategory>Installation&amp;#44; Maintenance&amp;#44; Repair</JobCategory>
     <RequisitionPosition>SERVICE TECHNICIAN</RequisitionPosition>
     <RequisitionDisplayJobTitle>Clayton Homes Service Technician - Houma&amp;#44; LA</RequisitionDisplayJobTitle>
     <RequisitionAddress1>3936 HWY 311</RequisitionAddress1>
@@ -1012,7 +1012,7 @@
     <RequisitionDivision>RETAIL</RequisitionDivision>
     <RequisitionID>req469</RequisitionID>
     <RequisitionLocation>00733-OAKWOOD HOMES #733</RequisitionLocation>
-    <JobCategory>Installation, Maintenance, Repair</JobCategory>
+    <JobCategory>Installation&amp;#44; Maintenance&amp;#44; Repair</JobCategory>
     <RequisitionPosition>SERVICE TECHNICIAN</RequisitionPosition>
     <RequisitionDisplayJobTitle>Oakwood Homes Service Technician - Tulsa&amp;#44; Ok</RequisitionDisplayJobTitle>
     <RequisitionAddress1>12547 E SKELLY DRIVE</RequisitionAddress1>
@@ -1028,7 +1028,7 @@
     <RequisitionDivision>RETAIL</RequisitionDivision>
     <RequisitionID>req453</RequisitionID>
     <RequisitionLocation>00270-CLAYTON HOMES #270</RequisitionLocation>
-    <JobCategory>Installation, Maintenance, Repair</JobCategory>
+    <JobCategory>Installation&amp;#44; Maintenance&amp;#44; Repair</JobCategory>
     <RequisitionPosition>SERVICE TECHNICIAN</RequisitionPosition>
     <RequisitionDisplayJobTitle>Clayton Homes Service Technician - Bossier City&amp;#44; LA</RequisitionDisplayJobTitle>
     <RequisitionAddress1>3730 EAST TEXAS STREET</RequisitionAddress1>
@@ -1044,7 +1044,7 @@
     <RequisitionDivision>RETAIL</RequisitionDivision>
     <RequisitionID>req482</RequisitionID>
     <RequisitionLocation>00251-CLAYTON HOMES #251</RequisitionLocation>
-    <JobCategory>Installation, Maintenance, Repair</JobCategory>
+    <JobCategory>Installation&amp;#44; Maintenance&amp;#44; Repair</JobCategory>
     <RequisitionPosition>SERVICE TECHNICIAN</RequisitionPosition>
     <RequisitionDisplayJobTitle>Clayton Homes Service Technician - Crestview&amp;#44; FL</RequisitionDisplayJobTitle>
     <RequisitionAddress1>5208 SOUTH FERDON</RequisitionAddress1>
@@ -1060,7 +1060,7 @@
     <RequisitionDivision>RETAIL</RequisitionDivision>
     <RequisitionID>req485</RequisitionID>
     <RequisitionLocation>00898-CLAYTON HOMES #898</RequisitionLocation>
-    <JobCategory>Installation, Maintenance, Repair</JobCategory>
+    <JobCategory>Installation&amp;#44; Maintenance&amp;#44; Repair</JobCategory>
     <RequisitionPosition>SERVICE TECHNICIAN</RequisitionPosition>
     <RequisitionDisplayJobTitle>Clayton Homes Service Technician - Paducah&amp;#44; KY</RequisitionDisplayJobTitle>
     <RequisitionAddress1>5960 US HWY 60 WEST</RequisitionAddress1>
@@ -1076,7 +1076,7 @@
     <RequisitionDivision>RETAIL</RequisitionDivision>
     <RequisitionID>req489</RequisitionID>
     <RequisitionLocation>00138-CLAYTON HOMES #138</RequisitionLocation>
-    <JobCategory>Installation, Maintenance, Repair</JobCategory>
+    <JobCategory>Installation&amp;#44; Maintenance&amp;#44; Repair</JobCategory>
     <RequisitionPosition>SERVICE TECHNICIAN</RequisitionPosition>
     <RequisitionDisplayJobTitle>Clayton Homes Service Technician - Victoria&amp;#44; Tx</RequisitionDisplayJobTitle>
     <RequisitionAddress1>1708 HOUSTON HIGHWAY</RequisitionAddress1>
@@ -1092,7 +1092,7 @@
     <RequisitionDivision>RETAIL</RequisitionDivision>
     <RequisitionID>req499</RequisitionID>
     <RequisitionLocation>01058-CLAYTON HOMES #1058</RequisitionLocation>
-    <JobCategory>Installation, Maintenance, Repair</JobCategory>
+    <JobCategory>Installation&amp;#44; Maintenance&amp;#44; Repair</JobCategory>
     <RequisitionPosition>SERVICE TECHNICIAN</RequisitionPosition>
     <RequisitionDisplayJobTitle>Clayton Homes Service Technician - Frazeysburg&amp;#44; OH</RequisitionDisplayJobTitle>
     <RequisitionAddress1>6810 RAIDERS RD</RequisitionAddress1>
@@ -1108,7 +1108,7 @@
     <RequisitionDivision>RETAIL</RequisitionDivision>
     <RequisitionID>req500</RequisitionID>
     <RequisitionLocation>00295-CLAYTON HOMES #295</RequisitionLocation>
-    <JobCategory>Installation, Maintenance, Repair</JobCategory>
+    <JobCategory>Installation&amp;#44; Maintenance&amp;#44; Repair</JobCategory>
     <RequisitionPosition>SERVICE TECHNICIAN</RequisitionPosition>
     <RequisitionDisplayJobTitle>Clayton Homes Service Technician - Conway&amp;#44; SC</RequisitionDisplayJobTitle>
     <RequisitionAddress1>2493 HIGHWAY 501 EAST</RequisitionAddress1>
@@ -1140,7 +1140,7 @@
     <RequisitionDivision>RETAIL</RequisitionDivision>
     <RequisitionID>req505</RequisitionID>
     <RequisitionLocation>00090-CLAYTON HOMES #90</RequisitionLocation>
-    <JobCategory>Installation, Maintenance, Repair</JobCategory>
+    <JobCategory>Installation&amp;#44; Maintenance&amp;#44; Repair</JobCategory>
     <RequisitionPosition>SERVICE TECHNICIAN</RequisitionPosition>
     <RequisitionDisplayJobTitle>Clayton Homes Service Technician- Harrisonburg&amp;#44;VA</RequisitionDisplayJobTitle>
     <RequisitionAddress1>3820 SOUTH MAIN STREET</RequisitionAddress1>
@@ -1156,7 +1156,7 @@
     <RequisitionDivision>RETAIL</RequisitionDivision>
     <RequisitionID>req507</RequisitionID>
     <RequisitionLocation>00085-CLAYTON HOMES #85</RequisitionLocation>
-    <JobCategory>Installation, Maintenance, Repair</JobCategory>
+    <JobCategory>Installation&amp;#44; Maintenance&amp;#44; Repair</JobCategory>
     <RequisitionPosition>SERVICE TECHNICIAN</RequisitionPosition>
     <RequisitionDisplayJobTitle>Clayton Homes Service Technician - Weber City&amp;#44; VA</RequisitionDisplayJobTitle>
     <RequisitionAddress1>527 STATE LINE CIRCLE</RequisitionAddress1>
@@ -1234,38 +1234,6 @@
   </Job>
   <Job>
     <RequisitionDivision>RETAIL</RequisitionDivision>
-    <RequisitionID>req451</RequisitionID>
-    <RequisitionLocation>00609-FREEDOM HOMES #609</RequisitionLocation>
-    <JobCategory>Office and Administrative Support</JobCategory>
-    <RequisitionPosition>ADMIN</RequisitionPosition>
-    <RequisitionDisplayJobTitle>Freedom Homes Admin - Donaldsonville&amp;#44; LA</RequisitionDisplayJobTitle>
-    <RequisitionAddress1>2393 HIGHWAY 70</RequisitionAddress1>
-    <RequisitionAddress2></RequisitionAddress2>
-    <RequisitionCity>DONALDSONVILLE</RequisitionCity>
-    <RequisitionState>LA</RequisitionState>
-    <RequisitionPostalCode>70346</RequisitionPostalCode>
-    <RequisitionPrimaryOwnerFullName>CHILES&amp;#44; SUE</RequisitionPrimaryOwnerFullName>
-    <DisplayCity>2393 HIGHWAY 70 &amp;#44;DONALDSONVILLE&amp;#44;LA</DisplayCity>
-    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=451</JobURL>
-  </Job>
-  <Job>
-    <RequisitionDivision>RETAIL</RequisitionDivision>
-    <RequisitionID>req492</RequisitionID>
-    <RequisitionLocation>01006-CLAYTON HOMES #1006</RequisitionLocation>
-    <JobCategory>Office and Administrative Support</JobCategory>
-    <RequisitionPosition>ADMIN</RequisitionPosition>
-    <RequisitionDisplayJobTitle>Clayton Homes Admin - Lumberton&amp;#44; TX</RequisitionDisplayJobTitle>
-    <RequisitionAddress1>513 N LUMBERTON HIGH SCHOOL RD</RequisitionAddress1>
-    <RequisitionAddress2></RequisitionAddress2>
-    <RequisitionCity>LUMBERTON</RequisitionCity>
-    <RequisitionState>TX</RequisitionState>
-    <RequisitionPostalCode>77657</RequisitionPostalCode>
-    <RequisitionPrimaryOwnerFullName>CHILES&amp;#44; SUE</RequisitionPrimaryOwnerFullName>
-    <DisplayCity>513 N LUMBERTON HIGH SCHOOL RD &amp;#44;LUMBERTON&amp;#44;TX</DisplayCity>
-    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=492</JobURL>
-  </Job>
-  <Job>
-    <RequisitionDivision>RETAIL</RequisitionDivision>
     <RequisitionID>req504</RequisitionID>
     <RequisitionLocation>00090-CLAYTON HOMES #90</RequisitionLocation>
     <JobCategory>Office and Administrative Support</JobCategory>
@@ -1311,6 +1279,38 @@
     <RequisitionPrimaryOwnerFullName>HINSON&amp;#44; HANNAH</RequisitionPrimaryOwnerFullName>
     <DisplayCity>2518 W PREDDY BLVD &amp;#44;GREENSBORO&amp;#44;NC</DisplayCity>
     <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=524</JobURL>
+  </Job>
+  <Job>
+    <RequisitionDivision>RETAIL</RequisitionDivision>
+    <RequisitionID>req451</RequisitionID>
+    <RequisitionLocation>00609-FREEDOM HOMES #609</RequisitionLocation>
+    <JobCategory>Office and Administrative Support</JobCategory>
+    <RequisitionPosition>ADMIN</RequisitionPosition>
+    <RequisitionDisplayJobTitle>Freedom Homes Admin - Donaldsonville&amp;#44; LA</RequisitionDisplayJobTitle>
+    <RequisitionAddress1>2393 HIGHWAY 70</RequisitionAddress1>
+    <RequisitionAddress2></RequisitionAddress2>
+    <RequisitionCity>DONALDSONVILLE</RequisitionCity>
+    <RequisitionState>LA</RequisitionState>
+    <RequisitionPostalCode>70346</RequisitionPostalCode>
+    <RequisitionPrimaryOwnerFullName>CHILES&amp;#44; SUE</RequisitionPrimaryOwnerFullName>
+    <DisplayCity>2393 HIGHWAY 70 &amp;#44;DONALDSONVILLE&amp;#44;LA</DisplayCity>
+    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=451</JobURL>
+  </Job>
+  <Job>
+    <RequisitionDivision>RETAIL</RequisitionDivision>
+    <RequisitionID>req492</RequisitionID>
+    <RequisitionLocation>01006-CLAYTON HOMES #1006</RequisitionLocation>
+    <JobCategory>Office and Administrative Support</JobCategory>
+    <RequisitionPosition>ADMIN</RequisitionPosition>
+    <RequisitionDisplayJobTitle>Clayton Homes Admin - Lumberton&amp;#44; TX</RequisitionDisplayJobTitle>
+    <RequisitionAddress1>513 N LUMBERTON HIGH SCHOOL RD</RequisitionAddress1>
+    <RequisitionAddress2></RequisitionAddress2>
+    <RequisitionCity>LUMBERTON</RequisitionCity>
+    <RequisitionState>TX</RequisitionState>
+    <RequisitionPostalCode>77657</RequisitionPostalCode>
+    <RequisitionPrimaryOwnerFullName>CHILES&amp;#44; SUE</RequisitionPrimaryOwnerFullName>
+    <DisplayCity>513 N LUMBERTON HIGH SCHOOL RD &amp;#44;LUMBERTON&amp;#44;TX</DisplayCity>
+    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=492</JobURL>
   </Job>
   <Job>
     <RequisitionDivision>RETAIL</RequisitionDivision>
@@ -2407,13 +2407,13 @@
     <JobCategory>Sales</JobCategory>
     <RequisitionPosition>SALES PROFESSIONAL</RequisitionPosition>
     <RequisitionDisplayJobTitle>Clayton Homes Sales Professional - Buckhannon&amp;#44; WV</RequisitionDisplayJobTitle>
-    <RequisitionAddress1>U.S. ROUTE 33, WEST</RequisitionAddress1>
+    <RequisitionAddress1>U.S. ROUTE 33&amp;#44; WEST</RequisitionAddress1>
     <RequisitionAddress2></RequisitionAddress2>
     <RequisitionCity>BUCKHANNON</RequisitionCity>
     <RequisitionState>WV</RequisitionState>
     <RequisitionPostalCode>26201</RequisitionPostalCode>
     <RequisitionPrimaryOwnerFullName>KEMP&amp;#44; JENNIFER</RequisitionPrimaryOwnerFullName>
-    <DisplayCity>U.S. ROUTE 33, WEST &amp;#44;BUCKHANNON&amp;#44;WV</DisplayCity>
+    <DisplayCity>U.S. ROUTE 33&amp;#44; WEST &amp;#44;BUCKHANNON&amp;#44;WV</DisplayCity>
     <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=202</JobURL>
   </Job>
   <Job>
@@ -3263,6 +3263,134 @@
     <RequisitionPrimaryOwnerFullName>BALLENGER&amp;#44; KELLI</RequisitionPrimaryOwnerFullName>
     <DisplayCity>3225 SW LOOP 410 &amp;#44;SAN ANTONIO&amp;#44;TX</DisplayCity>
     <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=465</JobURL>
+  </Job>
+  <Job>
+    <RequisitionDivision>RETAIL</RequisitionDivision>
+    <RequisitionID>req525</RequisitionID>
+    <RequisitionLocation>00191-CLAYTON HOMES #191</RequisitionLocation>
+    <JobCategory>Sales</JobCategory>
+    <RequisitionPosition>SALES PROFESSIONAL</RequisitionPosition>
+    <RequisitionDisplayJobTitle>Clayton Homes Sales Professional - Greenville&amp;#44; NC</RequisitionDisplayJobTitle>
+    <RequisitionAddress1>3876 U S HIGHWAY 264 EAST</RequisitionAddress1>
+    <RequisitionAddress2></RequisitionAddress2>
+    <RequisitionCity>GREENVILLE</RequisitionCity>
+    <RequisitionState>NC</RequisitionState>
+    <RequisitionPostalCode>27834</RequisitionPostalCode>
+    <RequisitionPrimaryOwnerFullName>WILLIAMS&amp;#44; JOHN</RequisitionPrimaryOwnerFullName>
+    <DisplayCity>3876 U S HIGHWAY 264 EAST &amp;#44;GREENVILLE&amp;#44;NC</DisplayCity>
+    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=525</JobURL>
+  </Job>
+  <Job>
+    <RequisitionDivision>RETAIL</RequisitionDivision>
+    <RequisitionID>req526</RequisitionID>
+    <RequisitionLocation>00150-CLAYTON HOMES #150</RequisitionLocation>
+    <JobCategory>Sales</JobCategory>
+    <RequisitionPosition>SALES PROFESSIONAL</RequisitionPosition>
+    <RequisitionDisplayJobTitle>Clayton Homes Sales Professional - Amarillo&amp;#44; TX</RequisitionDisplayJobTitle>
+    <RequisitionAddress1>5000 AMARILLO BOULEVARD EAST</RequisitionAddress1>
+    <RequisitionAddress2></RequisitionAddress2>
+    <RequisitionCity>AMARILLO</RequisitionCity>
+    <RequisitionState>TX</RequisitionState>
+    <RequisitionPostalCode>79107</RequisitionPostalCode>
+    <RequisitionPrimaryOwnerFullName>BALLENGER&amp;#44; KELLI</RequisitionPrimaryOwnerFullName>
+    <DisplayCity>5000 AMARILLO BOULEVARD EAST &amp;#44;AMARILLO&amp;#44;TX</DisplayCity>
+    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=526</JobURL>
+  </Job>
+  <Job>
+    <RequisitionDivision>RETAIL</RequisitionDivision>
+    <RequisitionID>req527</RequisitionID>
+    <RequisitionLocation>01015-CLAYTON HOMES #1015</RequisitionLocation>
+    <JobCategory>Sales</JobCategory>
+    <RequisitionPosition>SALES PROFESSIONAL</RequisitionPosition>
+    <RequisitionDisplayJobTitle>Clayton Homes Sales Professional - Coeburn&amp;#44; VA</RequisitionDisplayJobTitle>
+    <RequisitionAddress1>11416 NORTON COEBURN ROAD</RequisitionAddress1>
+    <RequisitionAddress2></RequisitionAddress2>
+    <RequisitionCity>COEBURN</RequisitionCity>
+    <RequisitionState>VA</RequisitionState>
+    <RequisitionPostalCode>24230</RequisitionPostalCode>
+    <RequisitionPrimaryOwnerFullName>WILLIAMS&amp;#44; JOHN</RequisitionPrimaryOwnerFullName>
+    <DisplayCity>11416 NORTON COEBURN ROAD &amp;#44;COEBURN&amp;#44;VA</DisplayCity>
+    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=527</JobURL>
+  </Job>
+  <Job>
+    <RequisitionDivision>RETAIL</RequisitionDivision>
+    <RequisitionID>req530</RequisitionID>
+    <RequisitionLocation>01017-CLAYTON HOMES #1017</RequisitionLocation>
+    <JobCategory>Sales</JobCategory>
+    <RequisitionPosition>SALES PROFESSIONAL</RequisitionPosition>
+    <RequisitionDisplayJobTitle>Clayton Homes Sales Professional - Georgetown&amp;#44; IN</RequisitionDisplayJobTitle>
+    <RequisitionAddress1>1151 W KNABLE RD</RequisitionAddress1>
+    <RequisitionAddress2></RequisitionAddress2>
+    <RequisitionCity>GEORGETOWN</RequisitionCity>
+    <RequisitionState>IN</RequisitionState>
+    <RequisitionPostalCode>47122</RequisitionPostalCode>
+    <RequisitionPrimaryOwnerFullName>KEMP&amp;#44; JENNIFER</RequisitionPrimaryOwnerFullName>
+    <DisplayCity>1151 W KNABLE RD &amp;#44;GEORGETOWN&amp;#44;IN</DisplayCity>
+    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=530</JobURL>
+  </Job>
+  <Job>
+    <RequisitionDivision>RETAIL</RequisitionDivision>
+    <RequisitionID>req531</RequisitionID>
+    <RequisitionLocation>00162-CLAYTON HOMES #162</RequisitionLocation>
+    <JobCategory>Sales</JobCategory>
+    <RequisitionPosition>SALES PROFESSIONAL</RequisitionPosition>
+    <RequisitionDisplayJobTitle>Clayton Homes Sales Professional - Mt. Airy&amp;#44; NC</RequisitionDisplayJobTitle>
+    <RequisitionAddress1>1044 N ANDY GRIFFITH PKY</RequisitionAddress1>
+    <RequisitionAddress2></RequisitionAddress2>
+    <RequisitionCity>MT. AIRY</RequisitionCity>
+    <RequisitionState>NC</RequisitionState>
+    <RequisitionPostalCode>27030</RequisitionPostalCode>
+    <RequisitionPrimaryOwnerFullName>WILLIAMS&amp;#44; JOHN</RequisitionPrimaryOwnerFullName>
+    <DisplayCity>1044 N ANDY GRIFFITH PKY &amp;#44;MT. AIRY&amp;#44;NC</DisplayCity>
+    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=531</JobURL>
+  </Job>
+  <Job>
+    <RequisitionDivision>RETAIL</RequisitionDivision>
+    <RequisitionID>req520</RequisitionID>
+    <RequisitionLocation>00817-CLAYTON HOMES #817</RequisitionLocation>
+    <JobCategory>Sales</JobCategory>
+    <RequisitionPosition>SALES PROFESSIONAL</RequisitionPosition>
+    <RequisitionDisplayJobTitle>Clayton Homes Sales Professional - Festus&amp;#44; MO</RequisitionDisplayJobTitle>
+    <RequisitionAddress1>2786 MEYER ROAD</RequisitionAddress1>
+    <RequisitionAddress2></RequisitionAddress2>
+    <RequisitionCity>FESTUS</RequisitionCity>
+    <RequisitionState>MO</RequisitionState>
+    <RequisitionPostalCode>63028</RequisitionPostalCode>
+    <RequisitionPrimaryOwnerFullName>KEMP&amp;#44; JENNIFER</RequisitionPrimaryOwnerFullName>
+    <DisplayCity>2786 MEYER ROAD &amp;#44;FESTUS&amp;#44;MO</DisplayCity>
+    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=520</JobURL>
+  </Job>
+  <Job>
+    <RequisitionDivision>RETAIL</RequisitionDivision>
+    <RequisitionID>req522</RequisitionID>
+    <RequisitionLocation>00793-CLAYTON HOMES #793</RequisitionLocation>
+    <JobCategory>Sales</JobCategory>
+    <RequisitionPosition>SALES PROFESSIONAL</RequisitionPosition>
+    <RequisitionDisplayJobTitle>Sales Professional Jasper&amp;#44; AL</RequisitionDisplayJobTitle>
+    <RequisitionAddress1>13140 HWY 78</RequisitionAddress1>
+    <RequisitionAddress2></RequisitionAddress2>
+    <RequisitionCity>JASPER</RequisitionCity>
+    <RequisitionState>AL</RequisitionState>
+    <RequisitionPostalCode>35501</RequisitionPostalCode>
+    <RequisitionPrimaryOwnerFullName>HAGOOD&amp;#44; MICHAEL</RequisitionPrimaryOwnerFullName>
+    <DisplayCity>13140 HWY 78 &amp;#44;JASPER&amp;#44;AL</DisplayCity>
+    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=522</JobURL>
+  </Job>
+  <Job>
+    <RequisitionDivision>RETAIL</RequisitionDivision>
+    <RequisitionID>req523</RequisitionID>
+    <RequisitionLocation>00614-FREEDOM HOMES #614</RequisitionLocation>
+    <JobCategory>Sales</JobCategory>
+    <RequisitionPosition>SALES PROFESSIONAL</RequisitionPosition>
+    <RequisitionDisplayJobTitle>Freedom Homes Sales Professional - Hattiesburg&amp;#44; MS</RequisitionDisplayJobTitle>
+    <RequisitionAddress1>6896 HWY 49 NORTH</RequisitionAddress1>
+    <RequisitionAddress2></RequisitionAddress2>
+    <RequisitionCity>HATTIESBURG</RequisitionCity>
+    <RequisitionState>MS</RequisitionState>
+    <RequisitionPostalCode>39402</RequisitionPostalCode>
+    <RequisitionPrimaryOwnerFullName>HAGOOD&amp;#44; MICHAEL</RequisitionPrimaryOwnerFullName>
+    <DisplayCity>6896 HWY 49 NORTH &amp;#44;HATTIESBURG&amp;#44;MS</DisplayCity>
+    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=523</JobURL>
   </Job>
   <Job>
     <RequisitionDivision>VANDERBILT</RequisitionDivision>
